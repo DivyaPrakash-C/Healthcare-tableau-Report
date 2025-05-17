@@ -1,0 +1,1001 @@
+Patient ID,Age,Diagnosis,Admission Date,Discharge Date,Length of Stay (Days),gender,weight_kg,medication,Treatment Cost ($),Department,States,Readmission (Yes/No),Satisfaction Score,Height (m^2),Type 2 Diabetes ,Cardiovascular Diseases,Fertility Issues,Social Stigma
+1,9,"Minimally displ Zone II fx sacrum, subs for fx w delay heal",12/6/2024,10/5/2024,37,Female,252.6,Trihexyphenidyl Hydrochloride,4599,Orthopedics,Montana,No,2,2.239,Middle level,NO,High level,High
+2,86,"Food in trachea causing asphyxiation, sequela",9/21/2024,11/10/2024,79,Male,113.4,ERYTHROMYCIN,977,General Medicine,Delaware,Yes,1,4.536,Initial stage,NO,High level,Low
+3,58,"Burn of third degree of unspecified palm, subs encntr",9/11/2024,7/19/2024,50,Female,192.7,Pravastatin Sodium,2489,General Medicine,Maine,Yes,8,2.36,Middle level,NO,Middle level,Severe
+4,55,"Fuchs' heterochromic cyclitis, right eye",5/9/2024,3/18/2024,44,Bigender,215.4,hydrocortisone,2275,Neurology,Delaware,No,7,4.615,Initial stage,NO,High level,Low
+5,17,"Breakdown (mechanical) of infusion catheter, subs encntr",11/12/2024,7/26/2024,6,Female,94.1,Metoprolol Tartrate,6855,Ophthalmology,Kentucky,Yes,2,3.133,Middle level,Yes,Middle level,Extreme
+6,13,Encounter for fitting and adjustment of other devices,7/21/2024,9/1/2024,50,Agender,245.5,Metoprolol Succinate,9060,Pediatrics,South Carolina,No,8,4.759,High level,NO,High level,Low
+7,91,"Displ seg fx shaft of r femur, subs for clos fx w routn heal",10/25/2024,3/7/2024,23,Male,167.8,Loperamide Hydrochloride,2242,Oncology,Montana,No,4,2.724,Initial stage,NO,Middle level,Severe
+8,38,Other complications of heart transplant,5/11/2024,8/7/2024,97,Male,115.4,CETYLPYRIDINIUM CHLORIDE,2888,Cardiology,Montana,Yes,5,4.858,Initial stage,Yes,Initial stage,Extreme
+9,12,"Injury of unspecified nerves of neck, sequela",11/21/2024,2/6/2025,90,Male,54.7,Valacyclovir Hydrochloride,5531,Oncology,Kentucky,Yes,8,3.615,Initial stage,NO,High level,Low
+10,90,"Unspecified fracture of unspecified acetabulum, sequela",2/28/2025,4/4/2024,33,Polygender,111.1,Vinorelbine,7141,Oncology,Kentucky,Yes,6,2.484,Middle level,NO,Initial stage,Low
+11,17,Motorcycle driver injured in collision w unsp mv nontraf,3/18/2024,5/4/2024,96,Male,95.5,Oxymetazoline Hydrochloride,2298,Oncology,Oregon,No,5,4.787,High level,Yes,Middle level,High
+12,57,"Nondisp fx of first metatarsal bone, left foot, init",1/16/2025,3/9/2024,55,Male,279.2,Budesonide,809,Neurology,Nevada,Yes,2,2.41,Middle level,NO,Middle level,Extreme
+13,14,"Minor laceration of left innominate or subclav art, subs",7/18/2024,6/1/2024,62,Genderqueer,292.2,Naproxen sodium,2730,Orthopedics,Nevada,Yes,4,2.683,Initial stage,Yes,High level,Extreme
+14,39,"Corrosion of second degree of right ear, initial encounter",11/5/2024,10/22/2024,66,Male,179.5,Aluminum zirconium tetrachlorohydrex gly,9201,Cardiology,South Carolina,No,7,4.642,Middle level,NO,High level,Severe
+15,15,Scleritis with corneal involvement,1/16/2025,8/26/2024,8,Female,257.2,"Apis mel., Arsenicum alb., Calc. carb., Dulcamara, Graphites, Hepar sulph. calc., Hydrastis, Hydrofluoricum acidum, Kali carb., Lycopodium, Mezereum, Oleander, Petroleum, Phosphoricum ac., Phosphorus, Rhus toxicodendron, Selenium, Sepia, Silicea, Sulphur, Thuja occ.",3716,General Medicine,Arizona,No,5,3.811,Initial stage,Yes,Middle level,Moderate
+16,1,Contus/lac right cerebrum w LOC of 6 hours to 24 hours,10/18/2024,7/11/2024,63,Male,293.9,Grama Grass,737,Ophthalmology,Nevada,No,3,2.676,High level,Yes,Middle level,Extreme
+17,20,"Spontaneous rupture of extensor tendons, right ank/ft",11/24/2024,5/4/2024,55,Male,29,Furosemide,7970,Ophthalmology,Kentucky,No,4,2.475,Middle level,Yes,High level,Extreme
+18,4,Aftercare following joint replacement surgery,8/5/2024,12/22/2024,79,Male,254,Losartan Potassium and Hydrochlorothiazide,835,Pediatrics,Montana,Yes,5,2.692,Middle level,Yes,High level,Moderate
+19,37,"Corrosion of first degree of unspecified wrist, init encntr",8/11/2024,3/25/2024,92,Male,238.6,Albumin Saline with Phenol,1918,Oncology,Maine,No,9,4.008,High level,NO,High level,Moderate
+20,97,Acquired absence of unspecified breast and nipple,1/26/2025,12/26/2024,13,Male,242,Lisinopril and Hydrochlorothiazide,9048,Pediatrics,Maine,Yes,10,4.694,Middle level,Yes,Initial stage,High
+21,67,Acquired stenosis of bilateral nasolacrimal duct,12/21/2024,8/6/2024,63,Male,200.3,Soft Cheat Brome,8863,Ophthalmology,Delaware,No,7,2.662,Initial stage,NO,High level,Extreme
+22,96,"Nondisp transverse fx shaft of unsp fibula, 7thP",4/3/2024,10/6/2024,93,Male,89,Atenolol,9300,Ophthalmology,Delaware,No,4,4.847,Initial stage,NO,High level,Moderate
+23,70,Moderate vulvar dysplasia,11/24/2024,8/1/2024,78,Male,135.9,amlodipine besylate and atorvastatin calcium,7901,Pediatrics,Delaware,No,7,4.556,High level,NO,Initial stage,Moderate
+24,88,"Leakage of infusion catheter, initial encounter",6/1/2024,12/25/2024,12,Genderqueer,107.3,mechlorethamine hydrochloride,9901,Cardiology,Oregon,No,10,4.492,Initial stage,Yes,Middle level,Low
+25,24,Nystagmus and other irregular eye movements,9/12/2024,2/28/2025,37,Male,260.3,Acetaminophen,4252,Ophthalmology,South Carolina,Yes,4,4.452,Initial stage,Yes,High level,Extreme
+26,27,"War operations involving oth dest arcrft, civilian, subs",4/3/2024,5/18/2024,13,Female,222.6,Amitriptyline Hydrochloride,7004,Orthopedics,Delaware,No,3,4.862,Initial stage,NO,High level,Extreme
+27,12,Idiopathic aseptic necrosis of tibia and fibula,1/27/2025,8/21/2024,48,Female,191.2,verapamil hydrochloride,2215,Ophthalmology,Arizona,Yes,3,3.825,Initial stage,NO,Middle level,Moderate
+28,21,"Nondisp fx of less trochanter of unsp femr, 7thJ",2/8/2025,7/3/2024,49,Male,26,fibrinogen human and thrombin human,4649,General Medicine,Montana,No,10,2.901,Middle level,Yes,High level,High
+29,94,"Subluxation of distal radioulnar joint of left wrist, subs",8/2/2024,11/25/2024,23,Male,104.6,Anticoagulant Citrate Phosphate Dextrose Adenine,7593,Pediatrics,Kentucky,Yes,8,3.903,High level,NO,Middle level,Low
+30,18,"Partial traumatic amputation at elbow level, left arm, init",7/3/2024,9/24/2024,89,Male,125.4,Zinc Oxide,1168,Ophthalmology,Montana,No,4,3.152,Initial stage,Yes,Middle level,Moderate
+31,67,Adverse effect of antacids and anti-gastric-secretion drugs,12/5/2024,8/6/2024,12,Male,214.5,quinapril,3045,Orthopedics,South Carolina,Yes,4,4.647,Initial stage,Yes,Initial stage,High
+32,45,"Stress fracture, right radius, subs for fx w routn heal",4/22/2024,4/11/2024,12,Female,77.4,SUMATRIPTAN SUCCINATE,6833,Neurology,Nevada,Yes,2,4.013,Initial stage,NO,Middle level,Low
+33,20,Type 1 diabetes mellitus with hypoglycemia with coma,8/10/2024,8/12/2024,81,Female,22.4,"Antiocoagulant Citrate Dextrose Solution, Formula A",6534,Oncology,Kentucky,Yes,1,3.996,Initial stage,NO,Initial stage,Low
+34,62,"Pasngr in pk-up/van inj in clsn w rail trn/veh in traf, subs",6/28/2024,7/5/2024,13,Male,56.8,"Chloroxylenol, Benzocaine, and Hydrocortisone Acetate",8209,Orthopedics,Arizona,Yes,7,4.491,High level,NO,Initial stage,High
+35,2,"Radiation sickness, unspecified, sequela",1/21/2025,9/21/2024,7,Female,222.2,Trichophyton Mixture,3881,Neurology,Kentucky,No,1,4.579,Initial stage,NO,High level,Extreme
+36,50,"Multiple perforations of tympanic membrane, bilateral",8/24/2024,7/27/2024,22,Female,178,Clarithromycin,8988,General Medicine,South Carolina,Yes,9,2.68,High level,Yes,High level,Severe
+37,30,"Other secondary kyphosis, cervicothoracic region",9/21/2024,7/3/2024,82,Female,148.5,"Octinoxate, Titanium Dioxide",1817,Ophthalmology,Nevada,No,1,4.226,Initial stage,NO,High level,High
+38,40,"Corrosion of third degree of lower back, subs encntr",7/14/2024,10/20/2024,54,Female,151,ALCOHOL,815,General Medicine,South Carolina,No,3,4.344,Initial stage,Yes,Initial stage,High
+39,61,Congenital malformations of lung,7/24/2024,2/27/2025,39,Male,181.8,Acetaminophen,3242,Orthopedics,Nevada,Yes,8,4.736,Initial stage,NO,Middle level,Severe
+40,17,"Nondisp commnt fx right patella, init for opn fx type I/2",3/31/2024,11/5/2024,93,Female,131.9,Bluegrass Annual,3107,Pediatrics,Montana,Yes,2,3.002,Initial stage,NO,Middle level,Moderate
+41,35,"Nondisp bicondylar fx l tibia, subs for clos fx w malunion",12/19/2024,8/20/2024,17,Bigender,29.6,"BENZALKONIUM CHLORIDE,BACITRACIN ZINC,NEOMYCIN SULFATE,POLYMYXIN B SULFATE, ETHYL ALCOHOL",3613,Ophthalmology,Maine,No,4,4.072,Middle level,NO,High level,Severe
+42,5,Abscess of bursa,9/16/2024,6/27/2024,47,Male,104.8,Sildenafil,4614,Pediatrics,Delaware,Yes,5,2.128,Middle level,Yes,High level,Moderate
+43,60,"Nondisp seg fx shaft of l tibia, 7thM",11/3/2024,9/11/2024,29,Genderqueer,160.9,"octinoxate, octisalate",6570,Oncology,Kentucky,No,1,4.29,Middle level,NO,Middle level,Severe
+44,20,"Corros unsp deg mult sites of r low limb, ex ank/ft, sqla",5/8/2024,2/5/2025,94,Male,160.1,Montelukast Sodium,3441,Oncology,South Carolina,No,8,2.316,High level,NO,High level,Low
+45,56,"Laceration of musc/fasc/tend at thigh level, unsp thigh",12/19/2024,1/29/2025,69,Male,93.8,Anhydrous Citric Acid and Sodium Bicarbonate,1944,Pediatrics,Montana,No,2,3.172,High level,Yes,Initial stage,Severe
+46,46,"Poisoning by lysergide [LSD], assault, sequela",5/3/2024,12/2/2024,20,Agender,287.3,DOG EPITHELIA,2681,Orthopedics,Nevada,Yes,2,4.416,Initial stage,Yes,Middle level,Extreme
+47,6,"Stiffness of unspecified hand, not elsewhere classified",1/31/2025,11/3/2024,45,Female,126.7,Menthol and Benzocaine,4651,Ophthalmology,Oregon,Yes,4,3.004,Middle level,NO,High level,Severe
+48,35,"Unspecified injury of left thigh, subsequent encounter",3/16/2024,1/11/2025,99,Female,29.2,"aluminum hydroxide, magnesium hydroxide, dimethicone",1682,Oncology,Delaware,Yes,2,3.032,Middle level,Yes,High level,Severe
+49,82,"Poisn by analeptics and opioid receptor antag, undet, init",11/26/2024,10/14/2024,29,Female,161.5,"Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Pseudoephedrine Hydrochloride",7249,Cardiology,Arizona,No,4,3.604,Middle level,NO,Middle level,Low
+50,19,"Sprain of tarsometatarsal ligament of unsp foot, sequela",12/23/2024,11/1/2024,68,Male,164.4,Diclofenac Sodium D/R,7979,Neurology,Montana,No,9,4.33,Initial stage,NO,Initial stage,Moderate
+51,78,"Nondisp spiral fx shaft of l fibula, 7thN",12/25/2024,7/24/2024,52,Female,158.2,sotalol hydrochloride,1748,Pediatrics,Maine,No,5,4.005,Initial stage,NO,High level,High
+52,52,"Disp fx of olecran pro w intartic extn r ulna, 7thK",11/19/2024,7/21/2024,91,Female,181.5,"TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",4542,General Medicine,South Carolina,Yes,7,4.719,Initial stage,NO,Initial stage,Extreme
+53,100,Laceration of other urinary and pelvic organ,9/27/2024,6/22/2024,23,Female,270.2,TITANIUM DIOXIDE,5100,Ophthalmology,Oregon,No,10,4.577,Middle level,NO,Middle level,Extreme
+54,78,Injury of femoral nerve at hip and thigh level,8/26/2024,2/16/2025,24,Male,276.2,Mirtazapine,4597,Orthopedics,Delaware,No,6,4.143,Initial stage,NO,Initial stage,Moderate
+55,98,"Anaphylactic reaction due to fruits and vegetables, subs",5/21/2024,11/24/2024,8,Male,50.8,"Berberis vulgaris, Bryonia alba, Carduus marianus, Chelidonium majus, Cholesterinum, Chichona officinalis, Colocynthis, Dioscorea villosa, Lycopodium clavatum, Natrum sulphuricum",5312,Ophthalmology,South Carolina,Yes,3,4.217,Initial stage,NO,Middle level,Moderate
+56,59,War operations involving fragments from weapons,10/1/2024,2/6/2025,44,Female,101,Pigweed Spiny,6388,General Medicine,Montana,Yes,9,2.193,Middle level,Yes,Middle level,High
+57,1,"Benign neoplasm, unspecified site",4/9/2024,12/12/2024,4,Male,285.5,Levonorgestrel and Ethinyl Estradiol,5136,Neurology,Nevada,No,8,3.901,High level,NO,Middle level,Low
+58,76,Other nutritional deficiencies,7/15/2024,11/28/2024,10,Female,170.4,Lovastatin,8497,Cardiology,Delaware,No,10,3.601,Middle level,NO,High level,Extreme
+59,92,Unsp complication of cardiac and vascular prosth dev/grft,11/26/2024,3/15/2024,5,Male,171.9,"avobenzone, homosalate, octisalate, octocrylene, oxybenzone",4786,Ophthalmology,Oregon,No,2,4.237,Middle level,NO,High level,High
+60,54,Inflammatory disorders of seminal vesicle,10/25/2024,2/3/2025,87,Male,146.9,"Acetaminophen, Diphenhydramine HCl",4912,Cardiology,Arizona,Yes,2,2.606,Middle level,Yes,Initial stage,Severe
+61,71,Hemorrhoids and perianal venous thrombosis,9/25/2024,2/2/2025,66,Male,287.9,granisetron hydrochloride,9094,Neurology,Arizona,Yes,9,2.571,Initial stage,Yes,Middle level,High
+62,76,"Other juvenile arthritis, unspecified shoulder",3/6/2024,11/24/2024,51,Male,25.5,Tolterodine Tartrate,3863,Cardiology,South Carolina,No,1,2.903,Middle level,NO,Initial stage,Moderate
+63,38,Myotonic muscular dystrophy,8/1/2024,1/28/2025,81,Male,40.7,Acetaminophen,9344,Cardiology,Delaware,No,9,4.024,Initial stage,Yes,Middle level,Moderate
+64,16,"Oth benign neoplasm skin/ right lower limb, including hip",4/6/2024,7/13/2024,1,Male,294,ANATHERUM MURICATUM,5594,Orthopedics,Delaware,Yes,1,3.332,High level,NO,Initial stage,Moderate
+65,10,"Complete traumatic MCP amputation of finger, sequela",8/4/2024,5/11/2024,8,Male,141.6,aprepitant,2400,Oncology,South Carolina,No,8,2.65,Middle level,Yes,Initial stage,Low
+66,40,"Traum rupt of collat ligmt of r rng fngr at MCP/IP jt, sqla",6/5/2024,8/3/2024,54,Female,148.9,methylprednisolone acetate,8314,General Medicine,Nevada,No,8,4.979,Middle level,Yes,Initial stage,Low
+67,17,"Unsp fracture of unsp talus, subs for fx w routn heal",10/28/2024,4/26/2024,55,Male,220.2,sodium fluoride,5302,Ophthalmology,Maine,No,7,3.868,Middle level,Yes,Initial stage,Moderate
+68,51,"Gonococcal cervicitis, unspecified",6/24/2024,10/5/2024,23,Female,199.9,Aurum 6,1622,Pediatrics,Kentucky,No,9,2.159,High level,Yes,High level,High
+69,45,"Traumatic rupture of unsp ligament of right wrist, init",12/4/2024,6/22/2024,28,Male,292.4,Miconazole Nitrate,8286,Pediatrics,Nevada,Yes,4,3.531,High level,Yes,High level,Extreme
+70,82,"Unspecified myringitis, unspecified ear",2/25/2025,12/24/2024,81,Female,296.4,"Homosalate, Octinoxate, Octisalate, Oxybenzone",8693,General Medicine,South Carolina,Yes,5,3.906,Initial stage,Yes,High level,High
+71,68,"Burn of unspecified degree of left palm, initial encounter",6/13/2024,10/20/2024,21,Male,142.4,Beef Liver,9137,Cardiology,Montana,Yes,2,2.903,High level,Yes,Initial stage,High
+72,36,Type 2 diabetes mellitus w diabetic chronic kidney disease,3/22/2024,12/15/2024,47,Male,102.5,ZINC OXIDE,8526,Neurology,Nevada,Yes,7,3.936,High level,NO,High level,Low
+73,45,"Low lying placenta NOS or without hemor, third trimester",11/7/2024,5/23/2024,60,Female,194.3,Bismuth subsalicylate,3669,Pediatrics,Montana,Yes,1,2.655,Initial stage,NO,Initial stage,Moderate
+74,4,"Brkdwn internal orthopedic devices, implants and grafts",10/29/2024,11/3/2024,62,Male,227.5,Zinc Oxide,2553,Ophthalmology,Montana,Yes,10,4.392,Initial stage,Yes,Initial stage,Extreme
+75,30,"Poisn by unsp drugs aff the autonm nrv sys, slf-hrm, subs",5/26/2024,7/31/2024,59,Male,55.5,HYDROQUINONE,7418,Cardiology,Nevada,No,7,2.243,High level,Yes,Initial stage,Extreme
+76,84,"Sltr-haris Type II physeal fx upper end of l tibia, sequela",7/6/2024,7/29/2024,2,Male,149.2,Lisinopril,9820,General Medicine,Maine,No,1,4.983,Initial stage,NO,Middle level,Low
+77,37,Chronic dacryocystitis of left lacrimal passage,8/24/2024,9/4/2024,85,Female,277.3,tolterodine tartrate,4005,Orthopedics,Kentucky,No,7,2.146,Initial stage,Yes,Middle level,Moderate
+78,50,Car driver injured in nonclsn transport accident in traf,8/4/2024,11/24/2024,66,Male,48.7,Magnesium hydroxide,9018,Pediatrics,Montana,Yes,8,3.593,High level,Yes,Initial stage,Low
+79,76,"External constriction of right index finger, sequela",6/27/2024,2/14/2025,56,Female,286.6,Glyburide,7515,Oncology,Maine,Yes,6,3.415,Initial stage,Yes,Middle level,Low
+80,93,"Contact with explosive material, undetermined intent",9/24/2024,5/9/2024,39,Female,140.1,captopril,8277,Orthopedics,Maine,Yes,10,4.49,High level,Yes,Middle level,Extreme
+81,1,"Toxic effect of venom of reptiles, accidental, sequela",6/16/2024,7/21/2024,34,Female,282.9,Sotalol Hydrochloride,4284,Orthopedics,Arizona,Yes,7,2.272,Middle level,NO,High level,Low
+82,43,"Open bite of unsp eyelid and periocular area, init encntr",6/26/2024,4/4/2024,43,Female,161.5,SALICYLIC ACID,647,General Medicine,Maine,Yes,3,3.429,High level,NO,Initial stage,High
+83,64,"Unspecified disorder of synovium and tendon, upper arm",8/1/2024,8/4/2024,90,Genderfluid,226.1,SIMETHICONE,762,Neurology,Nevada,Yes,1,2.181,Middle level,Yes,High level,Low
+84,10,Diaphragmatic hernia without obstruction or gangrene,9/18/2024,12/28/2024,57,Male,177.3,Dimethicone,3114,Ophthalmology,Delaware,Yes,6,2.405,Initial stage,NO,Middle level,High
+85,52,Oth intraop cardiac functional disturb during oth surgery,4/23/2024,10/6/2024,64,Bigender,205.1,AP House Dust Mix,8488,Cardiology,Kentucky,Yes,4,3.699,High level,Yes,Middle level,High
+86,23,"Sltr-haris Type II physeal fx lower end of l femur, sequela",4/7/2024,4/29/2024,35,Male,238.5,Oxygen,4754,General Medicine,Oregon,No,9,2.47,Middle level,NO,Middle level,Moderate
+87,87,"Unsp car occupant injured in clsn w 2/3-whl mv in traf, init",11/10/2024,7/1/2024,35,Female,198.1,"avobenzone, homosalate, octisalate, octocrylene",6993,Orthopedics,Kentucky,No,2,3.741,High level,NO,High level,Extreme
+88,31,"Strain flexor musc/fasc/tend r idx fngr at wrs/hnd lv, subs",3/30/2024,9/30/2024,14,Male,168.9,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,9962,Orthopedics,Maine,No,8,2.924,Initial stage,Yes,High level,High
+89,42,"Person inj in unsp nonmotor-vehicle acc, nontraf, sequela",2/20/2025,5/4/2024,61,Male,112,enoxaparin sodium,2449,Neurology,Arizona,Yes,1,2.475,High level,Yes,High level,Extreme
+90,37,Unspecified injury of bronchus,10/18/2024,3/29/2024,97,Male,162.2,Cephalexin,3706,Oncology,Nevada,No,9,2.563,Initial stage,Yes,Middle level,Moderate
+91,32,Cerebral arteritis in other diseases classified elsewhere,2/26/2025,12/5/2024,41,Polygender,128.5,Naproxen,8711,Neurology,Montana,No,10,2.743,Middle level,Yes,Middle level,High
+92,49,"Unspecified injury of axillary or brachial vein, right side",1/7/2025,9/21/2024,53,Male,248.9,Alcohol,1797,Ophthalmology,Montana,No,3,3.016,Initial stage,Yes,Middle level,Low
+93,66,"Disp fx of lateral end of r clavicle, subs for fx w malunion",8/11/2024,12/28/2024,36,Female,283.3,Iris Versicolor Root and Bryonia Alba Root,903,Ophthalmology,Nevada,Yes,5,2.592,High level,NO,Initial stage,Low
+94,31,"Bent bone of left radius, init for opn fx type I/2",12/19/2024,6/8/2024,36,Male,251.4,Lisinopril,5713,Neurology,Oregon,Yes,9,3.585,High level,Yes,Middle level,Severe
+95,51,"Inj intrinsic msl/tnd at ank/ft level, left foot, subs",11/2/2024,2/11/2025,17,Male,123.2,"OCTOCRYLENE, OCTISALATE, AVOBENZONE, OCTINOXATE",3260,Ophthalmology,Oregon,Yes,4,4.219,Middle level,Yes,Initial stage,Extreme
+96,99,"Toxic effect of venom of caterpillars, undetermined, sequela",11/9/2024,9/25/2024,34,Genderfluid,90.3,ROPIVACAINE HYDROCHLORIDE,5497,Pediatrics,Montana,No,10,3.162,Middle level,Yes,High level,High
+97,54,"Injury of abducent nerve, right side, sequela",1/21/2025,7/14/2024,41,Female,243.8,simethicone,9339,Cardiology,Montana,No,6,4.252,High level,Yes,High level,High
+98,37,"Intermittent hydrarthrosis, multiple sites",4/14/2024,7/6/2024,38,Female,42.2,Amiodarone Hydrochloride,3736,Ophthalmology,South Carolina,Yes,9,3.987,Initial stage,Yes,Initial stage,Extreme
+99,18,"Displaced fracture of capitate [os magnum] bone, right wrist",6/19/2024,11/17/2024,84,Male,244.9,,4449,Neurology,Kentucky,Yes,4,2.525,Middle level,NO,High level,Severe
+100,45,Merkel cell carcinoma of left ear and external auric canal,10/11/2024,12/16/2024,48,Male,145.7,Ergocalciferol,9299,Neurology,Kentucky,No,2,2.459,High level,NO,Middle level,High
+101,27,Traumatic amputation at knee level,5/11/2024,11/6/2024,27,Male,110.2,DIMETHICONE,3634,Oncology,Oregon,No,2,2.143,High level,NO,Initial stage,Severe
+102,61,"Hypopyon, unspecified eye",12/13/2024,7/11/2024,36,Genderfluid,117.2,PROMETHAZINE HYDROCHLORIDE,910,Orthopedics,Kentucky,No,9,3.873,High level,NO,High level,Severe
+103,11,"Nondisp fx of sternal end r clavicle, subs for fx w nonunion",1/31/2025,6/19/2024,84,Female,113.5,methylphenidate hydrochloride,1775,General Medicine,South Carolina,No,6,4.418,Middle level,Yes,Middle level,Extreme
+104,83,"Passenger on bus injured in clsn w pedl cyc in traf, subs",9/12/2024,11/29/2024,66,Female,219.1,acebutolol hydrochloride,4430,Orthopedics,Kentucky,No,2,2.582,Middle level,Yes,Initial stage,Extreme
+105,41,"Unsp fx upper end of left ulna, init for opn fx type I/2",5/26/2024,4/26/2024,83,Female,232.5,Propantheline Bromide,9353,Oncology,Oregon,No,5,3.5,Initial stage,NO,High level,Extreme
+106,27,"Nondisp transverse fx shaft of l tibia, 7thM",4/21/2024,6/17/2024,29,Female,89,"Octinoxate, Octocrylene, Zinc Oxide",5637,Neurology,Montana,No,2,3.696,High level,NO,High level,High
+107,11,Acquired absence of other genital organ(s),3/26/2024,2/20/2025,20,Female,215.8,Ibuprofen,7157,Oncology,Maine,No,2,4.093,Initial stage,Yes,High level,Extreme
+108,79,Congenital malformation of retina,6/21/2024,3/1/2025,2,Female,276.8,Trandolapril,7360,Ophthalmology,Arizona,Yes,9,3.555,Middle level,Yes,Middle level,High
+109,72,Malignant neoplasm of overlapping sites of eye and adnexa,5/27/2024,7/8/2024,90,Male,297.6,Nicotine Polacrilex,5641,Oncology,South Carolina,No,8,3.548,High level,NO,Initial stage,Extreme
+110,90,"Contusion of unsp index finger w/o damage to nail, subs",5/6/2024,5/31/2024,61,Female,247.7,Montelukast Sodium,4040,Orthopedics,South Carolina,No,10,4.451,High level,Yes,High level,Extreme
+111,90,Mechanical lagophthalmos right lower eyelid,12/29/2024,4/14/2024,99,Female,237.8,PANTHENOL,7601,Oncology,Montana,Yes,2,3.193,High level,Yes,High level,Extreme
+112,67,Other specified injuries of lower leg,6/26/2024,7/27/2024,95,Female,35.5,Sodium Chloride,3184,General Medicine,Arizona,Yes,4,4.332,Initial stage,Yes,Initial stage,High
+113,92,Other private fixed-wing aircraft fire injuring occupant,1/8/2025,6/11/2024,89,Genderqueer,111.5,Furosemide,1654,Cardiology,Nevada,Yes,3,4.969,Initial stage,NO,High level,High
+114,37,"Laceration with foreign body, unspecified knee",9/12/2024,5/25/2024,77,Female,129.7,Amlodipine Besylate,8547,Pediatrics,Arizona,Yes,8,4.344,High level,Yes,High level,Moderate
+115,5,"Nondisp fx of ant column of r acetab, subs for fx w nonunion",12/9/2024,2/16/2025,66,Non-binary,38.5,Venlafaxine Hydrochloride,3719,General Medicine,Montana,No,8,2.424,High level,Yes,High level,Moderate
+116,14,"Oth nondisp fx of 4th cervcal vert, subs for fx w nonunion",12/23/2024,4/23/2024,14,Female,48.4,Calamine 8% and Zinc Oxide 8%,9032,Oncology,Montana,No,8,2.075,Middle level,NO,Middle level,Moderate
+117,92,"Laceration with foreign body of unsp upper arm, sequela",8/12/2024,7/25/2024,89,Male,248.8,mucor circinelloides f. lusitanicus,1885,Neurology,Kentucky,Yes,9,4.439,Initial stage,Yes,High level,High
+118,23,"Sltr-haris Type I physl fx low end l fibula, 7thP",2/24/2025,9/17/2024,36,Male,101.8,"titanium dioxide, octinoxate, octisalate, homosalate",1194,Neurology,Maine,Yes,8,3.125,High level,NO,High level,Low
+119,52,"Driver of 3-whl mv inj in clsn w nonmtr veh nontraf, sqla",1/14/2025,5/31/2024,47,Male,171.7,solifenacin succinate,2611,Orthopedics,Delaware,No,9,3.508,Middle level,NO,Initial stage,Extreme
+120,35,"Displaced pilon fx right tibia, subs for clos fx w malunion",12/22/2024,8/13/2024,36,Female,51.3,Risperidone,5575,Neurology,Nevada,No,10,4.713,High level,NO,High level,Extreme
+121,53,"Disp fx of base of nk of unsp femr, 7thJ",11/6/2024,12/2/2024,72,Male,263.5,Natural Medicine,3554,Neurology,Delaware,Yes,7,3.863,Initial stage,NO,High level,Severe
+122,25,Unsp agents primarily affecting the cardiovascular system,12/13/2024,1/15/2025,36,Female,198.9,"avobenzone, octinoxate",808,Cardiology,South Carolina,No,4,3.313,High level,NO,Initial stage,Low
+123,53,"Cystic meniscus, unspecified meniscus",8/22/2024,10/10/2024,25,Female,198.7,Sodium Fluoride,4913,Pediatrics,Kentucky,Yes,6,4.876,Middle level,Yes,Initial stage,Extreme
+124,22,Iliofemoral ligament sprain of unspecified hip,2/26/2025,9/29/2024,10,Male,177.2,Acetaminophen,5177,Orthopedics,Montana,No,8,2.967,Middle level,NO,Middle level,High
+125,69,"Uterine size-date discrepancy, unspecified trimester",1/14/2025,1/11/2025,97,Female,154.8,IMIPENEM and CILASTATIN SODIUM,9985,Ophthalmology,Delaware,Yes,10,4.512,High level,NO,Initial stage,Moderate
+126,18,"Neonatal jaundice, unspecified",6/25/2024,8/28/2024,56,Male,135.4,Metformin Hydrochloride,1601,Neurology,Nevada,No,4,2.26,Initial stage,NO,Initial stage,High
+127,79,"Creutzfeldt-Jakob disease, unspecified",12/3/2024,12/25/2024,48,Female,129.5,"Benzocaine 20%, Benzalkonium Chloride",2384,Neurology,Oregon,No,5,3.735,Middle level,Yes,Middle level,Low
+128,53,"Partial traumatic amp of right foot at ankle level, subs",1/3/2025,5/25/2024,41,Male,125.1,Dehydrated alcohol,5468,Ophthalmology,Arizona,No,9,2.487,High level,Yes,Middle level,Extreme
+129,12,Leakage of infusion catheter,11/19/2024,3/21/2024,24,Female,249.5,Calcitriol,560,Orthopedics,Montana,Yes,9,3.025,Middle level,Yes,High level,Extreme
+130,100,"Struck by macaw, sequela",1/26/2025,8/7/2024,41,Female,254.6,Cottonwood Eastern Common,747,General Medicine,Arizona,Yes,8,4.872,Middle level,NO,Initial stage,Moderate
+131,7,"Lacerat unsp musc/fasc/tend at thi lev, left thigh, sequela",3/7/2024,1/19/2025,98,Female,138.3,Pecan Pollen,5893,Ophthalmology,Kentucky,No,6,4.566,High level,Yes,Middle level,Low
+132,9,"Exposure to laser radiation, initial encounter",7/16/2024,7/24/2024,78,Female,209.4,Eucalyptus,6555,Neurology,Montana,No,3,2.758,Middle level,NO,High level,Low
+133,21,"Other burn on board merchant vessel, initial encounter",11/26/2024,2/17/2025,25,Female,88.8,Pravastatin Sodium,655,Neurology,Montana,Yes,9,2.848,Initial stage,NO,Initial stage,Low
+134,30,Unsp chronic resp disease origin in the perinatal period,9/1/2024,6/3/2024,90,Male,171.8,Acetaminophen,4169,General Medicine,Nevada,No,2,3.623,Initial stage,NO,Initial stage,High
+135,73,Burn of first degree of toe(s) (nail),12/25/2024,3/16/2024,99,Male,220.7,ENALAPRIL MALEATE,9427,Neurology,Nevada,Yes,9,2.211,Middle level,Yes,Middle level,Extreme
+136,58,"Wedge comprsn fx first lum vert, subs for fx w delay heal",5/10/2024,5/5/2024,8,Male,274.7,Ipratropium Bromide,3876,Orthopedics,Arizona,Yes,1,4.593,High level,Yes,High level,Low
+137,4,"Foreign body granuloma of soft tissue, NEC, right ank/ft",10/16/2024,8/23/2024,55,Female,110.1,Doxylamine succinate,6760,Orthopedics,Delaware,Yes,8,2.12,Middle level,Yes,Initial stage,High
+138,40,Subluxation stenosis of neural canal of pelvic region,7/13/2024,5/8/2024,87,Female,83.5,"SULFUR, THUJA OCCIDENTALIS LEAFY TWIG, VACCINIA VIRUS STRAIN NEW YORK CITY BOARD, GONORRHEAL URETHRAL SECRETION HUMAN,SODIUM CHLORIDE, NERIUM OLEANDER LEAF,CICUTA VIROSA ROOT,",7201,Cardiology,Kentucky,Yes,2,3.329,Initial stage,Yes,Middle level,Low
+139,85,"Posterior dislocation of unspecified hip, subs encntr",4/3/2024,3/13/2024,46,Male,240.5,ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY,7488,General Medicine,Delaware,Yes,1,4.966,High level,NO,Initial stage,Low
+140,89,"Oth powered aircraft accidents injuring occupant, subs",7/15/2024,1/29/2025,39,Male,111,Ketoconazole,6608,Ophthalmology,Maine,No,5,2.89,Initial stage,NO,Middle level,Moderate
+141,93,Unsp inj extn musc/fasc/tend l little finger at wrs/hnd lv,4/5/2024,7/24/2024,64,Male,178.7,"ACETAMINOPHEN, PHENYLEPHRINE HYDROCHLORIDE",3890,Cardiology,Nevada,Yes,8,3.376,High level,Yes,Initial stage,Severe
+142,89,Displaced comminuted fracture of shaft of left tibia,5/11/2024,2/22/2025,34,Male,173.7,Amlodipine Besylate,2262,Pediatrics,Maine,No,7,3.981,Middle level,NO,High level,Severe
+143,79,"Congenital vertical talus deformity, right foot",10/5/2024,8/12/2024,47,Male,36.1,pramipexole dihydrochloride,2315,Ophthalmology,Arizona,No,4,2.501,Middle level,NO,Middle level,Moderate
+144,92,"Unspecified superficial injury of left foot, sequela",7/28/2024,2/27/2025,90,Male,295,Ethyl Alcohol,9056,Pediatrics,Montana,No,10,3.014,Initial stage,Yes,Initial stage,Extreme
+145,75,"Toxic effect of carbon dioxide, accidental, subs",12/12/2024,6/27/2024,59,Female,30.4,"Standardized Grass Pollen, Grass Mix 7",6578,Oncology,Nevada,No,10,2.365,Middle level,Yes,High level,High
+146,95,"Dislocation of unspecified ankle joint, sequela",3/25/2024,1/2/2025,45,Female,280.2,Dimenhydrinate,6177,General Medicine,Montana,No,9,3.513,Middle level,Yes,Initial stage,High
+147,30,"Unsp injury of muscle, fascia and tendon of oth prt biceps",4/16/2024,9/28/2024,27,Male,145.3,Zolmitriptan,1761,Neurology,Kentucky,Yes,10,3.674,High level,NO,Middle level,Extreme
+148,93,Mech compl of balloon (counterpulsation) device,9/20/2024,2/28/2025,75,Male,281.4,Morphine Sulfate,9850,Oncology,South Carolina,Yes,10,3.83,Initial stage,Yes,High level,Moderate
+149,28,"Unsp superficial injury of unspecified thumb, subs encntr",12/8/2024,5/4/2024,1,Male,105.5,HydrALAZINE Hydrochloride,7773,Cardiology,Kentucky,Yes,10,3.382,Initial stage,NO,Initial stage,Moderate
+150,24,"War op w dest arcrft due to enmy fire/expls, civ, sequela",10/29/2024,10/18/2024,56,Male,180.2,Oxygen,6940,Orthopedics,South Carolina,No,7,2.697,Middle level,NO,High level,Severe
+151,72,"War op involving unsp effect of nuclear weapon, civilian",6/11/2024,2/22/2025,42,Male,183,Phoma glomerata,9502,Cardiology,Oregon,Yes,4,4.961,High level,Yes,Middle level,Low
+152,72,"Nondisp oblique fx shaft of humer, unsp arm, 7thK",10/31/2024,3/11/2024,64,Female,283.8,norethindrone acetate and ethinyl estradiol,7518,Pediatrics,Oregon,No,10,3.078,Middle level,NO,Middle level,Severe
+153,83,"Epileptic spasms, not intractable, with status epilepticus",3/25/2024,6/14/2024,13,Female,198.5,Apple Malus sp.,9585,Cardiology,Oregon,No,2,2.039,Middle level,NO,Initial stage,Extreme
+154,27,"Burn of third degree of right thumb (nail), sequela",8/29/2024,1/22/2025,71,Male,277.9,ALCOHOL,2008,General Medicine,South Carolina,No,5,3.563,High level,Yes,Initial stage,High
+155,86,"Sltr-haris Type III physl fx lower end of unsp tibia, sqla",5/4/2024,9/28/2024,30,Male,116.5,Quack Grass,7775,General Medicine,Arizona,No,9,2.929,Initial stage,Yes,Middle level,Moderate
+156,49,Unspecified open wound of left eyelid and periocular area,1/1/2025,12/4/2024,90,Male,81.3,Lisinopril,8948,Cardiology,Nevada,Yes,10,4.164,Middle level,Yes,High level,Moderate
+157,50,Dementia in oth diseases classd elswhr w behavioral disturb,11/7/2024,4/22/2024,62,Female,240.9,Rabbit Epithelium,2417,Neurology,Arizona,No,5,2.626,Initial stage,Yes,Initial stage,Severe
+158,74,Pleural effusion in other conditions classified elsewhere,8/6/2024,2/2/2025,3,Female,215.9,dimethicone,5525,Neurology,Maine,Yes,5,4.642,Initial stage,NO,Initial stage,Moderate
+159,12,"Puckering of macula, right eye",8/20/2024,5/13/2024,6,Female,168.1,"avobenzone, homosalate, octisalate, octocrylene, and oxybenzone",2365,Pediatrics,Oregon,No,10,4.688,Initial stage,NO,Middle level,Extreme
+160,51,Periradicular pathology assoc w previous endodontic trtmt,5/12/2024,8/8/2024,38,Female,175,fentanyl citrate,2939,Neurology,Oregon,Yes,1,2.402,Middle level,Yes,High level,Low
+161,62,Bent bone of left ulna,8/14/2024,10/17/2024,50,Male,237.3,TOLNAFTATE,6579,General Medicine,Maine,No,7,3.913,Middle level,Yes,Middle level,High
+162,22,"Other specified injuries of unspecified foot, sequela",12/10/2024,10/8/2024,65,Male,128.6,Dimethicone,8696,Cardiology,Maine,Yes,10,3.313,High level,NO,Middle level,High
+163,39,"Complete traum amp at lev betw kn and ankl, r low leg, subs",9/5/2024,9/5/2024,90,Male,174.5,ETHYL ALCOHOL,9625,Cardiology,South Carolina,No,3,3.663,Middle level,Yes,Middle level,High
+164,78,"Nondisp lateral mass fx 1st cervcal vert, 7thK",4/7/2024,12/26/2024,97,Female,217,ketoconazole,5248,Pediatrics,Nevada,No,1,3.593,Initial stage,Yes,Initial stage,Severe
+165,25,"Other injury of fallopian tube, unilateral, sequela",11/19/2024,2/17/2025,98,Female,136.5,Ropinirole Hydrochloride,9466,Cardiology,Maine,Yes,2,3.962,High level,Yes,Initial stage,Low
+166,56,"Occup of pk-up/van inj in clsn w pedl cyc nontraf, sequela",12/4/2024,11/24/2024,77,Female,258.5,Isosorbide Mononitrate,3416,Ophthalmology,South Carolina,Yes,3,4.109,Initial stage,NO,Middle level,Low
+167,63,"Unsp fracture of left toe(s), init encntr for open fracture",9/14/2024,10/5/2024,90,Female,176.1,FOSAPREPITANT DIMEGLUMINE,2807,Pediatrics,Arizona,No,8,3.336,High level,Yes,Initial stage,High
+168,32,"Unsp fx shaft of unsp ulna, subs for clos fx w malunion",4/27/2024,5/14/2024,54,Male,119,Ranitidine,3059,General Medicine,Maine,Yes,4,3.297,High level,Yes,High level,Moderate
+169,72,"Sltr-haris Type II physeal fracture of left metatarsal, 7thP",1/12/2025,2/20/2025,51,Female,126.5,Diphenhydramine HCl,6496,Pediatrics,Montana,Yes,9,4.553,Initial stage,NO,Middle level,High
+170,94,Laceration of right renal vein,11/30/2024,6/18/2024,36,Female,201.3,Menthol,1563,Pediatrics,Kentucky,Yes,10,3.217,High level,Yes,Middle level,Low
+171,37,"Lac w/o fb of abd wall, unsp quadrant w/o penet perit cav",5/12/2024,11/12/2024,51,Female,166.9,"Avobenzone, Homosalate, Oxybenzone, and Octinoxate",9593,Orthopedics,South Carolina,No,8,3.204,High level,Yes,High level,High
+172,12,"Fall on and from scaffolding, subsequent encounter",2/3/2025,2/8/2025,24,Female,245.5,Avobenzone and Octinoxate,9999,Neurology,Arizona,Yes,4,4.843,High level,NO,Initial stage,High
+173,51,"Foreign body in anus and rectum, subsequent encounter",6/3/2024,4/3/2024,73,Male,165.3,Phentermine Hydrochloride,6034,Pediatrics,Maine,Yes,1,2.361,Initial stage,NO,Initial stage,Low
+174,44,"Poisoning by oth nonopio analges/antipyret, NEC, undet, init",10/27/2024,7/19/2024,12,Male,66.3,simvastatin,2723,General Medicine,Kentucky,Yes,7,3.487,Initial stage,NO,Middle level,Low
+175,61,"Fistula, right hand",2/12/2025,10/12/2024,2,Male,68.9,CHLOROXYLENOL,4330,Ophthalmology,Montana,Yes,8,4.525,Middle level,NO,High level,Moderate
+176,65,"Oth fx upr end unsp rad, subs for opn fx type I/2 w malunion",3/16/2024,1/8/2025,83,Male,79.7,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",9518,Neurology,Arizona,Yes,10,3.296,Middle level,NO,High level,Extreme
+177,100,Carcinoma in situ of breast,2/9/2025,4/12/2024,21,Female,228.7,Metoprolol Tartrate,4163,Neurology,Oregon,No,4,4.088,Middle level,Yes,High level,Moderate
+178,23,"Occ of rail trn/veh injured in unsp railway acc, sequela",3/24/2024,2/9/2025,5,Female,157.1,ALCOHOL,6642,General Medicine,Arizona,Yes,8,3.04,Middle level,NO,Initial stage,Low
+179,28,"Unsp fx upper end of unsp humerus, subs for fx w malunion",6/26/2024,5/23/2024,92,Genderfluid,227.7,Carisoprodol,2333,Oncology,Montana,Yes,9,3.67,High level,Yes,High level,Moderate
+180,42,Encounter for other procreative management,12/2/2024,7/17/2024,11,Male,282.1,Niacin,1618,Ophthalmology,Nevada,No,9,4.943,Initial stage,Yes,Middle level,Moderate
+181,28,Puncture wound of lip and oral cavity with foreign body,4/9/2024,8/13/2024,65,Male,158.1,CACTUS GRANDIFLORUS,4355,Oncology,Nevada,Yes,10,2.953,High level,Yes,High level,Severe
+182,25,"Maternal care for oth isoimmunization, unsp trimester, oth",6/27/2024,4/1/2024,23,Female,272.1,Desert Sage,5558,General Medicine,South Carolina,Yes,3,4.951,Middle level,Yes,Initial stage,Low
+183,41,Malignant neoplasm of accessory sinuses,4/8/2024,6/22/2024,24,Male,61.7,Octinoxate Titanium Dioxide,6705,Pediatrics,Maine,Yes,6,3.728,Initial stage,NO,Middle level,Severe
+184,22,"Social phobia, unspecified",6/1/2024,1/5/2025,96,Male,46.6,Potassium Chloride,2591,Oncology,Delaware,Yes,1,3.343,Middle level,NO,Initial stage,Low
+185,82,Prsn brd/alit mtrcy injured in collision w rail trn/veh,3/20/2024,5/31/2024,67,Female,217.4,fluvoxamine maleate,6390,General Medicine,Delaware,No,6,3.041,Middle level,Yes,Middle level,Severe
+186,91,"Displ trimalleol fx r low leg, subs for clos fx w delay heal",11/12/2024,12/1/2024,20,Female,210.5,ESZOPICLONE,4401,Oncology,Delaware,No,7,2.711,Initial stage,Yes,Initial stage,Extreme
+187,79,"Sltr-haris Type III physl fx low end rad, l arm, 7thD",2/16/2025,7/5/2024,77,Female,39,OCTINOXATE,8584,General Medicine,Nevada,No,6,3.011,Initial stage,NO,High level,Severe
+188,58,"Corros 3rd deg mu right fingers (nail), not inc thumb, init",4/11/2024,1/31/2025,28,Agender,161.1,Adefovir Dipivoxil,6878,Pediatrics,South Carolina,No,2,3.179,High level,Yes,Initial stage,Severe
+189,29,"Other bursitis, not elsewhere classified, right elbow",4/9/2024,6/13/2024,9,Female,132.8,SODIUM FLUORIDE,8331,General Medicine,Montana,No,10,2.288,Initial stage,Yes,High level,Moderate
+190,48,Fall into other water striking wall,8/12/2024,4/20/2024,80,Male,37.7,Sodium Chloride,1830,Neurology,Delaware,No,4,4.67,Initial stage,Yes,High level,Extreme
+191,6,"Unsp mtrcy rider injured in collision w hv veh nontraf, init",2/3/2025,1/4/2025,69,Male,78.4,Fluconazole,3737,Pediatrics,Delaware,No,3,3.542,High level,Yes,Middle level,Low
+192,26,"Congenital absence, atresia and stenosis of prt lg int",9/25/2024,8/31/2024,21,Female,82.2,Colloidal Oatmeal,6656,General Medicine,Delaware,No,5,2.365,High level,Yes,High level,Extreme
+193,57,Secondary uterine inertia,4/25/2024,6/8/2024,76,Female,232.2,Hydroquinone,4585,Neurology,Delaware,No,5,2.03,Middle level,Yes,Middle level,Severe
+194,75,"Pnctr w fb of unsp external genital organs, male, init",10/9/2024,5/24/2024,19,Male,250.8,Clonazepam,957,Ophthalmology,Delaware,No,2,2.883,Middle level,NO,High level,Moderate
+195,55,"Scleral ectasia, right eye",2/12/2025,12/10/2024,52,Male,204,venlafaxine hydrochloride,5754,Neurology,Maine,No,6,2.076,Middle level,Yes,Middle level,Moderate
+196,80,Other disorders of sclera,3/27/2024,11/3/2024,98,Female,289.8,Atomoxetine Hydrochloride,8858,General Medicine,Montana,Yes,1,4.436,Initial stage,Yes,Middle level,Low
+197,73,"Rheumatoid nodule, left shoulder",10/25/2024,10/19/2024,36,Male,89.5,Stemphylium botryosum,5337,Oncology,Delaware,Yes,10,4.255,High level,Yes,High level,Extreme
+198,50,"Age-related osteopor w current path fracture, right femur",4/24/2024,8/1/2024,57,Male,175.7,Loratadine,547,Orthopedics,Montana,Yes,2,3.752,High level,Yes,Initial stage,Severe
+199,18,"Nondisp seg fx shaft of unsp tibia, 7thD",12/6/2024,1/10/2025,76,Female,166.4,Capsaicin,4187,Neurology,Maine,No,9,4.172,High level,NO,Middle level,Extreme
+200,64,"Nondisp fx of med phalanx of r lit fngr, 7thK",1/10/2025,3/24/2024,46,Male,157.1,Clonidine Hydrochloride,5511,Pediatrics,Arizona,Yes,6,3.525,Middle level,NO,Initial stage,Extreme
+201,100,"Toxic effect of venom of caterpillars, accidental, init",12/31/2024,9/16/2024,22,Male,88.9,Fiber lax,1837,Oncology,Delaware,No,10,2.606,Initial stage,Yes,High level,Extreme
+202,76,"Oth fracture of shaft of unsp tibia, init for clos fx",11/19/2024,4/28/2024,78,Male,38.2,Naproxen,1254,Ophthalmology,Nevada,No,3,3.687,Middle level,Yes,Initial stage,Severe
+203,4,"Fall on same level, unspecified, sequela",8/23/2024,10/1/2024,32,Non-binary,276.1,ROPINIROLE HYDROCHLORIDE,755,Oncology,Maine,No,10,2.208,High level,NO,High level,Low
+204,19,"Underdosing of other topical agents, initial encounter",1/4/2025,7/16/2024,56,Female,296.5,"Cocoa butter, Phenylephrine HCl, Shark liver oil",7823,Cardiology,Arizona,No,2,4.545,High level,NO,High level,Moderate
+205,87,"Adult sexual abuse, confirmed, sequela",12/30/2024,9/5/2024,21,Female,221.2,"Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone",1695,Orthopedics,Montana,No,4,3.807,Initial stage,Yes,Middle level,Low
+206,82,"Unspecified open wound of unspecified elbow, subs encntr",3/17/2024,10/27/2024,19,Male,188.1,Menthol,8164,Ophthalmology,Montana,No,1,3.358,Middle level,NO,Initial stage,Low
+207,18,"Nondisp commnt fx right patella, init for opn fx type 3A/B/C",12/16/2024,8/24/2024,50,Male,247.5,not applicable,5743,Orthopedics,Montana,No,4,3.406,Middle level,Yes,Initial stage,High
+208,85,"Injury of unsp nerve at hip and thigh level, unsp leg, subs",5/30/2024,4/28/2024,60,Male,236.3,ACONITUM NAPELLUS and EUCALYPTUS GLOBULUS LEAF and IPECAC,6951,General Medicine,Delaware,Yes,6,3.124,Middle level,NO,Initial stage,Severe
+209,57,"Displaced dome fx right talus, subs for fx w malunion",12/12/2024,4/25/2024,9,Male,110.3,Nateglinide,655,Ophthalmology,Delaware,Yes,5,4.868,Middle level,Yes,Initial stage,High
+210,15,"Corrosion of unsp degree of unspecified thigh, subs encntr",8/24/2024,1/20/2025,48,Male,277.3,Sisal,5798,Neurology,Montana,Yes,3,3.805,Initial stage,NO,Middle level,Moderate
+211,100,"Contusion of right hip, initial encounter",7/16/2024,8/30/2024,26,Polygender,111.6,"lactic acid, l-",9209,Neurology,Arizona,No,2,2.091,Middle level,NO,Middle level,High
+212,32,"Osteolysis, thigh",3/30/2024,10/10/2024,69,Male,251.9,Meclizine,7286,Oncology,Nevada,Yes,1,3.205,Middle level,Yes,Middle level,Moderate
+213,63,"Laceration of popliteal vein, unspecified leg, sequela",2/5/2025,1/4/2025,54,Male,157.8,Octinoxate and Oxybenzone,2707,Oncology,Montana,Yes,10,4.97,Middle level,NO,Initial stage,Low
+214,17,"Poisoning by unsp agents aff the GI sys, accidental, init",3/31/2024,5/25/2024,68,Female,205.3,"Neomycin sulfate, Polymyxin B Sulfate and Dexamethasone",3630,Neurology,South Carolina,Yes,2,2.157,Initial stage,Yes,High level,Moderate
+215,36,"Other ossification of muscle, shoulder",5/20/2024,12/20/2024,93,Female,28.3,"Allium cepa, Apis mellifica, Arsenicum album, Euphrasia officinalis, Nux vomica",6262,Ophthalmology,Delaware,No,5,3.952,Initial stage,NO,High level,Low
+216,58,Encounter for prophylactic Rho(D) immune globulin,5/17/2024,5/16/2024,89,Female,218.7,"PROTHROMBIN, COAGULATION FACTOR VII HUMAN, COAGULATION FACTOR IX HUMAN, COAGULATION FACTOR X HUMAN, Protein C, Protein S Human, and Water",6438,General Medicine,Oregon,Yes,7,4.365,Middle level,NO,High level,Extreme
+217,93,"Drug-induced gout, right wrist",12/18/2024,10/14/2024,68,Female,103.5,Distichlis spicata,4790,Neurology,South Carolina,Yes,10,2.559,High level,NO,High level,High
+218,16,Oth injury of blood vessel of right little finger,10/30/2024,6/27/2024,95,Female,111.5,Metformin Hydrochloride,5524,Pediatrics,Maine,No,3,3.278,Middle level,Yes,High level,Moderate
+219,82,"Gestational htn w/o significant proteinuria, third trimester",2/23/2025,11/25/2024,44,Female,196.9,Alcohol,8329,Oncology,Oregon,No,1,3.791,Middle level,Yes,High level,High
+220,82,"Nondisp fx of proximal phalanx of oth finger, init",8/28/2024,9/7/2024,47,Female,25,HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK,1130,Cardiology,Montana,Yes,1,4.016,Middle level,Yes,Middle level,Extreme
+221,67,Toxic effect of harmful algae and algae toxins,8/15/2024,6/29/2024,94,Male,224.1,Casein,3835,Orthopedics,Nevada,No,1,2.589,Initial stage,NO,Middle level,Severe
+222,94,"Toxic effect of corrosive organic compounds, acc, subs",9/18/2024,5/14/2024,62,Genderfluid,180.7,NATRUM PHOSPHORICUM,1738,Cardiology,South Carolina,Yes,3,2.016,High level,NO,Initial stage,Severe
+223,91,"Unsp inj less saphenous at low leg level, left leg, sequela",8/30/2024,5/10/2024,81,Bigender,92.3,Isosorbide Dinitrate,1060,Orthopedics,Arizona,Yes,7,2.889,Middle level,Yes,Middle level,High
+224,21,"Adverse effect of thyroid hormones and substitutes, init",9/21/2024,1/20/2025,57,Male,43.1,Ibuprofen,8381,Oncology,Oregon,Yes,2,3.526,Initial stage,Yes,High level,Severe
+225,86,Unspecified open wound of larynx,8/5/2024,10/3/2024,96,Genderqueer,232.4,"Butalbital, Acetaminophen, and Caffeine",4058,General Medicine,Delaware,Yes,6,2.178,Initial stage,Yes,Middle level,Severe
+226,1,"Colles' fx left rad, subs for opn fx type 3A/B/C w malunion",11/7/2024,9/23/2024,40,Male,181.4,OCTINOXATE,1115,Ophthalmology,South Carolina,No,3,4.928,Middle level,NO,Middle level,Extreme
+227,33,"Athscl nonbiol bypass of the extrm w rest pain, right leg",6/10/2024,3/15/2024,97,Male,170.2,Benzocaine,3301,Oncology,Delaware,Yes,5,3.076,Initial stage,Yes,Initial stage,Extreme
+228,43,"Disp fx of lateral cuneiform of l ft, subs for fx w nonunion",6/14/2024,8/11/2024,95,Male,207.2,tramadol hydrochloride,5677,General Medicine,South Carolina,No,1,3.219,Middle level,NO,High level,Extreme
+229,93,Inferior subluxation of left humerus,2/5/2025,2/17/2025,24,Male,194.1,Octinoxate and Titanium Dioxide,7989,Neurology,Kentucky,Yes,3,4.733,Initial stage,NO,Initial stage,High
+230,29,"Osteochondropathy, unspecified, right lower leg",2/19/2025,2/24/2025,66,Non-binary,118.5,Benzalkonium Chloride,4424,Cardiology,Kentucky,No,4,3.892,Initial stage,NO,Middle level,Severe
+231,19,"Familial chondrocalcinosis, left shoulder",5/24/2024,9/27/2024,33,Female,244.5,Wart Remover with Salicylic Acid,8422,Orthopedics,South Carolina,Yes,4,3.469,High level,Yes,High level,Low
+232,68,"Pressure ulcer of left heel, stage 1",2/13/2025,8/25/2024,23,Female,233.3,Minoxidil,2469,Cardiology,Kentucky,No,1,4.786,High level,NO,High level,Extreme
+233,56,"Blister (nonthermal) of unspecified hand, sequela",6/4/2024,7/3/2024,17,Female,43.5,Dronabinol,4662,Oncology,Montana,No,6,4.21,Initial stage,NO,Initial stage,Extreme
+234,15,Driver of special industrial vehicle injured nontraf,12/1/2024,4/8/2024,75,Female,254.7,Urea,3024,General Medicine,Nevada,Yes,5,3.367,Middle level,NO,Middle level,Moderate
+235,100,"Laceration of left quadriceps musc/fasc/tend, subs",10/6/2024,12/2/2024,96,Bigender,69.8,Ibuprofen,2546,Oncology,Kentucky,Yes,10,2.743,High level,Yes,High level,Low
+236,32,"Pedl cyclst injured in trnsp acc w military vehicle, sequela",7/26/2024,2/3/2025,18,Genderqueer,57.4,Dextroamphetamine Sulfate,8542,Orthopedics,Montana,No,10,4.454,High level,Yes,Middle level,Extreme
+237,23,Myelofibrosis,2/22/2025,8/12/2024,38,Male,290,Aminocaproic Acid,3562,Neurology,Maine,Yes,2,3.601,Middle level,Yes,High level,Low
+238,68,"Contus/lac left cerebrum w LOC of 31-59 min, sequela",1/16/2025,11/17/2024,63,Male,56.3,OCTINOXATE and TITANIUM DIOXIDE,1846,Pediatrics,South Carolina,No,9,3.685,High level,Yes,High level,High
+239,48,"Contusion of right ear, subsequent encounter",2/10/2025,6/21/2024,4,Genderqueer,85.6,"zinc oxide, oxybenzone, and octinoxate",5579,Ophthalmology,Montana,Yes,2,2.249,Middle level,Yes,Middle level,Moderate
+240,88,Personal history of other diseases of urinary system,1/17/2025,10/28/2024,16,Female,229.4,fluocinolone acetonide,7983,Pediatrics,Oregon,Yes,4,3.941,High level,Yes,Initial stage,Moderate
+241,89,Open bite of right great toe without damage to nail,4/14/2024,9/25/2024,41,Male,160.9,Polyethylene Glycol 400 and Propylene Glycol,9909,Oncology,Kentucky,No,1,2.424,Initial stage,NO,Middle level,Low
+242,60,"Toxic eff of nitrodrv/aminodrv of benzn/homolog, undet, subs",8/13/2024,7/15/2024,61,Female,201.8,"TITANIUM DIOXIDE, ZINC OXIDE",5842,General Medicine,Kentucky,Yes,5,4.503,High level,NO,High level,High
+243,99,Gonococcal female pelvic inflammatory disease,3/15/2024,1/12/2025,51,Male,47.2,Hypericum Bryophyllum,600,Orthopedics,Montana,No,6,3.76,Middle level,Yes,High level,Severe
+244,78,"Posterior dislocation of r acromioclav jt, sequela",1/24/2025,6/17/2024,4,Male,194,ETHYL ALCOHOL,4146,Oncology,Delaware,No,1,4.183,Initial stage,Yes,Middle level,High
+245,1,"Displaced intertroch fx unsp femur, init for opn fx type I/2",12/16/2024,2/13/2025,60,Male,68.6,Ampicillin Sodium,1360,Neurology,Oregon,No,2,2.309,High level,NO,High level,Extreme
+246,91,Unspecified fracture of T9-T10 vertebra,10/14/2024,8/8/2024,8,Male,189.9,Methenamine Hippurate,6706,General Medicine,Kentucky,No,3,2.078,Middle level,Yes,Initial stage,Moderate
+247,20,"Lac w fb of r bk wl of thorax w penet thoracic cavity, subs",11/24/2024,2/19/2025,32,Male,182.2,Coal Tar,7360,Ophthalmology,Delaware,Yes,8,2.182,High level,Yes,Middle level,Low
+248,30,"Other spondylosis, lumbar region",4/11/2024,6/29/2024,33,Female,58.4,Prasugrel hydrochloride,3687,Pediatrics,South Carolina,Yes,4,3.876,High level,NO,Middle level,Moderate
+249,74,"Sltr-haris Type II physl fx upr end r fibula, 7thP",12/21/2024,12/15/2024,57,Male,104.6,Lamotrigine,6735,Cardiology,Kentucky,No,2,2.365,Initial stage,NO,Initial stage,Moderate
+250,13,"Osteolysis, unspecified upper arm",7/1/2024,10/22/2024,57,Male,31.8,Famciclovir,1706,Oncology,Maine,Yes,1,4.834,High level,Yes,Initial stage,Severe
+251,78,Balloon collision injuring occupant,2/24/2025,8/24/2024,94,Male,203.2,Cefazolin,2712,General Medicine,Delaware,No,7,3.656,High level,NO,Middle level,Low
+252,29,NIHSS score 0-9,4/25/2024,5/16/2024,99,Male,102.2,METOPROLOL SUCCINATE,9662,Neurology,Maine,Yes,5,4.611,High level,Yes,Middle level,Low
+253,45,"Oth diab with prolif diab rtnop with trctn dtch macula, bi",8/31/2024,10/17/2024,55,Male,201.6,Propranolol Hydrochloride,6394,General Medicine,Oregon,No,6,4.052,Middle level,Yes,Initial stage,Low
+254,87,Superficial injury of ear,4/10/2024,3/14/2024,51,Male,232,AMLODIPINE BESYLATE,1886,Oncology,Arizona,Yes,4,2.296,Initial stage,NO,High level,Severe
+255,65,"Sltr-haris Type I physl fx lower end of unsp tibia, sequela",12/31/2024,4/20/2024,81,Male,137.7,Anticoagulant Citrate Phosphate Dextrose Adenine,8080,Pediatrics,Kentucky,No,1,3.353,Initial stage,NO,Initial stage,Extreme
+256,99,"Nondisp transverse fx shaft of l ulna, 7thQ",7/22/2024,9/22/2024,2,Female,149.1,HOMOSALATE OCTINOXATE OCTISALATE OXYBENZONE,5531,Pediatrics,Montana,No,1,2.161,High level,NO,Initial stage,Extreme
+257,16,"Nondisp fx of base of MC bone, subs for fx w routn heal",12/18/2024,9/5/2024,22,Male,161.5,"Titanium Dioxide, Zinc Oxide",3555,General Medicine,Kentucky,No,2,4.47,Middle level,Yes,Initial stage,Low
+258,99,"Pnctr w fb of unsp great toe w damage to nail, subs",4/3/2024,11/16/2024,44,Genderqueer,238.5,TERBUTALINE SULFATE,5826,Pediatrics,Montana,Yes,7,4.327,High level,NO,High level,Low
+259,30,"Peripheral corneal degeneration, left eye",5/6/2024,11/20/2024,22,Male,294.3,Ipratropium Bromide and Albuterol Sulfate,2764,Cardiology,Kentucky,Yes,10,4.794,Initial stage,Yes,High level,Extreme
+260,95,Post-traumatic stress disorder (PTSD),11/20/2024,5/18/2024,67,Female,134.4,"Camphor, Menthol, Methyl Salicylate",6457,General Medicine,Maine,Yes,10,4.894,High level,Yes,High level,Severe
+261,48,"Disp fx of nk of 2nd MC bone, r hand, 7thD",11/4/2024,4/25/2024,40,Female,179.9,Mirtazapine,2774,Orthopedics,South Carolina,Yes,4,2.495,Initial stage,NO,Middle level,High
+262,33,"Disp fx of post column of r acetab, subs for fx w nonunion",7/13/2024,2/21/2025,99,Female,249,CEPHALEXIN,3524,Pediatrics,Delaware,No,6,3.26,Middle level,Yes,Initial stage,Low
+263,35,Injury of axillary artery,6/16/2024,5/18/2024,59,Female,146,Mupirocin,8054,Pediatrics,Nevada,Yes,2,3.688,Middle level,Yes,Initial stage,Extreme
+264,76,"Age-related choroidal atrophy, unspecified eye",1/21/2025,10/29/2024,51,Female,121.8,"Molds, Penicillium Mix",5385,Neurology,Oregon,Yes,10,4.792,Initial stage,Yes,Initial stage,High
+265,70,Laceration w/o foreign body of abd wall w/o penet perit cav,7/6/2024,7/10/2024,99,Male,284,Ropinirole Hydrochloride,5922,Orthopedics,Nevada,Yes,3,2.549,Initial stage,Yes,Middle level,Moderate
+266,69,"Burn of unspecified degree of right hand, unspecified site",10/27/2024,7/30/2024,46,Male,107.9,Cefpodoxime Proxetil,522,General Medicine,Maine,No,10,2.056,High level,Yes,Initial stage,Moderate
+267,89,Fracture of second thoracic vertebra,11/17/2024,5/30/2024,82,Female,103.8,Pecan Nut,8695,Orthopedics,Delaware,Yes,4,4.912,Initial stage,NO,High level,Low
+268,58,"Unsp fracture of upper end of right humerus, init for opn fx",11/29/2024,10/30/2024,50,Male,34.6,Phenol,7608,General Medicine,Maine,Yes,3,4.935,High level,Yes,Middle level,Moderate
+269,12,"Laceration of right renal vein, sequela",11/24/2024,4/17/2024,100,Male,103,Isopropyl Alcohol,8295,Pediatrics,Arizona,Yes,6,4.424,Initial stage,Yes,High level,Severe
+270,52,"Heat fatigue, transient, sequela",1/10/2025,12/22/2024,95,Male,244.3,Hydroxyzine Hydrochloride,6935,General Medicine,Delaware,No,3,3.098,Middle level,NO,Middle level,Low
+271,70,"Corrosion of cornea and conjunctival sac, right eye, init",2/1/2025,8/3/2024,100,Female,53.6,Topiramate,2283,Pediatrics,Maine,No,2,4.195,Middle level,NO,High level,Extreme
+272,50,Malignant neoplasm of small intestine,12/12/2024,11/10/2024,45,Female,258.7,"Arnica Montana, Echinacea, Boron Gluconate, Symphytum Officinale, Hekla Lava, Calcarea Carbonica",7856,Ophthalmology,Montana,No,7,2.947,Middle level,NO,Initial stage,Low
+273,27,"Kayser-Fleischer ring, bilateral",3/15/2024,10/26/2024,95,Female,262.4,HUMAN RHO(D) IMMUNE GLOBULIN,5606,General Medicine,Montana,No,3,4.535,High level,NO,Initial stage,Low
+274,78,"Injury of median nerve at upper arm level, left arm",6/22/2024,10/26/2024,19,Male,293.4,glipizide,6516,Oncology,Montana,No,5,2.951,High level,NO,Initial stage,Low
+275,54,"Posterior sublux of proximal end of tibia, unsp knee, subs",9/6/2024,1/16/2025,86,Male,293.8,Olanzapine,1411,Neurology,South Carolina,Yes,1,2.399,Middle level,NO,Initial stage,Severe
+276,70,"Food in bronchus causing other injury, subsequent encounter",8/24/2024,3/25/2024,63,Female,171.3,Testosterone,838,General Medicine,Montana,Yes,6,3.582,Middle level,Yes,Initial stage,High
+277,7,"Unsp injury of unsp msl/tnd at ank/ft level, r foot, init",4/16/2024,10/29/2024,98,Male,164.6,Metformin Hydrochloride,5995,Pediatrics,Delaware,Yes,10,3.708,High level,Yes,Initial stage,Low
+278,12,"Abrasion, left lesser toe(s)",7/1/2024,10/20/2024,31,Female,109.7,SULFAMETHOXAZOLE and TRIMETHOPRIM,4967,Cardiology,Montana,Yes,3,3.34,Middle level,NO,Initial stage,Severe
+279,89,"Oth physl fx lower end unsp tibia, subs for fx w delay heal",4/3/2024,6/9/2024,90,Male,173.9,fluticasone propionate,9773,Orthopedics,Arizona,Yes,5,3.188,Middle level,NO,Initial stage,Extreme
+280,81,Other forms of acute pericarditis,3/30/2024,1/25/2025,98,Male,249.7,TRICLOSAN,5600,Oncology,Maine,Yes,10,4.387,High level,Yes,Initial stage,Low
+281,2,"Unsp open wound of right thumb with damage to nail, sequela",3/5/2024,4/2/2024,18,Female,143.2,"L Arginine, Pineal, Pituitary, Progesteronium, Belladonna, Chelidonium Majus, Dioscorea Villosa, Folliculinum",2517,Pediatrics,Kentucky,No,2,4.482,Initial stage,NO,High level,Low
+282,8,"Pasngr in pk-up/van inj in nonclsn trnsp acc nontraf, sqla",11/5/2024,2/3/2025,42,Female,142,phenytoin sodium,3733,Cardiology,Nevada,Yes,7,4.937,High level,NO,Initial stage,Low
+283,25,"Unsp fx shaft of humer, right arm, subs for fx w delay heal",11/24/2024,9/20/2024,66,Female,226.4,"Octinoxate, Octisalate, Zinc Oxide",7097,Oncology,Oregon,No,7,4.667,Initial stage,NO,High level,Severe
+284,50,"Displ subtrochnt fx l femr, 7thH",5/25/2024,12/26/2024,81,Male,51.4,ALCOHOL,6603,Cardiology,Arizona,No,8,4.893,Initial stage,NO,Middle level,Severe
+285,31,"Contus/lac/hem crblm w LOC >24 hr w ret consc lev, init",4/2/2024,5/17/2024,92,Female,161.2,"ACETAMINOHPEN, DEXTROMETHORPHAN HBr, PHENYLEPHRINE HCL",1596,Cardiology,South Carolina,No,10,2.987,Initial stage,NO,Initial stage,Moderate
+286,73,"Pathological fracture, l humerus, subs for fx w routn heal",5/4/2024,5/30/2024,25,Female,32.7,Hydrocodone Bitartrate and Acetaminophen,9562,General Medicine,Oregon,Yes,7,4.764,Initial stage,NO,Middle level,Severe
+287,28,"Tidal wave due to storm, sequela",5/2/2024,2/27/2025,5,Male,164.3,ranitidine hydrochloride,5947,Cardiology,Arizona,No,3,4.486,High level,Yes,Middle level,Moderate
+288,76,"Unsp pedl cyclst inj in clsn w statnry object nontraf, init",6/30/2024,4/23/2024,83,Agender,164.3,Diclofenac Sodium,1801,Oncology,Montana,Yes,6,3.022,Initial stage,NO,Initial stage,Moderate
+289,68,"Open bite of right lesser toe(s) w/o damage to nail, sequela",8/23/2024,11/13/2024,45,Male,138.5,OCTINOXATE,1846,Ophthalmology,Kentucky,Yes,2,3.034,Initial stage,Yes,Middle level,Low
+290,74,"Torus fx upper end of left fibula, subs for fx w malunion",9/1/2024,6/7/2024,34,Female,192.5,"OCTINOXATE, OXYBENZONE",2589,Orthopedics,Kentucky,Yes,5,4.602,Initial stage,NO,Initial stage,Severe
+291,44,"Poisoning by oth synthetic narcotics, self-harm, subs",12/14/2024,9/18/2024,33,Male,42.4,Nadolol,6521,Orthopedics,Oregon,Yes,2,3.897,Middle level,Yes,Initial stage,Severe
+292,91,"Dislocation of MTP joint of right lesser toe(s), sequela",3/29/2024,12/30/2024,19,Male,164,loratadine,8308,Cardiology,Maine,Yes,7,2.342,Initial stage,Yes,Middle level,Low
+293,48,"Bather struck by powered watercraft, initial encounter",11/7/2024,7/28/2024,94,Male,22.6,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl",3498,Pediatrics,Montana,Yes,7,3.154,High level,NO,Middle level,Severe
+294,12,"Fall from or off toilet w/o strike against object, sequela",7/20/2024,5/31/2024,86,Female,278.1,Somatropin,9217,Neurology,Montana,No,3,3.523,Middle level,Yes,Middle level,High
+295,89,"Oth fx shaft of l fibula, 7thJ",2/25/2025,7/2/2024,8,Female,179.4,Lemon,4390,Orthopedics,Oregon,Yes,8,4.9,Initial stage,NO,Middle level,High
+296,61,"Juvenile rheumatoid arthritis with systemic onset, shoulder",5/29/2024,7/23/2024,26,Female,259.4,Guaifenesin and Dextromethorphan Hydrobromide,3392,Cardiology,Delaware,Yes,3,2.427,High level,NO,High level,Low
+297,16,"Foreign body granuloma of soft tissue, NEC, hand",4/9/2024,5/10/2024,52,Male,218.5,Nortriptyline Hydrochloride,8355,Pediatrics,Delaware,No,10,4.491,Initial stage,Yes,High level,Low
+298,7,"Nondisp commnt fx shaft of r tibia, 7thR",3/5/2024,4/25/2024,48,Bigender,123.4,TRICLOSAN,4026,Pediatrics,Maine,Yes,1,3.354,High level,Yes,Middle level,Low
+299,30,Unspecified otitis externa,3/31/2024,5/29/2024,81,Male,96.4,desvenlafaxine,8425,Ophthalmology,South Carolina,No,3,4.011,Initial stage,Yes,Initial stage,High
+300,39,"Other rupture of muscle (nontraumatic), hand",4/30/2024,2/22/2025,82,Female,158.8,reteplase,5229,Cardiology,Delaware,No,5,2.648,Initial stage,NO,Middle level,Severe
+301,9,"Poisoning by tetracyclic antidepressants, accidental",12/3/2024,2/14/2025,92,Female,145.8,Salicylic acid,8391,Ophthalmology,Nevada,Yes,10,3.302,Middle level,NO,Middle level,Low
+302,94,Malignant neoplasm of ovrlp sites of right eye and adnexa,6/3/2024,10/10/2024,13,Male,286.1,piperacillin sodium and tazobactam sodium,8068,Orthopedics,Nevada,No,8,4.783,Middle level,Yes,Initial stage,Low
+303,16,"Labor and delivery comp by cord around neck, w compression",3/13/2024,7/25/2024,100,Polygender,160.4,Octinoxate and Oxybenzone,8110,Oncology,Maine,No,1,4.252,High level,NO,High level,Severe
+304,15,"Corrosion of third degree of right thumb (nail), init encntr",12/13/2024,1/8/2025,89,Male,168.6,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,687,Ophthalmology,Delaware,Yes,6,4.482,Middle level,NO,High level,High
+305,58,"Acute recurrent sinusitis, unspecified",9/27/2024,5/3/2024,26,Male,217.6,Arnica Aurum 6/10,3494,Ophthalmology,South Carolina,Yes,6,2.168,High level,NO,Middle level,Severe
+306,86,"Maternal care for high head at term, fetus 5",2/23/2025,5/7/2024,50,Male,29.3,ADENOSINE,2572,Oncology,South Carolina,No,10,3.058,Initial stage,NO,High level,High
+307,49,Other juvenile osteochondrosis of hip and pelvis,4/9/2024,2/15/2025,17,Male,149,SULFUR,6012,Neurology,Arizona,No,4,4.787,Initial stage,Yes,Middle level,Severe
+308,14,"Laceration w/o foreign body of unsp part of head, sequela",7/4/2024,5/29/2024,35,Male,203.7,Octinoxate and Avobenzone,4355,Pediatrics,Maine,Yes,5,3.562,Middle level,NO,Middle level,High
+309,78,Nondisp avulsion fracture (chip fracture) of right talus,10/17/2024,7/19/2024,74,Female,95.2,Trimethobenzamide Hydrochloride,5630,General Medicine,Arizona,No,1,3.983,Middle level,Yes,High level,Moderate
+310,4,Torsion of ovary and ovarian pedicle,11/18/2024,11/1/2024,31,Bigender,179.8,Olanzapine,4211,Neurology,Nevada,No,4,2.279,Middle level,NO,High level,Low
+311,41,"Drown due to (nonpowered) inflatable craft sinking, subs",9/29/2024,1/14/2025,83,Female,227.6,"Avena sativa, Equisetum hyemale, Hypericum perforatum, Ulmus fulva, Glycyrrha glabra, Pueraria lobata,",1763,Ophthalmology,Arizona,Yes,8,4.567,Initial stage,Yes,High level,Extreme
+312,49,"Laceration of liver, unspecified degree, initial encounter",6/3/2024,8/15/2024,96,Female,70.6,ACTIVATED CHARCOAL - AETHUSA CYNAPIUM - APOMORPHINE HYDROCHLORIDE - BRYONIA ALBA ROOT - COLCHICUM AUTUMNALE BULB - IPECAC - LYCOPODIUM CLAVATUM SPORE - STRYCHNOS IGNATII SEED - STRYCHNOS NUX-VOMICA SE,4895,Cardiology,Nevada,Yes,9,4.376,High level,NO,Initial stage,Moderate
+313,87,"Corrosion of second degree of unsp ankle and foot, subs",5/24/2024,5/3/2024,66,Male,200.5,"Berberis Aquifolium, Calendula Officinalis, Hydrastis Canadensis, Acid Boric, Zinc Oxide, Borax, Calcium Sulphate, Antimonium Crudum",8272,Oncology,Montana,Yes,1,4.001,Middle level,NO,High level,Extreme
+314,40,Rupture of synovium,1/13/2025,1/20/2025,24,Male,298.7,Eszopiclone,1427,Neurology,Montana,Yes,5,3.433,Middle level,Yes,Middle level,Low
+315,97,Occupant of pk-up/van injured in collision w nonmtr vehicle,9/26/2024,1/25/2025,13,Male,94.1,Witch Hazel,3061,Neurology,Oregon,Yes,6,2.86,Middle level,Yes,Middle level,Moderate
+316,14,Abnormal urine levels of substances chiefly nonmed source,9/14/2024,8/13/2024,50,Male,235.1,BACITRACIN ZINC,9157,Orthopedics,Nevada,Yes,10,3.191,Middle level,NO,Initial stage,Low
+317,85,"Unspecified open wound, left ankle",11/8/2024,12/29/2024,23,Male,100.2,Metformin Hydrochloride,7326,Orthopedics,Arizona,No,10,3.461,Middle level,NO,Initial stage,Extreme
+318,84,Other anemias due to enzyme disorders,5/1/2024,6/18/2024,25,Male,89,IMIPRAMINE PAMOATE,8866,Oncology,Delaware,No,8,3.668,Middle level,NO,High level,Severe
+319,89,"Occupant of stcar injured in clsn w mtr veh nontraf, subs",1/25/2025,5/3/2024,53,Female,32.7,Lisinopril,2129,Orthopedics,Oregon,Yes,8,4.72,High level,Yes,High level,Low
+320,46,"Burn of unspecified body region, unspecified degree",7/13/2024,3/7/2024,44,Male,32.1,Digoxin,2394,Neurology,Delaware,No,1,2.545,High level,NO,Middle level,Extreme
+321,27,"Nondisp spiral fx shaft of l fibula, 7thE",12/28/2024,3/13/2024,79,Female,136.3,"Neomycin, Polymyxin B, and Pramoxine Hydrochloride",4939,Neurology,Oregon,Yes,4,2.123,High level,Yes,High level,Extreme
+322,13,"Terrorism involving chemical weapons, terrorist injured",12/12/2024,11/8/2024,62,Male,171.6,"THYROID, PORCINE",2924,Neurology,Oregon,Yes,6,2.904,Initial stage,NO,Middle level,Low
+323,85,"Inj msl/fasc/tnd posterior grp at thigh level, left thigh",4/1/2024,12/10/2024,8,Female,196.3,Titanium Dioxide,1703,Orthopedics,Nevada,Yes,9,2.464,Initial stage,NO,High level,High
+324,81,"Injury of femoral nrv at hip and thi lev, right leg, subs",3/3/2025,12/8/2024,91,Female,154,"Homosalate, Octisalate, Octocrylene and Titanium dioxide",7615,General Medicine,South Carolina,Yes,9,2.726,Initial stage,Yes,Middle level,High
+325,45,"Short Achilles tendon (acquired), left ankle",6/5/2024,11/27/2024,22,Female,52.6,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",9288,Oncology,Kentucky,Yes,4,2.259,Middle level,Yes,High level,Low
+326,29,"Rheumatoid arthritis w/o rheumatoid factor, right shoulder",7/12/2024,11/16/2024,28,Female,117.8,vardenafil hydrochloride,7678,Ophthalmology,Montana,No,1,4.841,Initial stage,Yes,High level,High
+327,60,"Nondisp transverse fx shaft of humer, l arm, init for opn fx",1/17/2025,10/1/2024,24,Male,285.9,Aluminum Zirconium Tetrachlorohydrex GLY 20.0%,5333,Ophthalmology,Delaware,Yes,8,2.4,High level,NO,Middle level,Low
+328,52,Laceration w foreign body of left thumb w/o damage to nail,9/7/2024,12/24/2024,67,Male,176.8,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",5593,General Medicine,Nevada,Yes,7,4.287,Initial stage,Yes,Middle level,Low
+329,76,Neonatal cerebral ischemia,6/12/2024,1/3/2025,80,Female,94.7,Ciclopirox,545,Cardiology,Arizona,Yes,6,3.957,Initial stage,NO,High level,Extreme
+330,91,Laceration with foreign body of unspecified ear,2/8/2025,3/12/2024,65,Female,112.3,Acetaminophen and Phenylephrine HCl,9754,Neurology,South Carolina,No,2,4.076,High level,NO,Middle level,Severe
+331,67,Cognitive deficits following other cerebrovascular disease,3/15/2024,11/9/2024,61,Female,126,Fluorescein Sodium,9530,Cardiology,Kentucky,Yes,8,2.39,Initial stage,Yes,Middle level,Moderate
+332,50,Unspecified foreign body in trachea causing asphyxiation,12/10/2024,7/7/2024,30,Female,70.4,perphenazine and amitriptyline hydrochloride,5476,Pediatrics,Nevada,No,7,4.595,Middle level,Yes,Middle level,Extreme
+333,4,"Nondisp comminuted fx shaft of ulna, unsp arm, sequela",2/10/2025,11/3/2024,50,Female,219.3,Tolterodine Tartrate,6510,Pediatrics,Maine,No,10,3.483,Middle level,NO,Middle level,Severe
+334,20,"Miotic pupillary cyst, right eye",9/6/2024,3/18/2024,57,Female,66.6,RHIZOPUS STOLONIFER,1214,Pediatrics,South Carolina,No,5,2.055,High level,Yes,Middle level,High
+335,33,"Athscl native arteries of extrm w gangrene, bilateral legs",8/2/2024,3/20/2024,41,Male,176.4,"ESTROGENS, ESTERIFIED and METHYLTESTOSTERONE",9279,General Medicine,Delaware,Yes,3,4.539,High level,Yes,Middle level,High
+336,9,"Complete traumatic trnsphal amp of l mid finger, sequela",8/3/2024,3/23/2024,16,Male,241.5,Sumatriptan Succinate,5584,Orthopedics,Maine,Yes,4,3.898,Middle level,Yes,Initial stage,Severe
+337,69,Candidiasis of skin and nail,9/6/2024,3/3/2025,47,Female,247.1,Ibuprofen,6710,Pediatrics,Delaware,Yes,5,4.653,Initial stage,Yes,Initial stage,High
+338,22,"Retinal telangiectasis, right eye",12/19/2024,5/13/2024,16,Female,289.3,"Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride",7958,Ophthalmology,Maine,Yes,9,3.728,High level,NO,Middle level,Low
+339,76,"Viral conjunctivitis, unspecified",9/14/2024,4/7/2024,14,Male,133.2,Carvedilol,8731,Cardiology,Nevada,Yes,4,3.487,Middle level,Yes,High level,Moderate
+340,52,"Nondisp fx of less trochanter of unsp femr, 7thF",9/11/2024,3/27/2024,19,Male,245.3,phentermine and topiramate,9627,General Medicine,Delaware,Yes,10,4.379,High level,Yes,Initial stage,Low
+341,70,"Corrosion of unspecified degree of left upper arm, sequela",10/29/2024,10/16/2024,14,Male,139.4,TITANIUM DIOXIDE,3661,Oncology,Delaware,Yes,6,4.356,Initial stage,NO,Middle level,Severe
+342,39,"Matern care for viable fetus in abd preg, unsp tri, fetus 3",11/9/2024,8/22/2024,10,Female,120.5,Western Ragweed,5574,Ophthalmology,Delaware,Yes,3,3.506,Middle level,NO,High level,Moderate
+343,99,"Other specified arthritis, multiple sites",4/17/2024,7/25/2024,69,Male,219.7,Metoprolol tartrate,4769,Oncology,Oregon,No,8,2.933,High level,Yes,Middle level,High
+344,29,"Mantle cell lymphoma, intrapelvic lymph nodes",7/3/2024,6/1/2024,96,Male,35.7,SOLANUM DULCAMARA TOP - ACTIVATED CHARCOAL - CHELONE GLABRA - GOLDENSEAL,2668,Neurology,Montana,No,7,3.42,High level,NO,Middle level,Extreme
+345,32,"Sltr-haris Type II physl fx upr end l tibia, 7thD",4/20/2024,12/23/2024,65,Female,279.6,OCTINOXATE and TITANIUM DIOXIDE,6272,Pediatrics,Montana,No,8,3.81,Middle level,Yes,High level,Severe
+346,48,"Postimmunization arthropathy, unspecified hip",11/25/2024,9/5/2024,5,Male,236.1,Lorazepam,8456,Pediatrics,Maine,No,8,3.332,High level,Yes,Middle level,Extreme
+347,69,Complete traumatic amputation at left shoulder joint,5/25/2024,9/26/2024,63,Male,291.9,Clindamycin Hydrochloride,5776,Cardiology,Nevada,Yes,8,3.225,High level,NO,High level,Severe
+348,10,Displacement of other urinary devices and implants,5/7/2024,3/19/2024,1,Female,197.3,ketorolac tromethamine,2545,Orthopedics,Montana,Yes,1,3.463,Initial stage,NO,Initial stage,Extreme
+349,9,Oth disorders of nervous system in diseases classd elswhr,2/28/2025,2/15/2025,38,Male,271.2,"Acetaminophen, Chlorpheniramine maleate, and Phenylephrine Hydrochloride",4306,Cardiology,Kentucky,Yes,4,4.574,High level,NO,Initial stage,Moderate
+350,80,"Toxic effect of chlorofluorocarbons, self-harm, sequela",11/10/2024,3/11/2024,64,Genderqueer,65.6,Mycophenolate mofetil,2984,Cardiology,Nevada,Yes,7,4.611,Initial stage,Yes,Middle level,Moderate
+351,99,"Subluxation of MCP joint of left index finger, init",12/8/2024,2/28/2025,65,Male,61.1,Treatment Set TS331153,8000,Neurology,Oregon,Yes,10,4.877,High level,NO,Middle level,High
+352,28,Pasteurellosis,2/14/2025,12/26/2024,39,Female,26.1,metoprolol succinate and hydrochlorothiazide,3335,Ophthalmology,Delaware,No,9,3.643,Middle level,Yes,Initial stage,Extreme
+353,21,"Otitis media in diseases classified elsewhere, right ear",1/18/2025,3/21/2024,90,Female,235.8,Dexamethasone,8453,General Medicine,Montana,Yes,2,4.186,Middle level,Yes,High level,Severe
+354,2,"Displ commnt fx shaft of r tibia, 7thC",9/30/2024,1/14/2025,39,Female,166.6,Lisinopril and Hydrochlorothiazide,1641,Oncology,Nevada,No,6,3.068,High level,Yes,Initial stage,Severe
+355,97,"Labor and delivery complicated by prolapse of cord, unsp",5/30/2024,11/6/2024,77,Female,122.5,Ampicillin sodium and Sulbactam sodium,7535,Oncology,Montana,Yes,3,4.226,High level,Yes,High level,Low
+356,44,"Paralytic calcifcn and ossification of muscle, left ank/ft",8/28/2024,5/21/2024,40,Male,244.3,Bismuth subsalicylate,8061,Pediatrics,Montana,No,7,4.565,Initial stage,NO,Middle level,Severe
+357,13,"Poisoning by iminostilbenes, undetermined, subs encntr",9/25/2024,8/20/2024,74,Male,24.6,Ketorolac Tromethamine,6135,Ophthalmology,Delaware,No,1,3.855,Initial stage,NO,High level,Extreme
+358,28,Streptococcus B carrier state complicating the puerperium,5/8/2024,8/11/2024,66,Male,210.5,Octinoxate and Avobenzone,8688,Pediatrics,Maine,No,8,2.933,Middle level,NO,Middle level,High
+359,12,"Vernal keratoconjunct, w limbar and corneal involvement",9/5/2024,6/11/2024,100,Female,251.6,DIPHENHYDRAMINE,4312,Oncology,Montana,No,6,2.279,Middle level,NO,Middle level,Severe
+360,84,Puncture wound without foreign body of unsp part of head,1/21/2025,3/18/2024,75,Female,28,"Sarcolacticum Acidum, Viscum Album, Iodium, Colchicum Atumnale, Conium Maculatum, Fucus Vesiculosus, Galiu Aparine, Natrum Oxalaceticum",8781,Ophthalmology,Nevada,No,5,2.78,Middle level,NO,Initial stage,Extreme
+361,1,"Pneumococcal arthritis, right elbow",8/16/2024,2/18/2025,35,Genderqueer,164.5,cetylpyridinium chloride,2352,Ophthalmology,Maine,Yes,10,3.782,High level,Yes,Initial stage,High
+362,80,"Burn of third degree of ear [any part, except ear drum]",11/12/2024,8/2/2024,43,Male,294.3,CLONIDINE HYDROCHLORIDE,6448,Orthopedics,Delaware,No,1,4.872,Initial stage,Yes,Middle level,Severe
+363,22,"Explosn of bomb placed during war op but expld after, milt",6/28/2024,3/5/2024,80,Male,195.5,Lithium Carbonate,4676,Cardiology,Maine,Yes,6,4.955,Initial stage,Yes,High level,High
+364,40,"Torus fx upper end of unsp tibia, subs for fx w delay heal",9/12/2024,11/6/2024,53,Male,142.7,Hydrocortisone Acetate,8081,Ophthalmology,Kentucky,No,2,2.746,Initial stage,NO,Initial stage,Moderate
+365,51,Laceration without foreign body of left elbow,1/26/2025,6/1/2024,25,Female,53.6,OCTINOXATE,4274,Pediatrics,Oregon,No,3,4.892,High level,NO,Initial stage,Severe
+366,19,Fall into natural body of water striking side,1/9/2025,11/5/2024,77,Male,40.6,"Avobenzone 2.5%, Octinoxate 6%, Oxybenzone 3%",9424,General Medicine,Maine,No,6,2.878,High level,Yes,High level,High
+367,32,Underdosing of antiparkns drug/centr muscle-tone depressants,11/29/2024,10/6/2024,88,Male,238.1,California Black Walnut,1756,Pediatrics,South Carolina,No,3,4.182,Initial stage,NO,Initial stage,Extreme
+368,86,Benign neoplasm of pituitary gland,9/24/2024,3/22/2024,24,Female,252.6,Lorazepam,2601,Cardiology,Oregon,Yes,5,3.641,Initial stage,NO,High level,Moderate
+369,49,"Nondisp fx of glenoid cav of scapula, l shldr, 7thP",3/23/2024,10/13/2024,55,Female,274.6,Ranitidine,1631,Pediatrics,Delaware,No,5,4.855,High level,Yes,Initial stage,Severe
+370,19,"Poisoning by immunoglobulin, undetermined, subs encntr",6/1/2024,9/1/2024,3,Female,295.5,Phenol,6202,Pediatrics,Nevada,No,6,2.1,High level,Yes,Initial stage,Severe
+371,17,Other specified arthritis,9/13/2024,12/15/2024,64,Female,172.6,ARBUTIN,3625,Oncology,South Carolina,No,9,3.782,High level,Yes,Middle level,Severe
+372,71,"Unsp physl fx upr end rad, unsp arm, subs for fx w nonunion",6/16/2024,3/16/2024,64,Male,92.5,Nitroglycerin,1575,Ophthalmology,Montana,Yes,2,4.921,High level,NO,Middle level,Severe
+373,91,"Other fish poisoning, intentional self-harm, sequela",7/31/2024,8/5/2024,24,Female,286.4,citalopram,6580,Cardiology,Montana,Yes,7,4.258,Initial stage,Yes,High level,High
+374,27,"Complete traum amp at lev betw kn & ankl, unsp low leg, sqla",11/3/2024,2/25/2025,44,Female,159.1,risperidone,9296,Cardiology,Oregon,Yes,8,2.784,Initial stage,NO,Middle level,Low
+375,32,"Displaced dome fracture of right acetabulum, init",9/9/2024,7/20/2024,13,Male,164,warfarin sodium,5860,Neurology,Montana,No,4,2.092,Middle level,Yes,Middle level,Low
+376,15,Chloasma of right lower eyelid and periocular area,3/31/2024,10/5/2024,59,Male,218.1,Bethanechol Chloride,8488,Ophthalmology,South Carolina,No,9,2.357,High level,Yes,High level,Moderate
+377,44,"Nondisp fx of lateral end r clavicle, subs for fx w malunion",6/21/2024,6/6/2024,98,Polygender,73.1,Lorazepam,9083,Cardiology,Nevada,No,3,3.682,Middle level,Yes,Middle level,Severe
+378,6,Abn radlgc findings on dx imaging of other urinary organs,12/26/2024,7/26/2024,15,Female,58.3,Witch Hazel,2874,Cardiology,Kentucky,Yes,6,3.087,Initial stage,Yes,Initial stage,Extreme
+379,35,"Viral hepatitis complicating pregnancy, third trimester",8/23/2024,12/31/2024,94,Male,290.9,Diethylpropion hydrochloride,651,Oncology,Kentucky,Yes,7,2.397,Initial stage,Yes,Middle level,Low
+380,22,Traumatic amputation of two or more lesser toes,7/1/2024,12/29/2024,44,Male,31.4,"Petrolatum, Avobenzone, Octinoxate, Octisalate, Octocrylene, Oxybenzone",6344,Cardiology,Arizona,No,7,2.463,High level,NO,Initial stage,Moderate
+381,28,"Pressure ulcer of unspecified hip, unstageable",4/8/2024,12/28/2024,66,Female,248.7,TOLNAFTATE,4773,Cardiology,South Carolina,Yes,1,3.497,Initial stage,Yes,High level,Extreme
+382,94,"Unsp athscl nonaut bio bypass of the extrm, bilateral legs",3/13/2024,7/9/2024,21,Female,91.3,hydrocodone bitartrate and acetaminophen,9266,General Medicine,Arizona,No,4,2.165,Initial stage,Yes,Middle level,Severe
+383,29,Other intentional self-harm by crashing of motor vehicle,9/24/2024,10/22/2024,45,Female,87.7,omeprazole,5007,Pediatrics,Delaware,Yes,5,4.154,Initial stage,Yes,Middle level,Extreme
+384,94,Newborn affected by other compression of umbilical cord,10/15/2024,12/24/2024,49,Male,234.9,Iodixanol,5520,Neurology,Maine,No,7,4.09,Middle level,NO,Initial stage,High
+385,46,"Oth fracture of shaft of left tibia, init for clos fx",6/19/2024,4/18/2024,7,Male,54.7,"TITANIUM DIOXIDE, ZINC OXIDE",1031,General Medicine,South Carolina,No,1,4.725,Middle level,NO,Initial stage,Severe
+386,52,"Inj flexor musc/fasc/tend l mid finger at wrs/hnd lv, sqla",11/20/2024,4/24/2024,44,Male,251.3,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",6333,Pediatrics,Nevada,No,2,2.759,Initial stage,Yes,Middle level,High
+387,99,Traum subdr hem w loss of consciousness of unsp duration,7/23/2024,2/1/2025,40,Female,225.2,LIDOCAINE HYDROCHLORIDE,5359,Neurology,Kentucky,No,8,2.711,Initial stage,Yes,Middle level,Low
+388,58,Unspecified injury of stomach,8/4/2024,1/19/2025,67,Male,297.5,"OCTINOXATE, TITANIUM DIOXIDE",7047,Pediatrics,Delaware,Yes,6,2.139,Middle level,NO,Initial stage,High
+389,59,"Sprain of unsp ligament of unspecified ankle, subs encntr",1/11/2025,10/9/2024,42,Agender,27.6,Antibacterial,9153,Ophthalmology,Kentucky,No,1,2.44,High level,NO,High level,Severe
+390,41,"Thoracoabdominal aortic aneurysm, without rupture",3/5/2024,8/26/2024,83,Female,87,Fremont Cottonwood,8119,Ophthalmology,Oregon,No,10,4.091,Middle level,NO,Middle level,Severe
+391,29,"Insect bite (nonvenomous) of left middle finger, subs encntr",11/15/2024,4/3/2024,22,Male,191.8,Carbon Dioxide,2334,Orthopedics,Kentucky,Yes,6,2.894,Initial stage,Yes,Initial stage,High
+392,92,"Subluxation of T12/L1 thoracic vertebra, sequela",11/4/2024,6/30/2024,91,Genderqueer,199.2,SILICON DIOXIDE,4319,Pediatrics,Maine,No,1,3.409,High level,Yes,Initial stage,High
+393,33,"Penetrating wound of orbit w or w/o fb, left eye, init",8/1/2024,11/24/2024,1,Female,154.5,Hydralazine hydrochloride and Isosorbide dinitrate,4407,Neurology,Kentucky,No,7,2.81,High level,Yes,High level,Severe
+394,35,"Nondisp fx of base of fifth MC bone, right hand, init",9/4/2024,12/22/2024,51,Male,81,Calcium Carbonate,7383,General Medicine,Nevada,Yes,8,4.24,Initial stage,Yes,Middle level,Moderate
+395,37,Insect bite (nonvenomous) of left shoulder,8/2/2024,7/15/2024,56,Female,154.3,DOCUSATE SODIUM,3552,Pediatrics,Kentucky,No,6,2.208,Middle level,NO,High level,Low
+396,31,"Assault by strike by baseball bat, subsequent encounter",10/15/2024,10/8/2024,95,Male,293.3,Adenosine,1612,General Medicine,Oregon,No,1,4.453,Middle level,Yes,High level,Severe
+397,71,"Iron deficiency anemia, unspecified",12/19/2024,7/16/2024,47,Female,287.5,"Loratadine, Pseudoephedrine Sulfate",3405,General Medicine,Maine,Yes,3,3.36,Middle level,NO,Middle level,High
+398,79,"Unsp car occupant injured in clsn w 2/3-whl mv in traf, subs",12/29/2024,7/2/2024,2,Female,192.7,"Salicylic Acid, Octinoxate, Zinc Oxide, and Benzoyl Peroxide",1214,General Medicine,Montana,Yes,10,3.895,Middle level,Yes,Initial stage,High
+399,4,"Blister (nonthermal) of left thumb, sequela",9/4/2024,4/29/2024,43,Male,233,Sodium Fluoride and Potassium Nitrate,4210,General Medicine,Kentucky,No,10,4.633,Initial stage,Yes,High level,Low
+400,67,"Oth fx low end r tibia, 7thR",6/12/2024,10/7/2024,24,Female,37,Verapamil Hydrochloride,7527,General Medicine,Delaware,Yes,4,3.668,High level,Yes,High level,Extreme
+401,20,"Intvrt disc disorders w radiculopathy, thoracolumbar region",2/12/2025,9/20/2024,65,Bigender,224.5,bicalutamide,6894,General Medicine,Nevada,Yes,3,4.554,High level,NO,High level,Moderate
+402,72,"Unspecified injury of left ankle, initial encounter",9/21/2024,10/26/2024,42,Male,204.3,Miconazole nitrate,2801,General Medicine,Oregon,Yes,3,4.959,Initial stage,Yes,High level,Extreme
+403,2,"Corros third degree of unsp mult fngr, inc thumb, init",10/7/2024,5/13/2024,97,Male,44.4,NAPROXEN,9153,Ophthalmology,Kentucky,Yes,8,4.332,High level,Yes,Middle level,Moderate
+404,80,"Fx unsp metatarsal bone(s), unsp foot, init for opn fx",5/26/2024,11/13/2024,32,Genderqueer,44.7,Jock Itch Spray,1948,Ophthalmology,Arizona,No,3,3.133,Initial stage,Yes,Initial stage,Extreme
+405,9,"Paracoccidioidomycosis, unspecified",6/6/2024,5/18/2024,21,Female,156.3,Isopropyl Alcohol,534,General Medicine,Montana,Yes,10,4.745,Middle level,NO,High level,Extreme
+406,21,"Transient synovitis, right hand",11/3/2024,2/14/2025,77,Male,251.1,Acetaminophen,6848,Oncology,Oregon,No,2,2.448,Initial stage,NO,Initial stage,Severe
+407,44,"Unsp inj flexor musc/fasc/tend l idx fngr at forarm lv, subs",11/19/2024,9/8/2024,37,Male,70.1,GLYCERIN,2940,General Medicine,Oregon,No,2,4.971,High level,Yes,Middle level,Severe
+408,20,"Accidental discharge of gas, air or sprng-op gun, sequela",5/18/2024,10/12/2024,29,Male,21.8,Isopropyl Alcohol,2192,Oncology,Montana,Yes,4,2.463,High level,Yes,Middle level,High
+409,67,"Unsp inj unsp musc/fasc/tend at shldr/up arm, r arm, sqla",12/18/2024,8/20/2024,87,Female,31.7,risperidone,3705,Ophthalmology,Kentucky,Yes,6,3.123,Initial stage,Yes,Middle level,High
+410,90,"Other specified deforming dorsopathies, cervical region",8/17/2024,6/8/2024,36,Female,295.8,Oxygen,3758,Pediatrics,Arizona,No,7,3.574,Initial stage,Yes,Middle level,Low
+411,59,Oth and unsp symptoms and signs involving the GU sys,11/1/2024,3/9/2024,42,Male,81.2,ambrosia artemisiifolia pollen,4058,Oncology,Arizona,Yes,5,4.991,Middle level,NO,High level,High
+412,23,"Disp fx of ant wall of left acetab, subs for fx w nonunion",8/21/2024,11/3/2024,11,Female,261.4,topiramate,1914,Neurology,Delaware,Yes,10,4.967,Middle level,NO,High level,High
+413,57,"Driver of bus injured in collision w unsp mv nontraf, init",4/12/2024,4/5/2024,20,Genderfluid,34,"TITANIUM DIOXIDE, OCTINOXATE, OXYBENZONE",4028,Orthopedics,Oregon,No,5,3.156,Middle level,NO,High level,Moderate
+414,67,Corrosion of first degree of unspecified knee,11/5/2024,9/2/2024,81,Male,219.7,Allergenic Extracts Alum Precipitated,3765,Ophthalmology,Oregon,Yes,5,3.438,Middle level,NO,Initial stage,Extreme
+415,97,Cystocele,6/24/2024,5/8/2024,83,Female,212.2,atenolol,1770,Neurology,Delaware,No,10,2.74,Initial stage,Yes,High level,Low
+416,84,"Oth disorders of bone dev and growth, unsp ulna and radius",9/22/2024,11/8/2024,98,Male,268.5,MEPERIDINE HYDROCHLORIDE,2200,Oncology,Nevada,Yes,7,4.566,Initial stage,NO,Middle level,Severe
+417,78,"Lac w/o fb of l bk wl of thorax w penet thor cavity, sequela",2/26/2025,5/11/2024,73,Female,25.7,"AVOBENZONE, OCTINOXATE, OCTISALATE, OXYBENZONE",9441,Oncology,Maine,No,8,2.415,High level,NO,Initial stage,Severe
+418,29,"Anterior cord syndrome at T2-T6, init",7/19/2024,9/3/2024,76,Female,282.6,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,8505,Neurology,Montana,No,10,4.645,Initial stage,Yes,Middle level,High
+419,14,Other chorioretinal scars,8/7/2024,10/13/2024,65,Male,143.5,Lidocaine Hydrochloride,7276,Orthopedics,Delaware,Yes,6,4.906,Initial stage,NO,Initial stage,Extreme
+420,38,Nondisplaced fracture of navicular [scaphoid] of left foot,12/17/2024,5/12/2024,48,Female,277.8,Diphenhydramine Hydrochloride,6255,General Medicine,Arizona,No,7,4.315,Initial stage,NO,High level,High
+421,62,"Conduct disorder, unspecified",4/1/2024,12/19/2024,52,Male,258.8,Paricalcitol,6269,Ophthalmology,Delaware,Yes,2,3.965,High level,NO,High level,Low
+422,51,Superficial frostbite of left arm,3/16/2024,4/8/2024,71,Male,153.9,Lorazepam,8533,Oncology,Nevada,Yes,8,3.214,High level,Yes,Initial stage,High
+423,23,"Unsp fx shaft of unsp femur, subs for clos fx w malunion",10/15/2024,12/21/2024,24,Female,107,Ethyl Alcohol,8860,Cardiology,Oregon,Yes,9,4.941,Middle level,Yes,Middle level,Severe
+424,5,"Burn of unsp degree of unspecified shoulder, init encntr",6/10/2024,11/18/2024,65,Female,286.8,Fluoride,982,Cardiology,Arizona,No,3,4.11,Middle level,NO,Middle level,High
+425,36,Lymphangitis,9/18/2024,10/8/2024,95,Male,166.2,Chlordiazepoxide Hydrochloride,746,General Medicine,Nevada,Yes,1,3.287,High level,Yes,High level,High
+426,82,"Athscl nonbiol bypass of the extrm w gangrene, left leg",5/23/2024,8/1/2024,26,Male,150.9,Triclosan,2726,Pediatrics,Oregon,Yes,10,2.08,High level,NO,Middle level,Extreme
+427,51,"Nondisp fx of med condyle of unsp femr, 7thC",5/11/2024,1/8/2025,69,Female,195.6,AZITHROMYCIN,6653,Neurology,Oregon,Yes,2,2.992,High level,NO,Middle level,Low
+428,91,"Puncture wound without foreign body of right breast, sequela",1/22/2025,8/30/2024,18,Female,204,Mexiletine Hydrochloride,8025,Cardiology,Kentucky,Yes,5,2.578,High level,Yes,Initial stage,Moderate
+429,55,"Low-tension glaucoma, unspecified eye, mild stage",5/19/2024,2/1/2025,30,Female,158.3,Cetirizine HCl,9191,General Medicine,Oregon,No,10,2.827,High level,Yes,Initial stage,Severe
+430,84,"Poisn by oth antacids and anti-gstrc-sec drugs, self-harm",12/26/2024,5/31/2024,36,Male,251.7,Titanium Dioxide,4775,General Medicine,Arizona,No,2,3.99,Initial stage,NO,Middle level,Moderate
+431,76,Traumatic cerebral edema w LOC >24 hr w ret consc lev,3/4/2024,9/28/2024,46,Male,104,Chromium Picolinate,5668,Cardiology,Delaware,Yes,7,4.534,High level,NO,High level,Extreme
+432,28,"Expsr to resdnce or prolonged visit at high altitude, init",3/16/2024,9/8/2024,27,Male,36.4,Naproxen Sodium,6581,Orthopedics,Delaware,No,1,2.364,High level,Yes,High level,Low
+433,83,"Lateral dislocation of unspecified patella, init encntr",7/27/2024,7/13/2024,70,Female,128.7,Hydroxyzine Hydrochloride,9199,Cardiology,Oregon,No,8,3.844,Middle level,NO,Initial stage,Severe
+434,70,Cutaneous diphtheria,11/4/2024,11/3/2024,29,Male,278.6,clonazepam,1965,Oncology,Montana,No,2,3.19,Initial stage,NO,High level,Low
+435,20,"Fracture of symphysis of mandible, subs for fx w delay heal",7/13/2024,10/23/2024,73,Male,162.6,Octinoxate and Octisalate,7878,Pediatrics,South Carolina,No,10,4.743,Initial stage,NO,Initial stage,Moderate
+436,28,"Pedl cyc driver injured in collision w oth mv nontraf, init",7/15/2024,4/1/2024,71,Female,294.3,tretinoin,3570,Cardiology,Nevada,No,5,2.128,Middle level,Yes,Middle level,Severe
+437,25,"Stress fracture, pelvis and femur",8/21/2024,12/14/2024,42,Female,57.2,Ropinirole,6653,Ophthalmology,Arizona,Yes,6,3.083,Middle level,Yes,Middle level,Moderate
+438,85,"Displaced intertrochanteric fracture of right femur, init",8/20/2024,12/15/2024,36,Male,205,Ethyl Alcohol,1301,Orthopedics,Maine,Yes,3,2.378,High level,NO,High level,High
+439,15,Dual role transvestism,2/4/2025,3/31/2024,99,Male,52.3,PROMETHAZINE WITH CODEINE,3310,General Medicine,Maine,Yes,1,4.782,Middle level,NO,High level,Moderate
+440,18,"Nondisp transverse fx shaft of humerus, left arm, init",1/20/2025,2/3/2025,28,Female,131,"Polyvinyl alcohol, Povidone",5763,Pediatrics,Arizona,No,9,3.973,High level,Yes,High level,Extreme
+441,35,"Nondisp fx of base of fourth metacarpal bone, right hand",6/16/2024,6/24/2024,85,Female,272.1,"OCTINOXATE, TITANIUM DIOXIDE",7914,Orthopedics,Maine,No,6,4.842,Initial stage,Yes,Middle level,Severe
+442,2,Disorders of bile acid and cholesterol metabolism,3/25/2024,3/13/2024,34,Female,167,SALICYLIC ACID,902,Cardiology,Arizona,Yes,4,3.137,High level,NO,High level,Extreme
+443,27,Acute embolism and thrombosis of left axillary vein,8/31/2024,6/28/2024,60,Female,218.9,"Avobenzone, Homosalate, octisalate, octocrylene, oxybenzone",5054,Ophthalmology,Maine,No,8,4.008,High level,Yes,Middle level,Severe
+444,57,Abrasion of left back wall of thorax,12/8/2024,7/29/2024,93,Male,23.6,Acetaminophen,7370,Pediatrics,Arizona,No,1,3.312,Initial stage,NO,Initial stage,Moderate
+445,71,"Disp fx of prox phalanx of unsp great toe, init for opn fx",2/20/2025,7/30/2024,6,Non-binary,221.2,mupirocin calcium,831,Orthopedics,Montana,Yes,1,3.137,Middle level,NO,Middle level,Severe
+446,64,Unspecified open wound of left forearm,8/26/2024,4/22/2024,38,Genderqueer,62.3,risperidone,1139,Pediatrics,Delaware,Yes,4,4.379,Initial stage,Yes,Initial stage,Extreme
+447,13,"Malignant carcinoid tumor of the foregut, unspecified",4/22/2024,7/16/2024,98,Male,37.4,Indomethacin,5589,Pediatrics,Kentucky,No,3,3.377,High level,NO,Middle level,Extreme
+448,66,"Inj oth musc/tend post grp at low leg level, unsp leg, init",3/13/2024,9/16/2024,38,Female,98.6,Lidocaine hydrochloride,4057,Orthopedics,Nevada,No,4,4.185,Middle level,NO,Middle level,High
+449,78,Unspecified injury of blood vessel of unspecified finger,3/10/2024,7/23/2024,49,Male,28.9,"acetaminophen, dextromethorphan HBr, doxylamine succinate",7056,Cardiology,Delaware,No,8,2.128,High level,NO,High level,Low
+450,70,"Toxic effect of hydrogen cyanide, assault, sequela",8/17/2024,9/28/2024,26,Female,292.1,Oxygen,4219,Ophthalmology,Nevada,No,4,2.407,Middle level,NO,Middle level,High
+451,54,"Nondisplaced spiral fracture of shaft of left femur, init",12/29/2024,12/23/2024,12,Female,294.6,tretinoin,8822,Oncology,Montana,No,7,4.446,Initial stage,Yes,Middle level,Low
+452,81,"Disp fx of medial wall of left acetabulum, init for opn fx",2/5/2025,7/19/2024,8,Female,53.6,Torsemide,962,General Medicine,South Carolina,No,5,4.125,Middle level,NO,Middle level,Extreme
+453,39,Other and unspecified injuries of thoracic spinal cord,11/27/2024,5/26/2024,75,Female,139.7,Torsemide,3027,Ophthalmology,Maine,No,9,4.838,Middle level,Yes,High level,Extreme
+454,48,Other disorders of muscle,5/1/2024,6/26/2024,56,Male,99.1,Montelukast Sodium,5126,Orthopedics,Delaware,Yes,9,4.015,Middle level,NO,High level,Moderate
+455,80,"Burn unsp deg mult left fingers (nail), inc thumb, sequela",6/1/2024,3/27/2024,64,Male,68.4,tramadol hydrochloride,8943,Orthopedics,Nevada,No,3,2.114,Initial stage,Yes,Middle level,Severe
+456,99,"Unspecified inflammatory spondylopathy, lumbar region",8/18/2024,5/6/2024,11,Female,38.4,alprazolam,5967,Neurology,Montana,No,9,3.534,Initial stage,NO,Initial stage,Severe
+457,77,"Oth osteoporosis w current pathological fracture, right hand",8/7/2024,3/17/2024,38,Male,201.1,Ragweed Short,6178,Cardiology,South Carolina,Yes,2,2.71,High level,NO,High level,Extreme
+458,95,"Fracture of alveolus of left mandible, 7thG",8/25/2024,11/6/2024,15,Male,217.8,ETHYL ALCOHOL,5379,Ophthalmology,Oregon,No,1,2.936,Initial stage,Yes,High level,Extreme
+459,44,"Disp fx of medial condyle of unsp humerus, init for opn fx",5/4/2024,8/2/2024,29,Female,250,montelukast sodium,6754,Cardiology,Arizona,Yes,3,2.873,Initial stage,NO,High level,Moderate
+460,5,"Nondisp commnt fx unsp patella, 7thH",3/9/2024,11/29/2024,74,Male,110.3,STRYCHNOS IGNATII SEED,5800,General Medicine,Nevada,No,6,2.15,Middle level,NO,Middle level,Low
+461,41,"Unsp inj unsp blood vess at ank/ft level, unsp leg, init",2/28/2025,11/30/2024,9,Agender,192,DOXORUBICIN HYDROCHLORIDE,5552,Orthopedics,Maine,No,10,4.709,Middle level,Yes,Middle level,Severe
+462,30,"Oth fracture of fourth thor vertebra, subs for fx w nonunion",12/27/2024,10/31/2024,80,Male,107.5,acetaminophen and codeine phosphate,1015,General Medicine,Kentucky,No,9,3.462,Middle level,Yes,High level,Moderate
+463,71,"Laceration without foreign body of nose, sequela",6/2/2024,5/28/2024,95,Male,94.2,Venison,2906,Cardiology,Maine,No,10,4.307,Initial stage,NO,Initial stage,Severe
+464,35,"Lacerat blood vessels at ank/ft level, left leg, sequela",8/17/2024,2/13/2025,68,Male,74.8,tranylcypromine sulfate,7916,Pediatrics,Delaware,Yes,8,4.978,Initial stage,NO,High level,High
+465,27,Fracture of neck of talus,9/13/2024,11/14/2024,42,Genderqueer,21.5,olmesartan medoxomil,8517,General Medicine,Maine,Yes,3,2.348,High level,Yes,High level,High
+466,69,"Heat fatigue, transient, subsequent encounter",2/7/2025,10/1/2024,58,Female,242.8,Birch,2433,Orthopedics,Oregon,Yes,1,3.624,High level,NO,High level,Severe
+467,14,Injury of heart with hemopericardium,4/9/2024,9/20/2024,94,Male,217,Diclofenac Epolamine,659,Cardiology,Maine,Yes,9,3.113,Initial stage,Yes,High level,Low
+468,43,"Nondisp seg fx shaft of r femr, 7thJ",8/8/2024,5/17/2024,14,Male,129.4,"Titanium Dioxide, Zinc Oxide",2601,Oncology,Maine,No,7,4.193,High level,NO,Initial stage,High
+469,65,"Breakdown (mechanical) of prosthetic orbit of left eye, subs",2/16/2025,4/6/2024,24,Female,247,Anti-bacterial Hand Wash,9555,Cardiology,Maine,Yes,1,2.788,Initial stage,Yes,High level,Extreme
+470,79,"Early congenital syphilis, symptomatic",2/26/2025,4/7/2024,71,Female,158.7,Spironolactone,5573,Ophthalmology,Nevada,No,10,2.942,High level,NO,High level,Extreme
+471,2,Subluxation of interphalangeal joint of left lesser toe(s),12/11/2024,8/7/2024,5,Male,71.6,Aspirin,6411,Ophthalmology,Nevada,Yes,4,4.675,Initial stage,NO,Middle level,Low
+472,28,Open bite of left lesser toe(s) with damage to nail,8/20/2024,9/18/2024,75,Female,245.6,Doxorubicin Hydrochloride,5205,Ophthalmology,Delaware,No,8,3.932,Initial stage,Yes,Initial stage,Extreme
+473,48,Other mechanical complication of cardiac electronic device,3/17/2024,2/4/2025,61,Agender,29.9,antifungal,9063,Neurology,Delaware,Yes,7,4.849,Initial stage,NO,High level,Extreme
+474,56,"Toxic effect of contact w oth jellyfish, undetermined, init",10/15/2024,9/28/2024,61,Male,148.6,"acetaminophen, dextromethorphan Hbr, Phenylephrine HCl",3164,Pediatrics,South Carolina,Yes,1,2.67,Initial stage,Yes,Middle level,Extreme
+475,67,"Other specified injuries of pelvis, subsequent encounter",2/21/2025,10/9/2024,95,Male,84.3,Menthol,676,General Medicine,South Carolina,No,2,4.553,High level,Yes,High level,Extreme
+476,45,"War op w intentl restrict of air/airwy, civilian, subs",4/24/2024,6/9/2024,40,Female,116.5,tetrahydrozoline HCl,8964,Pediatrics,Arizona,No,6,3.416,High level,Yes,Initial stage,High
+477,30,"Carcinoma in situ of skin of left eyelid, including canthus",9/10/2024,6/16/2024,8,Female,113.4,Nectarine,7478,Cardiology,Kentucky,Yes,6,2.83,High level,NO,Initial stage,Severe
+478,23,"Burn second degree of unsp mult fngr (nail), inc thumb, init",7/29/2024,9/13/2024,25,Polygender,42.9,White Alder,9420,General Medicine,Montana,Yes,9,3.521,High level,NO,Middle level,High
+479,39,"Abrasion, unspecified lower leg, initial encounter",5/31/2024,5/27/2024,67,Female,160.4,Loperamide HCl,4693,Oncology,Delaware,No,9,4.571,Initial stage,Yes,High level,Moderate
+480,86,"Nondisp osteochon fx unsp patella, 7thJ",8/28/2024,6/23/2024,10,Female,50.7,Flurazepam Hydrochloride,7513,Oncology,Kentucky,Yes,9,4.089,High level,Yes,High level,Severe
+481,95,Oth comp of spinal and epidural anesth during labor and del,11/9/2024,12/11/2024,57,Male,73.8,gabapentin,2033,Orthopedics,Kentucky,No,1,4.106,Middle level,NO,High level,Moderate
+482,22,"Nondisp midcervical fx r femr, 7thQ",2/16/2025,9/2/2024,54,Female,225.2,Acetaminophen,6311,Ophthalmology,Delaware,Yes,1,3.461,Middle level,Yes,Initial stage,Severe
+483,95,"Burn third degree of unsp single finger except thumb, init",9/12/2024,7/17/2024,94,Female,148.7,Naproxen,6927,Pediatrics,Arizona,Yes,4,2.561,Initial stage,NO,Initial stage,High
+484,58,"Traum subrac hem w LOC of 31-59 min, sequela",7/7/2024,8/3/2024,75,Male,86.4,Acetaminophen,6934,Pediatrics,Montana,Yes,5,4.618,Initial stage,Yes,Middle level,Severe
+485,95,"Abrasion of left elbow, initial encounter",8/20/2024,9/2/2024,70,Male,270.8,Mercurius auratus Pulmo,9812,Oncology,South Carolina,Yes,2,3.452,Initial stage,Yes,High level,Low
+486,51,Mech compl of internal right hip prosthesis,10/4/2024,3/10/2024,100,Female,157.3,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",9640,Pediatrics,South Carolina,Yes,4,4.143,Initial stage,Yes,Middle level,Extreme
+487,70,"Matern care for oth or susp poor fetl grth, 2nd tri, fts2",6/4/2024,6/5/2024,65,Male,198.8,"Acetaminophen, Phenylephrine Hydrochloride, Dextromethorphan Hydrobromide, and Doxylamine Succinate",1337,Cardiology,Montana,No,2,4.596,Initial stage,Yes,High level,Severe
+488,15,Superficial frostbite of right toe(s),5/27/2024,4/9/2024,42,Male,115.9,Piperacillin and Tazobactam,8639,General Medicine,Montana,No,8,4.756,High level,Yes,Initial stage,Moderate
+489,74,Partial traumatic amputation at level betw unsp hip and knee,6/11/2024,5/24/2024,38,Non-binary,140.5,cephalexin,4544,Oncology,Arizona,Yes,10,3.615,Initial stage,Yes,High level,Low
+490,72,"2-part nondisp fx of surg nk of unsp humer, 7thG",12/10/2024,5/2/2024,7,Female,182.6,Treatment Set TS331258,4566,Ophthalmology,South Carolina,Yes,4,2.237,High level,Yes,Initial stage,Low
+491,9,"Nondisp fx of r radial styloid pro, 7thR",11/7/2024,12/9/2024,35,Female,181.8,Lamotrigine,5963,Oncology,Montana,No,4,3.214,High level,Yes,Initial stage,High
+492,57,"Contact blepharoconjunctivitis, bilateral",6/21/2024,10/28/2024,30,Male,96.7,Dandelion,9680,Ophthalmology,South Carolina,No,7,3.379,Middle level,Yes,Middle level,Moderate
+493,60,Generalized anxiety disorder,1/10/2025,10/14/2024,13,Male,215.9,Aurum Olibanum Myrrha,2268,Pediatrics,Delaware,Yes,6,3.61,High level,NO,Initial stage,High
+494,20,Corrosion of third degree of chin,7/22/2024,7/25/2024,15,Female,76.9,Azathioprine,9897,Pediatrics,Kentucky,Yes,1,4.127,High level,Yes,High level,Severe
+495,59,Other secondary chronic gout,1/16/2025,3/22/2024,84,Male,129.5,nevirapine,6683,Pediatrics,Delaware,Yes,9,4.368,High level,Yes,Middle level,Moderate
+496,85,"Unsp tear of unspecified meniscus, current injury, left knee",1/30/2025,11/12/2024,10,Female,88,"OCTINOXATE, OCTOCRYLENE, AVOBENZONE",8542,Ophthalmology,Delaware,Yes,4,2.277,High level,Yes,Middle level,Severe
+497,60,"Lacerat blood vessels at hip and thi lev, right leg, subs",3/12/2024,1/17/2025,66,Male,130.5,Liquid corn and Callus Remover,815,Ophthalmology,Delaware,No,3,4.332,Middle level,Yes,Middle level,Severe
+498,5,"Oth cause of strike by thrown, projected or fall obj, init",3/1/2025,7/17/2024,19,Male,38.5,Titanium dioxide,5619,Cardiology,Oregon,Yes,10,3.046,Middle level,NO,Initial stage,Moderate
+499,48,"Posterior dislocation of right ulnohumeral joint, init",4/25/2024,10/24/2024,61,Male,116.9,TITANIUM DIOXIDE AND ZINC OXIDE,3745,Neurology,Kentucky,No,4,3.041,Middle level,NO,Middle level,Extreme
+500,79,"Exposure of implanted urethral mesh into urethra, sequela",12/18/2024,1/20/2025,36,Female,122.3,Budesonide,6903,Oncology,Arizona,No,8,2.351,Middle level,Yes,Middle level,Extreme
+501,22,"Extravasation of other vesicant agent, sequela",12/12/2024,11/25/2024,82,Genderfluid,192.6,GLYBURIDE AND METFORMIN HYDROCHLORIDE,4425,Ophthalmology,Maine,Yes,5,2.623,High level,NO,High level,High
+502,4,"Acute ethmoidal sinusitis, unspecified",12/4/2024,2/1/2025,34,Female,222.1,medroxyprogesterone acetate,7389,General Medicine,Montana,No,3,3.402,Middle level,NO,Initial stage,Extreme
+503,6,"Laceration w/o foreign body of left upper arm, subs encntr",8/25/2024,1/4/2025,66,Female,234.4,Nitrofurantoin (macrocrystals),9828,Ophthalmology,Delaware,Yes,7,2.524,Middle level,NO,High level,High
+504,60,"Body mass index (BMI) 39.0-39.9, adult",11/23/2024,9/2/2024,75,Female,92.4,ALCOHOL,7797,General Medicine,Nevada,Yes,10,4.27,Middle level,Yes,High level,Severe
+505,87,Complications of reattached (part of) lower extremity,6/10/2024,5/13/2024,52,Female,122.8,Alcohol,9542,Oncology,Arizona,No,3,2.962,Middle level,Yes,Middle level,Moderate
+506,56,"Occ of rail trn/veh inj due to clsn w miltry vehicle, sqla",2/3/2025,8/7/2024,39,Genderqueer,157.7,chlorpromazine hydrochloride,1696,Neurology,Montana,Yes,9,4.698,Middle level,NO,High level,High
+507,18,"Inj great saphenous at lower leg level, right leg, init",10/29/2024,11/4/2024,15,Female,297.6,Guaifenesin,6826,Orthopedics,Maine,Yes,1,2.214,Middle level,Yes,Initial stage,Low
+508,55,"Contact with hot fluids, undetermined intent, init encntr",3/7/2024,4/9/2024,9,Female,266.2,Hydrocodone Bitartrate and Acetaminophen,4099,Ophthalmology,Oregon,Yes,7,2.059,High level,Yes,High level,Moderate
+509,41,"Corros unsp degree of unsp mult fingers (nail), inc thumb",11/8/2024,11/23/2024,94,Female,116.9,valsartan and hydrochlorothiazide,9306,Oncology,South Carolina,No,5,4.041,High level,Yes,Middle level,Moderate
+510,69,"Legal intervnt w oth sharp objects, suspect injured, init",12/9/2024,6/18/2024,39,Male,173.4,"Mineral oil, petrolatum, phenylephrine hcl",4566,General Medicine,South Carolina,No,6,4.844,Middle level,Yes,High level,High
+511,16,Rheumatoid heart disease w rheumatoid arthritis of unsp site,1/28/2025,8/6/2024,65,Female,115.8,Benzocaine,2976,Oncology,South Carolina,No,6,4.977,Initial stage,NO,High level,Moderate
+512,60,Chronic duodenal ulcer without hemorrhage or perforation,6/14/2024,5/2/2024,38,Male,76.5,Flecainide Acetate,531,Oncology,South Carolina,No,9,2.473,Middle level,NO,High level,Extreme
+513,64,"Disp fx of lateral end unsp clavicle, 7thD",5/23/2024,6/1/2024,93,Male,57,Bluefish,3523,Cardiology,Arizona,No,1,4.541,Middle level,NO,Initial stage,High
+514,73,"Abrasion of vagina and vulva, initial encounter",6/19/2024,3/23/2024,85,Male,44.9,TITANIUM DIOXIDE,1681,Pediatrics,South Carolina,No,6,4.475,Initial stage,NO,High level,High
+515,70,Leakage of aortic (bifurcation) graft (replacement),6/11/2024,12/18/2024,73,Male,134.4,"Acetaminophen, DIPHENHYDRAMINE HYDROCHLORIDE, PHENYLEPHRINE HYDROCHLORIDE",6428,Oncology,Montana,No,8,4.532,Initial stage,NO,Initial stage,High
+516,74,"Injury of l int carotid, intcr w LOC of 31-59 min",12/15/2024,10/17/2024,18,Male,162.4,"Homosalate, Octinoxate, Octisalate, Oxybenzone, Titanium Dioxide, and Zinc Oxide",4769,General Medicine,Delaware,No,5,3.877,High level,Yes,Middle level,Moderate
+517,59,Fall into empty swimming pool,4/14/2024,9/24/2024,46,Female,195.7,Cetirizine Hydrochloride and Pseudoephedrine Hydrochloride,2891,Orthopedics,Montana,Yes,9,4.51,High level,Yes,Middle level,High
+518,49,"Fracture of one rib, unspecified side",9/20/2024,11/9/2024,10,Male,44.2,lutropin alfa,5997,Ophthalmology,Oregon,No,10,4.617,High level,NO,Initial stage,Low
+519,29,"Sedative, hypnotic or anxiolytic use, unsp w sleep disorder",5/23/2024,11/13/2024,11,Female,78.6,TENIPOSIDE,9190,Ophthalmology,Arizona,No,3,4.193,Initial stage,Yes,High level,Low
+520,76,"Other specified bursopathies, hand",7/15/2024,1/27/2025,60,Genderqueer,147.1,clindamycin hydrochloride,1713,Neurology,Delaware,Yes,5,2.1,Middle level,NO,Initial stage,Extreme
+521,12,"Unsp fx shaft of left radius, init for opn fx type I/2",5/9/2024,4/19/2024,5,Female,89.3,POLYETHYLENE GLYCOL 3350,2272,Ophthalmology,Arizona,Yes,7,3.774,Middle level,NO,Initial stage,Low
+522,34,"Papyraceous fetus, second trimester, other fetus",2/12/2025,10/29/2024,80,Male,139.1,Avocado,3770,Orthopedics,South Carolina,No,5,3.424,High level,NO,High level,Severe
+523,49,"Lac w/o fb of abd wall, right low q w penet perit cav, init",8/5/2024,5/29/2024,84,Female,158.2,"Agnus castus, Arnica montana, Baryta carbonica, Caladium seguinum, Kali bromatum, Lycopodium clavatum, nuphar luteum, Nux vomica, Onosmodium virginianum, Phosphoricum acidum, Picnicum acidum, Selenium metallicum",9942,Oncology,Nevada,Yes,5,4.693,Middle level,NO,High level,Severe
+524,99,Idiopathic aseptic necrosis of hand and fingers,12/11/2024,2/28/2025,30,Female,132.4,Niacin,3814,Orthopedics,Montana,No,4,3.103,Initial stage,NO,High level,Severe
+525,67,"Displaced subtrochanteric fracture of right femur, sequela",5/18/2024,10/25/2024,4,Male,115.1,Dorzolamide Hydrochloride,6632,Pediatrics,Delaware,No,9,2.696,High level,Yes,Middle level,High
+526,55,"Poisoning by vitamins, assault",11/27/2024,5/24/2024,99,Male,38.4,"Pea, Green or English Pisum sativum",7777,Cardiology,Maine,No,5,3.74,Middle level,Yes,High level,Extreme
+527,30,"Unsp fx shaft of unsp radius, subs for clos fx w malunion",2/14/2025,8/24/2024,22,Male,122.3,"acetaminophen, dextromethorphan hydrobromide, guaifenesin, and phenylephrine hydrochloride",2213,Pediatrics,Maine,No,6,4.061,High level,NO,Initial stage,High
+528,95,"Arcus senilis, left eye",11/20/2024,2/22/2025,30,Female,144.9,Minoxidil,1838,General Medicine,Kentucky,No,3,4.243,Middle level,Yes,Initial stage,Severe
+529,81,"Burn of second degree of right thumb (nail), subs encntr",7/8/2024,4/7/2024,1,Male,199.5,Octinoxate and Oxybenzone,1205,Neurology,Arizona,No,5,3.365,High level,Yes,Initial stage,Moderate
+530,91,"Other injury of prostate, initial encounter",3/4/2024,11/8/2024,31,Female,204.9,Nitrogen,5667,General Medicine,Montana,Yes,5,2.384,Initial stage,NO,Initial stage,Severe
+531,85,"Accidental discharge of shotgun, sequela",11/20/2024,4/14/2024,7,Male,159.1,"Octinoxate, Octisalate, Avobenzone",8647,General Medicine,Montana,Yes,1,4.774,High level,NO,High level,Severe
+532,26,"Toxic effect of venom of scorpion, self-harm, init",3/9/2024,10/25/2024,42,Male,250.2,Water,7054,General Medicine,Maine,Yes,2,3.021,High level,Yes,Middle level,High
+533,63,Unspecified subluxation of right toe(s),11/24/2024,11/4/2024,53,Female,184.9,IPRATROPIUM BROMIDE,922,Oncology,Montana,Yes,7,3.447,Middle level,NO,High level,Moderate
+534,33,"Unilateral post-traumatic osteoarthritis, right knee",5/17/2024,7/4/2024,54,Female,242.2,HUMAN RHO(D) IMMUNE GLOBULIN,5608,Orthopedics,South Carolina,Yes,8,2.351,High level,Yes,High level,Extreme
+535,98,"Blister (nonthermal), right thigh, sequela",10/18/2024,4/23/2024,75,Female,203.6,nevirapine,7788,Oncology,Kentucky,No,8,2.548,High level,NO,High level,Extreme
+536,21,"Toxic effect of detergents, undetermined, initial encounter",5/19/2024,11/24/2024,35,Male,207.7,Thyreoidea Belladonna,9075,Pediatrics,Oregon,Yes,3,2.105,High level,Yes,Middle level,Extreme
+537,21,"Pnctr w/o fb of abd wall, unsp q w penet perit cav, subs",11/23/2024,1/19/2025,100,Male,183.1,Aluminum Chloride,3566,Pediatrics,Oregon,Yes,4,2.253,Middle level,NO,Initial stage,Extreme
+538,67,"Hypopyon, bilateral",5/8/2024,5/22/2024,64,Female,137,Aspirin,7167,Pediatrics,Delaware,No,2,3.242,Initial stage,Yes,Middle level,High
+539,5,"Toxic effect of halogenated insecticides, undetermined, init",10/28/2024,10/6/2024,7,Male,191,Moexipril Hydrochloride,807,General Medicine,Delaware,No,3,2.354,Initial stage,Yes,Middle level,Extreme
+540,24,"Fracture of unsp phalanx of l rng fngr, init for opn fx",2/22/2025,7/21/2024,79,Male,180.8,ALCOHOL,4026,Oncology,Nevada,No,5,4.101,Initial stage,NO,Initial stage,Moderate
+541,99,"Unsp injury of branches of celiac and mesent art, subs",12/26/2024,6/21/2024,83,Male,270,Lisinopril and hydrochlorothiazide,3351,Cardiology,South Carolina,Yes,2,2.123,Initial stage,NO,Initial stage,High
+542,64,"Osteophyte, wrist",9/24/2024,10/16/2024,86,Non-binary,210.6,"Codeine Phosphate, Phenylephrine Hydrochloride",4777,Orthopedics,Delaware,No,5,3.026,High level,Yes,Middle level,Moderate
+543,93,Underdosing of antimalarials and drugs acting on bld protzoa,11/28/2024,5/14/2024,16,Male,132.5,"Arsenicum Album, Chelidonium Majus, Coccus Cacti, Echinacea, Hydrastis Canadensis, Lycopodium Clavatum, Lym D Nosode",7829,Ophthalmology,South Carolina,No,10,3.645,Middle level,NO,Middle level,Moderate
+544,5,"Prsn brd/alit a car injured in clsn w nonmtr vehicle, subs",3/11/2024,8/9/2024,54,Male,101.6,"Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",9112,Orthopedics,Nevada,No,7,2.782,Middle level,NO,Middle level,Moderate
+545,33,"Unsp fracture of first metacarpal bone, left hand, init",10/9/2024,4/23/2024,1,Female,119.5,"Coffea tosta, Ginkgo biloba, Germanium sesquioxide, Silicea,",9070,Neurology,South Carolina,Yes,4,3.83,Middle level,Yes,Middle level,Extreme
+546,50,"Drown d/t being thrown ovrbrd by motion of canoe/kayk, subs",5/2/2024,4/29/2024,2,Male,288.1,miconazole nitrate,6415,Pediatrics,Arizona,No,4,4.07,Initial stage,NO,High level,Low
+547,4,External constriction of unspecified back wall of thorax,6/29/2024,11/6/2024,70,Female,175.1,Ropinirole Hydrochloride,2512,Orthopedics,Nevada,No,9,2.13,Initial stage,NO,Initial stage,Moderate
+548,88,"Corrosion of cornea and conjunctival sac, left eye",7/2/2024,1/31/2025,68,Male,34.7,Menthol and Methyl Salicylate,2897,Orthopedics,Arizona,Yes,1,4.465,High level,Yes,Middle level,High
+549,84,"Unspecified chorioretinal scars, unspecified eye",3/2/2025,5/20/2024,55,Male,48,Fentanyl Citrate,4704,Cardiology,Kentucky,Yes,2,2.44,Middle level,Yes,High level,Moderate
+550,33,"Burn of 3rd deg mu left fingers (nail), not inc thumb, init",5/3/2024,8/24/2024,74,Female,51.4,losartan potassium,891,Cardiology,Oregon,No,2,4.226,Middle level,NO,Middle level,Low
+551,67,Glomerular disease in systemic lupus erythematosus,9/1/2024,8/26/2024,55,Female,85,ISodium Chloride,4385,Ophthalmology,Maine,Yes,1,3.442,High level,Yes,High level,Severe
+552,78,"Nondisplaced dome fracture of unsp acetabulum, init",7/13/2024,3/27/2024,18,Female,170.4,Salicylic Acid,4024,Cardiology,Nevada,No,1,3.664,High level,Yes,Initial stage,Extreme
+553,36,"Myositis ossificans traumatica, right thigh",5/14/2024,5/13/2024,82,Male,169.1,NITROUS OXIDE,3885,Ophthalmology,South Carolina,Yes,6,2.936,High level,NO,High level,Severe
+554,63,"Poisoning by penicillins, accidental (unintentional), subs",5/20/2024,10/4/2024,96,Male,167.6,MALATHION,5242,Pediatrics,Nevada,Yes,7,3.844,Initial stage,Yes,High level,Moderate
+555,93,"Other contact with other marine mammals, initial encounter",7/14/2024,2/23/2025,75,Female,129.5,Titanium Dioxide and Zinc Oxide,2491,Orthopedics,Delaware,No,5,4.474,Middle level,NO,Middle level,High
+556,72,"Colles' fx r radius, subs for opn fx type I/2 w delay heal",1/12/2025,6/7/2024,34,Male,255,saquinavir mesylate,4242,Oncology,South Carolina,Yes,6,2.007,High level,NO,Initial stage,Severe
+557,35,"Monoarthritis, not elsewhere classified, unspecified hand",12/8/2024,4/10/2024,79,Female,134.8,Naproxen Sodium,2795,Ophthalmology,Arizona,Yes,7,3.887,Middle level,Yes,Initial stage,Severe
+558,23,"Person injured in collision betw mtr veh, nontraf, sequela",3/24/2024,8/1/2024,34,Bigender,127.5,diazepam,1682,Oncology,Kentucky,No,9,4.129,Middle level,NO,Middle level,Moderate
+559,15,Contusion of other specified intrathoracic organs,7/29/2024,11/5/2024,70,Male,214.8,Aminophylline Dihydrate,3602,Cardiology,Nevada,No,3,3.681,Middle level,NO,High level,Severe
+560,32,"Maternal care for oth abnlt of gravid uterus, first tri",9/15/2024,3/7/2024,15,Female,66.6,Thymol,4611,Orthopedics,Oregon,Yes,10,3.681,High level,NO,Middle level,Extreme
+561,64,"Oth osteopor w crnt path fx, l ank/ft, 7thP",2/14/2025,12/25/2024,61,Male,275.7,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",2412,Orthopedics,Kentucky,Yes,5,3.314,High level,NO,High level,Low
+562,50,"Unsp trochan fx l femr, 7thJ",2/26/2025,11/7/2024,8,Non-binary,286,OCTINOXATE and TITANIUM DIOXIDE,4458,General Medicine,South Carolina,Yes,3,2.068,Initial stage,NO,High level,Low
+563,94,Carcinoma in situ of skin of trunk,3/13/2024,10/26/2024,52,Male,28.5,Lovastatin,2443,Oncology,Oregon,Yes,6,2.078,Initial stage,NO,Initial stage,Extreme
+564,11,"Partial traumatic MCP amputation of left thumb, init",10/9/2024,6/17/2024,36,Male,200.5,Famotidine,3162,Cardiology,Delaware,Yes,4,4.693,Middle level,Yes,High level,Severe
+565,69,"Fx oth skull and facial bones, unspecified side, 7thK",1/1/2025,11/25/2024,88,Male,96,Cayenne Pepper,3435,Cardiology,Kentucky,Yes,4,2.162,High level,Yes,High level,Low
+566,11,"Other ossification of muscle, right hand",7/6/2024,1/8/2025,98,Female,176.8,"TITANIUM DIOXIDE, OCTINOXATE, OXYBENZONE",9603,Cardiology,Arizona,No,3,3.488,Middle level,NO,High level,High
+567,87,"Superficial foreign body, unspecified great toe",9/27/2024,5/11/2024,66,Female,49.2,risperidone,981,Oncology,Nevada,Yes,7,4.506,High level,Yes,High level,Moderate
+568,15,"Pasngr in hv veh inj pk-up truck, pk-up/van in traf, sequela",12/10/2024,10/2/2024,49,Male,261.8,"OCTINOXATE, OXYBENZONE, ZINC OXIDE, TITANIUM DIOXIDE",1128,Cardiology,South Carolina,Yes,4,2.165,Middle level,NO,High level,Extreme
+569,43,Sprain of ligaments of thoracic spine,5/6/2024,2/12/2025,67,Male,244.5,TITANIUM DIOXIDE,8094,Oncology,Kentucky,No,8,4.959,High level,Yes,Initial stage,High
+570,61,Other specified injuries of unspecified foot,6/17/2024,2/2/2025,22,Male,260.4,IRBESARTAN AND HYDROCHLOROTHIAZIDE,823,Neurology,South Carolina,No,4,4.85,Middle level,Yes,Initial stage,Moderate
+571,11,"Bitten by pig, sequela",4/23/2024,1/16/2025,29,Polygender,257.8,atracurium besylate,3171,Cardiology,South Carolina,No,1,4.692,Middle level,Yes,Initial stage,Severe
+572,7,Vasectomy status,10/19/2024,1/24/2025,45,Male,82.2,risperidone,1990,Ophthalmology,South Carolina,Yes,6,3.681,Middle level,NO,Initial stage,Extreme
+573,61,Breakdown (mechanical) of aortic (bifurcation) graft,3/15/2024,3/18/2024,23,Agender,212,MENTHOL,6349,Cardiology,Nevada,Yes,3,4.263,Initial stage,NO,High level,High
+574,98,"Burn of unspecified degree of unspecified foot, init encntr",6/14/2024,1/22/2025,8,Female,62.2,fexofenadine hydrochloride,5512,Ophthalmology,Nevada,Yes,7,4.622,Initial stage,Yes,High level,Severe
+575,53,"Unsp inj blood vessels at lower leg level, left leg, subs",4/29/2024,1/12/2025,43,Female,248,TRAMADOL HYDROCHLORIDE,6066,General Medicine,Nevada,No,3,3.002,Middle level,NO,High level,Moderate
+576,52,"Nondisp transcondy fx unsp humerus, subs for fx w malunion",9/5/2024,8/21/2024,61,Female,57.2,METOPROLOL TARTRATE,4560,Orthopedics,Delaware,Yes,4,2.59,Initial stage,NO,Initial stage,Severe
+577,56,"Disp fx of epiphy (separation) (upper) of unsp femr, 7thE",9/22/2024,2/25/2025,21,Polygender,247.8,Etomidate,4690,Neurology,Oregon,Yes,10,2.143,Initial stage,NO,Initial stage,Extreme
+578,94,"Crushing injury of right index finger, initial encounter",7/24/2024,2/15/2025,49,Female,220.2,ZIPRASIDONE HYDROCHLORIDE,7424,Neurology,Delaware,Yes,1,2.46,Initial stage,Yes,Initial stage,Moderate
+579,66,"Blister (nonthermal) of right front wall of thorax, subs",2/2/2025,12/2/2024,23,Male,54,Salicylic Acid,3328,Cardiology,Montana,Yes,9,2.474,High level,Yes,Middle level,Low
+580,20,Malignant neoplasm of unspecified round ligament,2/6/2025,11/12/2024,98,Male,222.9,Ceftriaxone Sodium,5978,Neurology,Arizona,No,6,4.125,High level,Yes,Initial stage,Extreme
+581,12,"Carcinoma in situ of oral cavity, unspecified site",1/24/2025,1/12/2025,61,Male,198.7,SEVELAMER CARBONATE,1046,Neurology,Arizona,Yes,9,4.106,Middle level,NO,Initial stage,Moderate
+582,39,"Nondisp oblique fracture of shaft of right radius, sequela",3/28/2024,4/4/2024,76,Male,71.3,"OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE",4521,Pediatrics,Maine,Yes,7,2.148,Middle level,Yes,Initial stage,Extreme
+583,27,"Sltr-haris Type II physl fx upr end l fibula, 7thK",9/15/2024,2/27/2025,92,Male,224.7,AMMONIUM MURIATICUM,1699,Pediatrics,Nevada,No,10,3.592,Initial stage,NO,Initial stage,Moderate
+584,50,Malignant neoplasm of left choroid,2/6/2025,4/25/2024,38,Male,229.7,Cetirizine HCl,3708,Ophthalmology,Kentucky,No,1,4.58,Middle level,Yes,Initial stage,Moderate
+585,65,Corros 80-89% of body surface w 50-59% third degree corros,3/29/2024,3/13/2024,40,Male,169,Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus Vaccine,8077,Orthopedics,Arizona,No,8,4.251,Initial stage,Yes,High level,Severe
+586,64,"External constriction of unsp front wall of thorax, subs",1/29/2025,12/9/2024,83,Male,254.8,PREDNISONE,1502,Neurology,Oregon,Yes,10,4.713,Initial stage,NO,Middle level,Low
+587,54,"Complete traumatic trnsphal amp of r little finger, subs",7/24/2024,12/27/2024,87,Female,100.5,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",6980,Pediatrics,Oregon,Yes,7,2.639,Middle level,NO,High level,High
+588,2,"Moderate laceration of right kidney, subsequent encounter",3/15/2024,5/27/2024,18,Female,258.3,"Eucalyptol, Menthol, Methyl Salicylate, and Thymol",6936,Oncology,Kentucky,No,6,2.674,Middle level,Yes,High level,High
+589,15,"Nondisp fx of distal pole of navic bone of r wrist, sequela",1/25/2025,3/2/2025,85,Female,179.1,Famotidine,3137,Ophthalmology,Delaware,Yes,2,3.187,Middle level,Yes,Initial stage,Moderate
+590,88,"Patulous Eustachian tube, bilateral",1/6/2025,10/22/2024,30,Male,120.4,"Aralia quinquefolia, Avena sativa, Damaina, L-Arginne, Epimedium, Glutathion, L-Leucine, L-Ornithine, Valine, Testosterone, Sabal serrulata, Sepia,",4250,Neurology,Oregon,No,4,2.005,Initial stage,NO,Middle level,Extreme
+591,6,"Laceration w/o fb of l rng fngr w damage to nail, subs",2/24/2025,9/28/2024,4,Female,250.4,Diltiazem Hydrochloride,7341,Pediatrics,Oregon,No,1,2.557,Middle level,NO,Middle level,Moderate
+592,84,"Poisoning by digestants, accidental (unintentional)",7/30/2024,10/4/2024,8,Male,206.4,"Dextromethorphan, Guiafenesin, Pseudoephedrine HCl",3225,Pediatrics,South Carolina,No,1,4.206,Initial stage,NO,High level,Low
+593,18,"Nondisp fx of shaft of 4th MC bone, r hand, 7thK",10/30/2024,11/20/2024,68,Male,57.8,Naltrexone Hydrochloride,9398,Neurology,Arizona,Yes,2,2.831,High level,Yes,Middle level,Low
+594,43,"Advrs effect of slctv seroton/norepineph reup inhibtr, subs",4/20/2024,3/27/2024,81,Female,129.7,Morphine Sulfate,7466,Pediatrics,Montana,No,5,2.821,Initial stage,Yes,High level,Low
+595,4,"Strain of muscles and tendons at ank/ft level, r foot, subs",12/22/2024,1/16/2025,59,Male,60.8,CleanWell Natural Orange Vanilla Hand Sanitizing Wipes,7316,Ophthalmology,Oregon,No,7,3.483,Initial stage,NO,Middle level,Extreme
+596,82,"Burn of esophagus, initial encounter",11/27/2024,12/5/2024,1,Bigender,265,Risperidone,8574,Orthopedics,Delaware,Yes,2,2.938,Middle level,NO,High level,High
+597,95,"Hallux valgus (acquired), unspecified foot",1/3/2025,4/29/2024,33,Female,259.2,Influenza Vaccine Live Intranasal,4290,Neurology,Oregon,No,9,4.995,High level,NO,Middle level,High
+598,40,"Alcohol use, unspecified with intoxication",2/19/2025,10/19/2024,56,Genderfluid,273.8,albuterol sulfate,8903,Oncology,Nevada,Yes,6,3.383,High level,Yes,High level,Extreme
+599,96,"Complete traum amp at lev betw elbow and wrs, unsp arm, subs",5/21/2024,7/24/2024,9,Male,48.9,VASOPRESSIN,3565,Orthopedics,Maine,No,6,3.962,High level,Yes,Middle level,Extreme
+600,27,"Disruption of traumatic injury wound repair, init encntr",1/7/2025,12/28/2024,7,Female,281.7,LIDOCAINE,6853,Pediatrics,Delaware,No,9,3.658,Initial stage,NO,High level,High
+601,46,"Contus/lac r cereb w LOC w dth d/t oth cause bf consc, subs",2/1/2025,6/12/2024,75,Female,83.6,SIMETHICONE,6751,Orthopedics,Montana,Yes,2,3.18,High level,Yes,High level,Extreme
+602,86,"Burn of 3rd deg mu sites of head, face, and neck, init",8/2/2024,12/3/2024,44,Male,162.1,MORPHINE SULFATE,7726,Neurology,Delaware,Yes,9,4.602,High level,Yes,High level,Severe
+603,71,"Abrasion of left little finger, sequela",9/24/2024,4/1/2024,99,Non-binary,268.1,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl",4760,Cardiology,Arizona,No,8,4.054,High level,NO,Initial stage,Severe
+604,34,Other injury of other part of colon,7/20/2024,8/17/2024,79,Male,257.9,Hydrocodone Bitartrate And Acetaminophen,4592,Pediatrics,South Carolina,No,3,4.698,High level,NO,Middle level,High
+605,39,"Other secondary gout, hip",1/12/2025,9/24/2024,24,Female,225.3,Fluconazole,3126,Neurology,Arizona,No,4,3.466,High level,Yes,Initial stage,Moderate
+606,78,"Other osteomyelitis, multiple sites",9/26/2024,4/20/2024,18,Male,287.2,VENLAFAXINE HYDROCHLORIDE,7600,Pediatrics,Montana,Yes,6,2.789,High level,Yes,Middle level,Severe
+607,51,"Struck by field hockey stick, sequela",11/13/2024,7/6/2024,87,Female,139.9,DIBUCAINE,8573,Oncology,Delaware,No,1,4.059,Middle level,Yes,High level,High
+608,11,Driver of pk-up/van injured in clsn w rail trn/veh in traf,3/14/2024,7/16/2024,61,Female,273.8,Oxymorphone hydrochloride,8065,Orthopedics,Nevada,No,8,2.347,Initial stage,Yes,High level,High
+609,17,"Inferior dislocation of unspecified humerus, sequela",11/20/2024,8/22/2024,49,Female,73.1,"TITANIUM DIOXIDE, ZINC OXIDE and OCTINOXATE",2278,Cardiology,Kentucky,No,3,2.768,Initial stage,Yes,Middle level,Severe
+610,97,Neonatal aspiration of (clear) amniotic fluid and mucus,9/18/2024,5/12/2024,53,Male,194.7,PROGESTERONE,6812,Oncology,Delaware,Yes,6,2.155,Middle level,NO,Initial stage,High
+611,87,"Oth injury due to oth acc on board fishing boat, sequela",8/26/2024,10/2/2024,48,Male,166,PSEUDOGNAPHALIUM OBTUSIFOLIUM,9097,Cardiology,Maine,Yes,7,4.87,Middle level,Yes,High level,Severe
+612,13,Athscl nonaut bio bypass of the extremities w rest pain,2/4/2025,8/29/2024,9,Female,214.3,Miconazole Nitrate,9827,Orthopedics,Oregon,No,5,3.02,High level,Yes,Initial stage,Moderate
+613,50,"Burns of oth parts of unsp eye and adnexa, subs encntr",10/29/2024,10/28/2024,64,Male,283.7,Clonidine Hydrochloride,1197,Pediatrics,Nevada,Yes,8,3.424,Middle level,Yes,Middle level,Severe
+614,66,"Displ transverse fx shaft of r fibula, 7thQ",6/21/2024,12/10/2024,97,Female,274.8,"magnesium aluminosilicate, magnesium hydroxide",5583,Neurology,Arizona,No,3,4.537,Initial stage,NO,Middle level,High
+615,53,"Sltr-haris Type IV physl fx low end ulna, unsp arm, 7thD",8/9/2024,5/27/2024,66,Female,219.9,Benazepril Hydrochloride,1063,Ophthalmology,Nevada,No,3,4.713,Middle level,NO,Initial stage,Extreme
+616,62,Fx tib/fib following insrt ortho implnt/prosth/bone plt,3/11/2024,9/9/2024,83,Male,220.9,Ziprasidone Hydrochloride,9612,Ophthalmology,Oregon,No,3,4.127,Initial stage,Yes,High level,Extreme
+617,89,"Foreign body on external eye, part unsp, right eye, init",11/13/2024,9/10/2024,71,Female,112.4,"Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",5825,Pediatrics,Kentucky,No,3,2.401,Middle level,Yes,Initial stage,High
+618,19,"Pedl cyclst injured in trnsp acc w military vehicle, sequela",9/9/2024,4/1/2024,47,Male,162.8,Losartan Potassium and Hydrochlorothiazide,6710,Orthopedics,Maine,No,3,2.868,Middle level,Yes,Initial stage,Low
+619,28,"Unsp subluxation of unspecified wrist and hand, subs encntr",4/26/2024,7/20/2024,80,Male,257,metformin hydrochloride,3879,General Medicine,Oregon,Yes,4,4.045,Initial stage,Yes,Initial stage,Severe
+620,87,Candidiasis of other urogenital sites,1/15/2025,12/30/2024,42,Female,136.3,Timothy Grass Pollen Allergen Extract,5611,Orthopedics,Kentucky,Yes,10,3.429,Initial stage,Yes,Initial stage,Moderate
+621,41,"Nondisp transverse fx shaft of unsp rad, 7thJ",1/15/2025,4/7/2024,99,Male,56,Temazepam,4644,Neurology,Oregon,No,1,2.814,Middle level,Yes,Initial stage,Severe
+622,45,Intentional self-harm by jumping from a high place,4/12/2024,3/26/2024,90,Female,170.2,Lamotrigine,6199,Neurology,Kentucky,Yes,9,3.233,High level,Yes,High level,Moderate
+623,54,Contus/lac right cerebrum w LOC of 31-59 min,8/16/2024,11/11/2024,56,Female,138.5,Atovaquone and Proguanil Hydrochloride,5689,Pediatrics,Montana,No,1,4.638,High level,NO,Middle level,Severe
+624,8,"Contact with hot heating appliances, radiators and pipes",4/19/2024,11/30/2024,82,Male,166.4,Epicoccum nigrum,8386,Neurology,Oregon,No,2,2.076,Middle level,NO,High level,Low
+625,52,"Anterior cord syndrome at C1, subs",3/8/2024,3/28/2024,9,Female,89.5,"TITANIUM DIOXIDE, OCTINOXATE, ARBUTIN, ATRACTYLODES JAPONICA ROOT OIL",9798,Oncology,Delaware,No,2,4.889,High level,Yes,Middle level,Extreme
+626,61,"Incarcerated fx of med epicondyl of l humer, init for opn fx",12/9/2024,11/5/2024,27,Male,236.1,Rhodotorula mucilaginosa,2830,Cardiology,Kentucky,Yes,3,4.185,Middle level,NO,Initial stage,Low
+627,26,Passenger in 3-whl mv injured in clsn w 2/3-whl mv in traf,12/29/2024,10/20/2024,47,Female,299.7,Tramadol ER,8560,Cardiology,Kentucky,No,6,4.362,Initial stage,Yes,Middle level,Moderate
+628,65,"Medial dislocation of right ulnohumeral joint, init encntr",7/7/2024,9/5/2024,84,Male,95.4,divalproex sodium,7118,Cardiology,Delaware,No,1,3.745,Initial stage,NO,Middle level,Severe
+629,73,"Disp fx of navicular of unsp foot, subs for fx w malunion",11/10/2024,10/31/2024,60,Male,140.4,"Dextromethorphan HBr, Guaifenesin, Phenylephrine",910,Neurology,South Carolina,No,9,2.271,Middle level,NO,Middle level,Moderate
+630,35,"Early congenital syphilis, unspecified",12/26/2024,2/13/2025,59,Non-binary,271.4,Ensulizole and Octinoxate,5764,Pediatrics,Arizona,No,1,4.949,High level,Yes,High level,Low
+631,85,Complete traumatic amp of female external genital organs,10/1/2024,7/12/2024,39,Male,245.9,Metronidazole,7871,Orthopedics,Delaware,Yes,9,3.647,Initial stage,NO,High level,High
+632,5,"Mtrcy pasngr injured in nonclsn trnsp accident in traf, init",7/31/2024,4/13/2024,35,Male,168.7,Treatment Set TS333519,6437,General Medicine,Delaware,Yes,7,4.06,High level,NO,High level,Severe
+633,4,"Contus/lac cereb, w LOC of 30 minutes or less, sequela",9/19/2024,6/20/2024,85,Female,89.7,Cimetidine,5303,Neurology,Maine,Yes,6,2.432,High level,NO,High level,High
+634,3,"Laceration of unsp blood vessel at forearm level, right arm",12/18/2024,10/21/2024,89,Male,285.1,"ECHINACEA ANGUSTIFOLIA, ECHINACEA PURPUREA, ACONITUM NAPELLUS, ARNICA MONTANA, CALENDULA OFFICIANALIS, HAMAMELIS VIRGINIANA, BELLADONNA, BELLIS PERENNIS, CHAMOMILLIA, MILLEFOLIUM, HYPERICUM PERFORATUM, SYMPHYTUM OFFICINALE, COLCHICINUM",6049,Cardiology,South Carolina,Yes,10,4.132,Initial stage,NO,High level,Moderate
+635,99,"Prsn brd/alit pedl cyc inj in clsn w statnry object, init",11/2/2024,6/8/2024,14,Male,157.4,Lachesis Belladonna,4947,Orthopedics,Kentucky,Yes,10,4.986,Middle level,Yes,Middle level,Moderate
+636,6,"Capsular contracture of breast implant, sequela",3/1/2025,1/25/2025,70,Male,51.1,"Alpha-ketoglutaricum acidum, ATP (Adenosine triphosphate disodium), Formicum acidum, Malic acid, Sarcolacticum acidum, Dulcamara, Hyoscyamus niger,",1459,Cardiology,Maine,Yes,2,3.351,High level,Yes,High level,Extreme
+637,72,"Nondisp fx of proximal phalanx of finger, init for opn fx",10/12/2024,4/23/2024,42,Male,181.2,"CALCAREA FLUORICA, CALCAREA PHOSPHORICA, CALCAREA SULPHURICA, FERRUM PHOSPHORICUM, KALI MURIATICUM, KALI PHOSPHORICUM, KALI SULPHURICUM, MAGNESIA PHOSPHORICA, NATRUM MURIATICUM, NATRUM PHOSPHORICUM, NATRUM SULPHURICUM, SILICEA",3052,Cardiology,Nevada,Yes,3,3.618,High level,NO,Initial stage,Moderate
+638,30,Inflammatory polyps of colon with other complication,5/6/2024,8/29/2024,30,Male,41.4,Acetaminophen,7163,Neurology,Arizona,No,5,2.415,Initial stage,Yes,Middle level,Extreme
+639,80,"Oth fx upper end r ulna, subs for opn fx type I/2 w malunion",11/14/2024,10/27/2024,63,Male,222.9,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",938,Pediatrics,South Carolina,No,7,2.087,Initial stage,NO,Middle level,Low
+640,90,"War op w indir blast effect of nuclear weapon, milt, sequela",4/7/2024,2/4/2025,79,Male,260.1,Diltiazem Hydrochloride,9479,Neurology,Maine,Yes,9,2.527,Initial stage,NO,Initial stage,Severe
+641,53,"Other secondary chronic gout, left elbow, with tophus",2/6/2025,8/25/2024,63,Female,207.6,Apis Belladonna Mercurius,6649,Oncology,Montana,Yes,2,2.623,High level,Yes,High level,Severe
+642,21,Blood alcohol level of 60-79 mg/100 ml,12/12/2024,9/8/2024,100,Female,288.9,CARBOXYMETHYLCELLULOSE SODIUM,4148,Ophthalmology,Maine,Yes,9,2.617,High level,NO,Initial stage,Extreme
+643,92,"Traumatic cerebral edema w/o loss of consciousness, init",10/18/2024,3/31/2024,25,Female,86.2,Ciprofloxacin Hydrochloride,8520,Orthopedics,Maine,No,3,4.849,Middle level,Yes,High level,Moderate
+644,54,"Disp fx of med phalanx of l mid fngr, 7thG",1/11/2025,3/18/2024,40,Bigender,125.5,"Benzalkonium Chloride, Benzocaine",3659,Pediatrics,Maine,No,10,2.242,Initial stage,Yes,Initial stage,Low
+645,1,Other physeal fracture of upper end of right tibia,2/13/2025,5/20/2024,1,Female,28,Isosorbide Dinitrate,2715,Ophthalmology,Montana,Yes,3,2.198,Initial stage,Yes,High level,Severe
+646,58,"Puncture wound with foreign body of lip, subs encntr",8/26/2024,9/22/2024,35,Male,223.7,Aluminum zirconium tetrachlorohydrex gly,9859,Pediatrics,Oregon,No,5,2.841,Initial stage,NO,High level,Extreme
+647,34,"Oth injury of muscle, fascia and tendon of unspecified hip",12/4/2024,3/26/2024,82,Female,109.8,miglustat,1442,Neurology,South Carolina,Yes,2,4.109,Middle level,Yes,Initial stage,Moderate
+648,67,"Nondisp fx of base of nk of unsp femr, 7thN",9/23/2024,10/6/2024,15,Female,292.2,NEFAZODONE HYDROCHLORIDE,5285,Pediatrics,South Carolina,No,10,2.782,Initial stage,Yes,Middle level,Extreme
+649,5,"Mech compl of indwelling ureteral stent, initial encounter",1/21/2025,8/22/2024,54,Female,78.2,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",5194,General Medicine,South Carolina,No,5,3.547,Initial stage,NO,Middle level,High
+650,89,"Nondisp fx of coronoid process of left ulna, init",9/15/2024,7/2/2024,71,Male,59.2,"Acetaminophen, Dextromethorphan hydrobromide, Phenylephrine hydrochloride, and Doxylamine succinate",9927,General Medicine,South Carolina,Yes,7,3.245,Initial stage,Yes,Initial stage,High
+651,55,Laceration of vein at forearm level,8/1/2024,11/25/2024,63,Female,232.3,PULSATILLA VULGARIS,9861,Pediatrics,South Carolina,Yes,8,2.267,Initial stage,NO,High level,Extreme
+652,36,"Poisoning by unsp fibrin-affct drugs, undetermined, sequela",9/16/2024,10/9/2024,92,Male,276.4,"Avobenzone, Homosalate, Octisalate, and Octocrylene",3724,Orthopedics,Nevada,No,9,4.999,High level,Yes,High level,Extreme
+653,6,"Other specified arthritis, left knee",10/12/2024,7/16/2024,95,Female,143.2,Calcium Acetate,7705,Orthopedics,South Carolina,Yes,1,2.54,High level,NO,High level,Moderate
+654,23,"Nondisp oblique fx shaft of humer, l arm, 7thP",9/20/2024,6/16/2024,51,Male,249.3,Dextromethorphan hydrobromide and Phenylephrine hydrochloride,2145,Cardiology,Montana,No,4,3.527,High level,NO,Initial stage,High
+655,18,Chronic total occlusion of coronary artery,8/6/2024,5/17/2024,42,Female,271.5,"Dextromethorphan HBr, Guaifenesin",2291,Ophthalmology,Kentucky,Yes,9,4.628,Initial stage,NO,Middle level,Severe
+656,10,Ankylosing spondylitis of cervical region,3/31/2024,3/26/2024,13,Male,149,Methyl salicylate and Menthol,764,Pediatrics,Montana,No,3,4.463,High level,NO,Initial stage,Low
+657,33,"Open bite of left index finger w/o damage to nail, init",4/25/2024,6/13/2024,86,Male,256.1,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",8576,Oncology,Maine,No,1,2.376,High level,NO,Initial stage,Low
+658,94,Malignant neoplasm of anterior wall of nasopharynx,6/22/2024,2/9/2025,1,Male,132.5,Clotrimazole,5272,General Medicine,Montana,No,10,4.665,Middle level,NO,Initial stage,Extreme
+659,57,Contact with other mammals,6/8/2024,8/19/2024,53,Female,24.8,sildenafil citrate,8861,Pediatrics,Maine,No,8,4.422,Initial stage,NO,Initial stage,Extreme
+660,34,"Sltr-haris Type I physl fx low end ulna, r arm, 7thK",8/18/2024,11/24/2024,80,Male,180.6,Oak,4479,General Medicine,Oregon,No,4,3.514,Middle level,NO,Middle level,Moderate
+661,75,"Unsp athscl nonaut bio bypass of the extrm, oth extremity",6/9/2024,10/23/2024,4,Female,145.8,Montelukast Sodium,3364,Neurology,Nevada,Yes,9,2.124,Middle level,NO,High level,Extreme
+662,61,Listerial meningitis and meningoencephalitis,6/27/2024,5/1/2024,79,Female,239,"ZINC OXIDE, OCTINOXATE, TITANIUM DIOXIDE, BEMOTRIZINOL",1568,Oncology,Nevada,Yes,10,3.354,Initial stage,NO,Initial stage,Extreme
+663,60,"Laceration of anterior tibial artery, left leg, subs encntr",6/20/2024,9/13/2024,68,Male,216.8,"Neomycin sulfate, Polymyxin B Sulfate and Hydrocortisone",7951,Ophthalmology,Nevada,No,5,3.331,Initial stage,Yes,High level,Moderate
+664,83,"Sedative, hypnotic or anxiolytic dependence w oth disorders",11/22/2024,7/15/2024,13,Female,183.2,linaclotide,1678,Oncology,Montana,Yes,9,2.981,Middle level,NO,Initial stage,High
+665,15,"Lacerat flexor musc/fasc/tend l idx fngr at wrs/hnd lv, init",12/15/2024,11/20/2024,60,Male,49,TITANIUM DIOXIDE,2066,Oncology,Delaware,Yes,2,4.025,High level,Yes,High level,Low
+666,22,Other and unspecified corneal edema,8/14/2024,6/16/2024,14,Female,146.8,"Sodium Borate, Graphite, Potassium Sulfate, and Sodium Chloride",7475,Cardiology,Maine,No,9,2.474,Initial stage,NO,Initial stage,Extreme
+667,37,Struck by falling object on other unpowered watercraft,3/22/2024,4/29/2024,31,Female,53.1,GABAPENTIN,9904,Pediatrics,Oregon,No,5,2.139,Middle level,NO,Initial stage,Low
+668,83,"Chronic kidney disease, unspecified",8/1/2024,2/3/2025,76,Female,197.2,SELENIUM SULFIDE,4862,Ophthalmology,Arizona,No,7,3.979,Middle level,Yes,Initial stage,High
+669,67,"Collapsed vertebra, NEC, occipt-atlan-ax region, sqla",3/21/2024,7/5/2024,4,Female,32.5,Ibuprofen,1808,Pediatrics,Arizona,No,6,4.349,High level,NO,High level,Severe
+670,69,Open bite of other specified part of neck,1/11/2025,8/20/2024,60,Male,22.4,zolpidem tartrate,2909,General Medicine,Maine,No,3,4.231,High level,Yes,Middle level,Severe
+671,7,Reactions and intoxications due to drugs administered to NB,5/21/2024,12/3/2024,13,Female,294.7,Phentermine Hydrochloride,8155,Neurology,Arizona,No,5,3.611,Middle level,NO,Middle level,High
+672,22,Excessive crying of infant (baby),4/20/2024,12/19/2024,1,Male,267.5,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE",1336,Oncology,Kentucky,No,4,2.76,Initial stage,Yes,Middle level,Low
+673,28,"Fall on same level, unspecified, sequela",3/21/2024,5/19/2024,68,Female,38.8,enoxaparin sodium,5125,Orthopedics,South Carolina,Yes,2,3.575,High level,NO,Middle level,Moderate
+674,100,"Drown due to oth powered watercraft sinking, subs",7/11/2024,8/26/2024,5,Female,43.4,"AVOBENZONE, OCTINOXATE, TITANIUM DIOXIDE",1580,Cardiology,Montana,Yes,10,3.976,High level,NO,High level,Moderate
+675,35,"Laceration of muscle, fascia and tendon of left hip, subs",10/5/2024,7/17/2024,96,Male,127.8,MAGNESIUM HYDROXIDE,2415,Orthopedics,Kentucky,Yes,1,3.781,High level,NO,Middle level,Severe
+676,25,"Toxic effect of noxious substnc eaten as food, slf-hrm, subs",11/5/2024,11/10/2024,42,Female,198.8,Cultivated Wheat,2066,Oncology,Oregon,No,7,2.398,Initial stage,NO,Initial stage,High
+677,44,"Displacement of implanted testicular prosthesis, subs",9/12/2024,9/29/2024,65,Non-binary,117,Gemfibrozil,6414,Orthopedics,Nevada,No,3,3.173,Initial stage,Yes,High level,High
+678,92,"Lacerat extn musc/fasc/tend r rng fngr at forarm lv, init",9/14/2024,6/12/2024,65,Genderqueer,80.6,Calcium Choride,1201,Oncology,Kentucky,Yes,2,4.449,High level,Yes,Middle level,Moderate
+679,75,"Quadriplegia, unspecified",8/5/2024,11/23/2024,93,Female,292.5,Benzalkonium Chloride and Lidocaine Hydrochloride,8040,Orthopedics,Arizona,No,5,3.745,Middle level,NO,Initial stage,Low
+680,59,"Nondisp fx of med condyle of l femr, 7thE",3/30/2024,5/4/2024,22,Bigender,295.6,PREDNISONE,8739,Oncology,Nevada,Yes,2,3.782,Initial stage,Yes,Middle level,High
+681,67,"Retrolental fibroplasia, left eye",7/21/2024,3/31/2024,49,Male,55,"Octinoxate, Octisalate, Titanium dioxide, and Oxybenzone",8906,Oncology,Nevada,Yes,7,2.593,Middle level,Yes,Initial stage,Moderate
+682,48,"Disp fx of dist phalanx of r little finger, init for opn fx",3/11/2024,10/20/2024,54,Polygender,62.3,Goat Epithelia,4634,Neurology,Montana,No,7,2.83,High level,NO,High level,Severe
+683,11,"Chronic osteomyelitis w draining sinus, unsp radius and ulna",12/25/2024,9/1/2024,36,Polygender,115.4,Capsaicin,5903,General Medicine,Oregon,No,7,3.927,Middle level,NO,Middle level,High
+684,19,Cannabis dependence with psychotic disorder with delusions,5/26/2024,9/6/2024,68,Female,225.5,TRICLOCARBAN,8834,Oncology,South Carolina,Yes,5,2.534,Initial stage,Yes,High level,High
+685,59,Presence of other heart-valve replacement,7/15/2024,7/13/2024,43,Female,121.9,Fluconazole,4227,General Medicine,Arizona,Yes,1,2.403,High level,NO,Middle level,Moderate
+686,83,"Oth fx fourth MC bone, right hand, subs for fx w malunion",11/3/2024,6/16/2024,40,Female,175.4,Ranitidine,4760,Pediatrics,Oregon,Yes,1,4.941,Initial stage,NO,High level,Low
+687,43,Acute hepatitis C,1/5/2025,4/28/2024,4,Female,129.6,Erythromycin Ethylsuccinate,1836,Ophthalmology,Maine,Yes,5,2.905,Middle level,Yes,Initial stage,Severe
+688,82,"Unsp physeal fx upper end of humerus, left arm, sequela",8/17/2024,9/3/2024,43,Polygender,271.8,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",6789,Pediatrics,Montana,No,8,3.539,High level,Yes,High level,High
+689,63,"Serous retinal detachment, bilateral",7/2/2024,11/29/2024,32,Female,59.1,hydrochlorothiazide,1484,Oncology,Delaware,No,3,2.914,Middle level,NO,High level,Moderate
+690,50,"Foreign body on external eye, part unspecified",2/14/2025,8/11/2024,63,Female,292.1,alcohol,5807,Pediatrics,Arizona,No,3,4.801,Initial stage,Yes,High level,Extreme
+691,22,"Age-rel osteopor w current path fracture, verteb, sequela",6/29/2024,5/21/2024,78,Male,207,Treatment Set TS330503,1815,Orthopedics,Arizona,Yes,6,4.578,Initial stage,Yes,High level,Moderate
+692,93,"Disp fx of prox phalanx of l lit fngr, 7thG",8/25/2024,5/11/2024,97,Male,131.3,mirabegron,3605,General Medicine,Maine,Yes,10,2.477,High level,Yes,Middle level,High
+693,7,"Unsp fx upper end of right tibia, init for opn fx type I/2",11/26/2024,3/8/2024,58,Genderfluid,61.2,POLYVINYL ALCOHOL AND POVIDONE,9777,Oncology,Montana,No,5,3.215,Middle level,NO,Middle level,Moderate
+694,35,"Nondisp commnt fx shaft of ulna, unsp arm, 7thF",5/26/2024,5/10/2024,13,Female,286.2,"Dextromethorphan, Guaifenesin, Phenylephrine",3488,Neurology,Delaware,Yes,10,2.691,High level,NO,High level,Low
+695,59,Traum rupture of unsp ligament of l rng fngr at MCP/IP jt,1/14/2025,1/1/2025,36,Male,234.9,Cattle Epithelium,2911,Ophthalmology,Kentucky,No,9,2.565,Initial stage,NO,High level,Low
+696,95,Rapidly progr neph synd w focal and seg glomerular lesions,1/2/2025,3/7/2024,26,Female,112.1,ulmus crassifolia pollen,6962,Neurology,Montana,Yes,1,2.321,High level,NO,High level,Extreme
+697,15,"Oth injury of unspecified tibial artery, right leg",7/16/2024,11/4/2024,74,Female,265.5,Salicylic Acid,8850,Neurology,Montana,Yes,7,2.447,Initial stage,NO,High level,Low
+698,92,"Poisoning by succinimides and oxazolidinediones, assault",4/14/2024,3/23/2024,74,Female,90.4,Diltiazem Hydrochloride,1430,General Medicine,Arizona,No,4,2.566,Middle level,NO,Middle level,Extreme
+699,17,Car driver injured in collision w car in traffic accident,9/10/2024,5/6/2024,89,Female,76.2,Acetaminophen and Codeine Phosphate,8980,Oncology,Kentucky,Yes,3,3.469,Initial stage,Yes,High level,Extreme
+700,96,Obstetric embolism,2/3/2025,11/8/2024,83,Female,102.7,Rifampin,6328,General Medicine,Montana,No,9,3.746,Middle level,Yes,Initial stage,Severe
+701,57,"Ped on foot injured in collision w 2/3-whl mv, unsp, subs",2/26/2025,8/14/2024,81,Male,65.5,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",8058,Ophthalmology,Kentucky,Yes,8,2.948,High level,NO,High level,Low
+702,3,Underdosing of unspecified hormone antagonists,6/14/2024,3/4/2024,42,Female,98.1,PYRITHIONE ZINC,8376,Orthopedics,Maine,Yes,2,2.239,Middle level,Yes,High level,Severe
+703,9,Unspecified subluxation of right foot,11/24/2024,3/7/2024,95,Genderfluid,293.9,Chloroxylenol,2198,Cardiology,Montana,Yes,6,3.836,Initial stage,Yes,Initial stage,Moderate
+704,51,"Disp fx of lunate, unsp wrist, init encntr for open fracture",12/26/2024,3/13/2024,68,Female,167.5,Benzalkonium Chloride,904,Ophthalmology,Maine,No,5,3.912,High level,Yes,High level,Moderate
+705,12,Other degenerative diseases of basal ganglia,10/5/2024,4/11/2024,63,Female,217.4,Lidocaine Hydrochloride,5109,Ophthalmology,Delaware,Yes,3,3.645,Initial stage,Yes,Middle level,Low
+706,13,"Oth unil sec osteoarth of first carpometacarp joint, r hand",7/23/2024,5/11/2024,26,Female,136.2,"Mesquite, Prosopis juliflora",1808,Cardiology,Kentucky,No,6,2.573,Middle level,Yes,Middle level,High
+707,78,Other fracture of unspecified thoracic vertebra,6/27/2024,1/4/2025,18,Female,25.9,Methylprednisolone Acetate,6906,Oncology,Arizona,No,2,3.755,High level,NO,Initial stage,Extreme
+708,7,Driver of bus injured in nonclsn transport accident nontraf,7/9/2024,5/26/2024,24,Male,72.7,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",2725,General Medicine,Nevada,No,4,2.143,Middle level,NO,High level,Moderate
+709,34,Anaphylactic reaction due to milk and dairy products,9/20/2024,12/8/2024,62,Male,134.1,Cochlea 8 Special Order,9602,Cardiology,Nevada,Yes,1,4.279,Initial stage,NO,Initial stage,Severe
+710,15,"Spondylosis without myelopathy or radiculopathy, site unsp",4/18/2024,10/20/2024,4,Male,106.2,"Avobenzone, Octisalate, and Octocrylene",7405,Orthopedics,Delaware,No,7,4.417,Middle level,Yes,High level,Low
+711,5,"Nursemaid's elbow, unspecified elbow, initial encounter",10/23/2024,2/3/2025,51,Male,176,Norethindrone,4133,Cardiology,Kentucky,Yes,8,2.116,High level,Yes,Initial stage,High
+712,96,Oth comp due to other genitourinary prosthetic materials,2/6/2025,6/17/2024,50,Male,144.7,OCTINOXATE,7279,Oncology,Delaware,Yes,4,2.539,Middle level,NO,Middle level,Moderate
+713,83,Myiasis,11/23/2024,8/20/2024,66,Female,68.5,Octinoxate and Titanium dioxide,9723,Neurology,Maine,Yes,4,4.008,High level,NO,Initial stage,High
+714,35,"Laceration w fb of left great toe w damage to nail, init",12/16/2024,6/14/2024,80,Male,187.7,Duloxetine,8858,Orthopedics,Oregon,Yes,3,3.197,Middle level,NO,Middle level,Moderate
+715,82,"Mech compl of internal fixation device of left femur, init",12/22/2024,1/2/2025,52,Male,156.5,Triclosan,6614,Pediatrics,Oregon,No,4,3.429,Initial stage,NO,High level,High
+716,66,"Collapsed vertebra, NEC, site unsp, subs for fx w routn heal",4/29/2024,9/14/2024,83,Male,118.6,Sodium Fluoride,7451,Cardiology,Nevada,Yes,7,4.853,High level,NO,Initial stage,Low
+717,90,"Unspecified superficial keratitis, bilateral",5/12/2024,9/23/2024,37,Female,73.6,Loratadine,2036,Ophthalmology,Arizona,Yes,9,3.242,Initial stage,NO,Initial stage,Moderate
+718,47,Car driver injured in collision w hv veh in traffic accident,2/1/2025,6/8/2024,55,Female,33.8,Oxygen,4191,Cardiology,Delaware,Yes,1,3.74,Middle level,Yes,High level,High
+719,21,"Poisoning by mixed antiepileptics, accidental, subs",9/4/2024,4/16/2024,37,Genderfluid,238.7,Acetaminophen,5808,Neurology,Delaware,No,4,4.722,Initial stage,NO,Initial stage,High
+720,24,"Milt op involving oth firearms discharge, milt, subs",5/31/2024,4/24/2024,7,Male,184,"Acetaminophen, Caffeine and Pyrilamine maleate",7681,General Medicine,Nevada,Yes,8,4.028,Initial stage,NO,High level,Extreme
+721,18,Unsp intracranial injury w LOC >24 hr w/o ret consc w surv,9/2/2024,11/27/2024,60,Male,234.1,Valacyclovir Hydrochloride,2391,Orthopedics,Oregon,No,9,2.38,Initial stage,Yes,Initial stage,Severe
+722,61,Educational maladjustment & discord w teachers & classmates,6/21/2024,4/16/2024,75,Male,44.5,ETHYL ALCOHOL,675,Pediatrics,Montana,Yes,9,4.975,Middle level,NO,High level,Extreme
+723,69,"Minor lacerat great saph at hip and thi lev, unsp leg, subs",12/28/2024,2/28/2025,49,Female,65.6,"Methenamine, Sodium Phosphate Monobasic, Methylene Blue, Hyoscyamine Sulfate",6786,Cardiology,Montana,No,8,4,High level,Yes,High level,Moderate
+724,40,"Collapsed vert, NEC, sacr/sacrocygl rgn, 7thD",4/1/2024,3/18/2024,20,Male,173.6,Ursodiol,9771,Ophthalmology,Maine,Yes,3,4.976,Middle level,Yes,Middle level,Extreme
+725,34,Transvestic fetishism,9/20/2024,6/8/2024,75,Female,299.8,Pyrithione Zinc,3981,Cardiology,South Carolina,Yes,3,3.462,High level,NO,High level,Severe
+726,36,"Minor laceration of femoral artery, unsp leg, init encntr",8/31/2024,10/22/2024,91,Male,252.9,oxycodone hydrochloride,2285,Neurology,Delaware,Yes,3,2.379,Middle level,Yes,High level,High
+727,45,"Rh incompat react due to tranfs of bld/bld prod, unsp, init",5/14/2024,2/11/2025,49,Female,233.1,WITCH HAZEL,2451,Oncology,Delaware,Yes,10,3.851,Middle level,Yes,High level,Extreme
+728,67,"Disp fx of unsp tibial tuberosity, 7thD",10/21/2024,4/6/2024,17,Female,158.2,delavirdine mesylate,5676,General Medicine,Delaware,Yes,10,4.253,Middle level,NO,Initial stage,Extreme
+729,32,Burn of third degree of left shoulder,11/15/2024,7/3/2024,62,Male,147.5,Triclosan,2832,Ophthalmology,Arizona,Yes,2,3.662,Middle level,NO,High level,High
+730,2,"Complete traumatic amp at level betw left hip and knee, init",10/24/2024,3/30/2024,25,Female,182.6,Black Locust,2345,Pediatrics,Montana,Yes,10,2.348,Initial stage,Yes,High level,Moderate
+731,44,Unspecified fracture of head of femur,5/3/2024,5/6/2024,15,Male,180.5,Epinephrine,5892,General Medicine,Oregon,Yes,2,3.582,Middle level,NO,High level,Low
+732,10,"Heat exposure on board merchant ship, initial encounter",7/30/2024,1/20/2025,47,Female,265.7,Hydrogen Peroxide,5551,Neurology,South Carolina,Yes,6,4.671,High level,NO,Middle level,Extreme
+733,57,"Military operations involving friendly fire, init encntr",8/10/2024,9/16/2024,37,Male,270.7,Ibuprofen,3758,Orthopedics,Arizona,No,5,2.927,Middle level,NO,Initial stage,Moderate
+734,72,Corrosion of first degree of left toe(s) (nail),6/12/2024,12/15/2024,25,Male,213.1,Wheat Bran,7657,Ophthalmology,Nevada,Yes,5,4.189,Middle level,NO,High level,Extreme
+735,66,"Constant exophthalmos, unspecified eye",1/15/2025,1/30/2025,45,Male,67.7,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OCTINOXATE",1990,Cardiology,Nevada,No,10,2.53,Initial stage,NO,High level,Low
+736,72,"Disp fx of shaft of fourth metacarpal bone, right hand, init",8/27/2024,1/2/2025,74,Female,271.7,Gabapentin,6410,General Medicine,Kentucky,Yes,3,3.074,Middle level,Yes,Initial stage,High
+737,73,"Poisn by oth agents prim acting on the resp sys, asslt, subs",1/2/2025,7/19/2024,75,Male,218.5,Loratadine and Pseudoephedrine Sulfate,4419,Pediatrics,Montana,No,3,2.509,Initial stage,Yes,Middle level,Severe
+738,29,"Adverse effect of salicylates, subsequent encounter",10/25/2024,7/8/2024,14,Male,85,Tamsulosin Hydrochloride,1584,Orthopedics,South Carolina,Yes,7,4.154,High level,NO,Middle level,Extreme
+739,51,Chronic pulmonary blastomycosis,11/22/2024,5/21/2024,40,Male,51.9,Tizanidine,5812,General Medicine,Delaware,No,8,4.182,Initial stage,Yes,Middle level,High
+740,22,"Adverse effect of intravenous anesthetics, initial encounter",9/2/2024,7/3/2024,19,Agender,187.3,POVIDONE-IODINE,3513,Cardiology,Maine,Yes,1,3.628,High level,NO,High level,Severe
+741,46,"Lacerat musc/tend ant grp at low leg level, right leg, subs",11/13/2024,3/1/2025,76,Male,103,Levocetirizine dihydrochloride,6150,General Medicine,South Carolina,No,10,2.488,Middle level,NO,Middle level,High
+742,82,"Corrosion of third degree of abdominal wall, init encntr",5/27/2024,5/4/2024,15,Genderqueer,160.3,chloroxylenol,1195,Cardiology,Montana,Yes,2,4.129,Middle level,NO,Middle level,Moderate
+743,89,"Abrasion of unspecified upper arm, initial encounter",1/23/2025,12/3/2024,83,Female,115.6,Acyclovir Sodium,4481,Pediatrics,Nevada,Yes,9,4.858,High level,Yes,High level,Extreme
+744,76,"Labor and del comp by oth cord entangle, w/o comprsn, unsp",3/7/2024,2/23/2025,1,Polygender,288.2,Tramadol Hydrochloride and Acetaminophen,749,Pediatrics,Arizona,No,1,2.148,High level,Yes,Initial stage,Moderate
+745,25,"Ulnar collateral ligament sprain of unsp elbow, init encntr",12/16/2024,7/23/2024,4,Polygender,296.1,Zaleplon,8182,Neurology,Delaware,No,5,2.937,High level,Yes,High level,Moderate
+746,68,Fall from or off toilet w subsequent striking against object,5/2/2024,4/13/2024,91,Female,45.8,COLCHICUM AUTUMNALE,9762,Pediatrics,South Carolina,No,2,3.068,Initial stage,NO,Middle level,Severe
+747,85,Connective tiss and disc stenosis of intervertebral foramina,5/6/2024,1/4/2025,49,Male,206.2,ALCOHOL,5664,Oncology,Oregon,No,1,2.472,Middle level,NO,High level,Severe
+748,77,Wedge compression fracture of T9-T10 vertebra,11/10/2024,2/28/2025,57,Male,67.8,SALICYLIC ACID,8631,Pediatrics,South Carolina,Yes,3,2.137,Middle level,Yes,Initial stage,Severe
+749,9,"Toxic effect of other seafood, assault, initial encounter",10/29/2024,9/7/2024,79,Female,55.2,ethiodized oil,880,Pediatrics,Maine,No,1,2.068,High level,NO,Middle level,High
+750,20,"Displ transverse fx shaft of unsp femr, 7thM",11/28/2024,6/11/2024,12,Genderqueer,42,Acetaminophen,4597,Pediatrics,Delaware,No,7,3.036,Middle level,Yes,Initial stage,Low
+751,37,"Partial traumatic amputation of right foot, level unsp",12/10/2024,9/11/2024,26,Male,269.5,Syncephalastrum,3153,Ophthalmology,Maine,No,1,2.671,Initial stage,NO,Middle level,Moderate
+752,10,"Fracture of ramus of right mandible, 7thB",10/21/2024,11/18/2024,44,Female,254.4,Amlodipine Besylate,2422,Pediatrics,Delaware,No,6,2.856,Middle level,Yes,High level,High
+753,92,"Nondisp fx of cuboid bone of unsp ft, subs for fx w malunion",1/2/2025,6/28/2024,70,Female,187.4,"Menthol, Zinc Oxide",4185,Orthopedics,Maine,Yes,4,2.933,Middle level,NO,High level,Low
+754,86,"Child neglect or abandonment, suspected",5/25/2024,12/21/2024,87,Female,193.7,ALCOHOL,2415,Pediatrics,Montana,No,1,2.911,Initial stage,Yes,Middle level,Moderate
+755,15,Pain in unspecified ankle and joints of unspecified foot,3/31/2024,10/4/2024,81,Male,88.9,Olanzapine,6270,Orthopedics,Delaware,Yes,8,2.018,Initial stage,NO,Middle level,Severe
+756,48,"Inj extensor musc/fasc/tend right thumb at wrs/hnd lv, init",12/4/2024,3/15/2024,20,Male,40.9,pravastatin sodium,6610,General Medicine,South Carolina,No,3,4.509,Initial stage,Yes,High level,Extreme
+757,27,"Complete loss of teeth due to caries, class II",5/5/2024,4/5/2024,72,Male,276.4,Western Juniper,7274,General Medicine,Kentucky,No,5,3.884,High level,Yes,High level,High
+758,73,"Displ commnt fx shaft of r femr, 7thR",3/7/2024,4/25/2024,50,Male,88.7,SALICYLIC ACID,4251,Pediatrics,Arizona,Yes,2,2.899,Middle level,NO,High level,Moderate
+759,76,"Unsp open wound of left great toe w/o damage to nail, init",4/6/2024,12/12/2024,95,Male,136.2,Amlodipine Besylate,5264,Orthopedics,Kentucky,Yes,5,2.208,Initial stage,Yes,Middle level,Moderate
+760,92,"Nondisp osteochon fx left patella, init for opn fx type I/2",6/29/2024,9/22/2024,52,Female,267.9,"TITANIUM DIOXIDE, OCTINOXATE",6768,Orthopedics,Arizona,Yes,7,2.267,Initial stage,Yes,Initial stage,Extreme
+761,49,"Nondisp spiral fx shaft of ulna, unsp arm, 7thG",6/15/2024,11/5/2024,61,Male,121.8,Mexican Tea,7836,Cardiology,Kentucky,No,1,3.727,Middle level,Yes,Initial stage,Low
+762,41,Other disorders of optic [2nd] nerve and visual pathways,4/21/2024,7/1/2024,40,Male,24.2,Anticoagulant Citrate Phosphate Dextrose (CPD) AND AS-5 Red Cell Preservative,4371,General Medicine,Delaware,Yes,4,3.075,High level,NO,Initial stage,Low
+763,66,Unspecified fracture of seventh cervical vertebra,6/26/2024,11/13/2024,11,Male,48.5,Nicotine Polacrilex,9916,Ophthalmology,Oregon,No,1,3.547,High level,NO,Middle level,Extreme
+764,78,Eclampsia complicating pregnancy,5/7/2024,8/30/2024,73,Female,265.3,diazepam,1377,Oncology,Delaware,No,10,2.023,Initial stage,NO,Initial stage,Extreme
+765,83,Yaba pox virus disease,12/1/2024,11/22/2024,99,Male,108.1,tapentadol hydrochloride,8106,Neurology,South Carolina,No,10,4.101,Middle level,NO,High level,Extreme
+766,74,Clonic hemifacial spasm,11/19/2024,5/7/2024,50,Male,185.5,PROPOFOL,7153,General Medicine,South Carolina,Yes,5,3.007,High level,NO,Initial stage,Low
+767,51,"Galeazzi's fx unsp radius, subs for clos fx w routn heal",5/23/2024,5/5/2024,65,Female,49.8,cyclobenzaprine hydrochloride,7215,Orthopedics,South Carolina,Yes,1,2.657,Initial stage,NO,Initial stage,High
+768,18,"Disp fx of acromial process, left shoulder, init for clos fx",12/31/2024,9/15/2024,38,Male,59.8,Calcium carbonate,805,General Medicine,Maine,Yes,10,4.664,Middle level,NO,High level,Low
+769,25,Unsp malignant neoplasm of skin of other parts of face,11/27/2024,10/3/2024,12,Male,213,PYRITHIONE ZINC,7744,Pediatrics,Kentucky,Yes,9,4.612,High level,Yes,Initial stage,Severe
+770,32,"Unsp foreign body in bronchus causing asphyxiation, subs",4/27/2024,3/27/2024,72,Female,114.3,Titanium Dioxide,701,Cardiology,Oregon,Yes,3,2.093,Initial stage,Yes,Middle level,Low
+771,58,"Fall on board passenger ship, initial encounter",10/5/2024,8/26/2024,37,Genderfluid,216.8,Tretinoin,9614,Oncology,Delaware,No,8,3.696,High level,NO,Middle level,Moderate
+772,31,"Glasgow coma scale score 9-12, in the field",11/1/2024,5/25/2024,93,Male,190.4,"Avobenzone, Octinoxate, and Octisalate",9034,Pediatrics,Maine,No,7,2.921,Middle level,Yes,Middle level,Severe
+773,16,"Velamentous insertion of umbilical cord, first trimester",7/5/2024,3/1/2025,67,Female,87.1,Fentanyl,7033,Pediatrics,Kentucky,No,3,4.24,High level,NO,Initial stage,Moderate
+774,74,"Displ seg fx shaft of rad, r arm, 7thJ",8/28/2024,8/7/2024,36,Female,223.3,Lisinopril,4011,Cardiology,Delaware,No,4,2.479,High level,Yes,Initial stage,Severe
+775,55,"Nondisp fx of unspecified radial styloid process, sequela",5/16/2024,5/19/2024,71,Female,165,prednisolone acetate,9677,Ophthalmology,Arizona,Yes,5,4.369,Initial stage,NO,Initial stage,Low
+776,24,"Struck by other hit or thrown ball, initial encounter",7/17/2024,6/2/2024,47,Female,97.1,"acetaminophen, dextromethorphan hydrobromide, guaifenesin, and phenylephrine hydrochloride",2200,General Medicine,Arizona,Yes,5,4.5,Initial stage,Yes,High level,Moderate
+777,37,Occlusion and stenosis of carotid artery,5/27/2024,7/12/2024,41,Female,115,Carbamazepine,7001,Orthopedics,Delaware,No,8,3.789,Initial stage,NO,Initial stage,Low
+778,1,"Nondisp comminuted fracture of shaft of ulna, unsp arm, init",6/26/2024,9/12/2024,49,Male,112.8,Naratriptan,1795,Oncology,Arizona,No,7,4.032,High level,Yes,Middle level,Severe
+779,51,"Acquired absence of unsp upper limb, unspecified level",6/12/2024,5/7/2024,52,Female,258.7,Benzalkonium chloride 0.13%,7777,Pediatrics,Montana,Yes,4,4.635,Middle level,Yes,High level,Moderate
+780,14,"Subluxation of C2/C3 cervical vertebrae, initial encounter",9/1/2024,2/3/2025,17,Female,180.6,sertraline hydrochloride,8078,Ophthalmology,South Carolina,Yes,2,3.996,High level,Yes,High level,Low
+781,87,Esophageal varices,7/8/2024,8/13/2024,22,Male,289.6,Aluminum Zirconium Tetrachlorohydrex GLY,8048,Oncology,Maine,Yes,5,3.879,Middle level,Yes,Middle level,High
+782,58,"Other dislocation of unspecified wrist and hand, subs encntr",12/23/2024,11/2/2024,68,Female,214.4,olmesartan medoxomil,6322,General Medicine,South Carolina,No,10,4.829,High level,NO,Initial stage,Severe
+783,51,Other hydronephrosis,5/20/2024,8/16/2024,70,Male,108,Pancrelipase,4795,Cardiology,Delaware,Yes,7,4.929,Middle level,Yes,High level,High
+784,93,"Displ transverse fx shaft of l rad, 7thP",10/21/2024,5/28/2024,40,Female,54.6,SULFUR,4895,Ophthalmology,Arizona,No,5,3.256,High level,Yes,High level,Moderate
+785,63,"Labor and delivery complicated by oth cord comp, unsp",8/22/2024,12/19/2024,5,Female,128.4,Titanium dioxide,4031,Ophthalmology,Montana,No,10,2.081,Initial stage,NO,High level,Severe
+786,8,"Incomplete rotatr-cuff tear/ruptr of r shoulder, not trauma",6/23/2024,6/4/2024,8,Male,208.5,"OCTINOXATE, OCTISALATE",5538,Pediatrics,Arizona,No,1,2.399,Middle level,NO,High level,Low
+787,43,"Unspecified subluxation of right hip, sequela",2/27/2025,7/6/2024,65,Female,236.5,Doxycycline Hyclate,965,Ophthalmology,Kentucky,Yes,4,2.28,Middle level,Yes,High level,Low
+788,87,Postherpetic polyneuropathy,10/28/2024,1/7/2025,55,Female,166.7,Acetaminophen,7656,Oncology,Nevada,No,1,2.812,High level,NO,Middle level,Severe
+789,6,"Strain intrns musc/fasc/tend r lit fngr at wrs/hnd lv, subs",7/8/2024,2/14/2025,23,Non-binary,130.4,tacrolimus extended-release capsules,8115,Ophthalmology,Delaware,No,6,4.061,Middle level,Yes,High level,Extreme
+790,67,"Occ animal-drwn veh injured collision hvy veh, subs encntr",5/29/2024,5/18/2024,47,Male,213.8,Doxycycline,3977,Pediatrics,Kentucky,Yes,4,4.004,Middle level,NO,Initial stage,Extreme
+791,62,Diseases of the digestive system compl preg/chldbrth,7/27/2024,12/14/2024,97,Female,29.4,METFORMIN HYDROCHLORIDE,7147,Oncology,Oregon,Yes,3,4.826,Initial stage,Yes,High level,Extreme
+792,99,"Congenital dislocation of right hip, unilateral",10/27/2024,7/26/2024,65,Male,113.7,wasp hymenoptera venom multidose,9512,Orthopedics,Montana,No,1,3.374,Initial stage,Yes,Initial stage,Extreme
+793,95,Nontoxic single thyroid nodule,6/22/2024,7/9/2024,85,Male,67.2,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, PHENYLEPHRINE HYDROCHLORIDE",7462,Ophthalmology,Montana,No,9,4.342,High level,NO,High level,Moderate
+794,60,Type 1 diabetes mellitus w diabetic chronic kidney disease,9/1/2024,1/24/2025,96,Genderfluid,253.8,Clindamycin Hydrochloride,6909,Cardiology,Kentucky,Yes,4,3.915,Middle level,NO,Initial stage,Low
+795,100,Salter-Harris Type I physeal fracture of upper end of femur,8/1/2024,2/14/2025,63,Male,45.2,menthol,7855,Orthopedics,Delaware,No,8,4.179,Initial stage,NO,High level,High
+796,33,"Type 2 diab with diab mclr edema, resolved fol trtmt, r eye",4/11/2024,1/5/2025,81,Female,152.6,Isopropyl alcohol,9457,Pediatrics,Oregon,No,10,4.901,High level,Yes,High level,Severe
+797,45,"Adverse effect of opth drugs and preparations, sequela",9/4/2024,4/17/2024,55,Male,21.8,Dextrose and Sodium Chloride,9926,Cardiology,South Carolina,Yes,4,2.6,Initial stage,Yes,High level,Low
+798,79,"Nondisp fx of medial epicondyle of l humerus, sequela",7/26/2024,7/17/2024,71,Female,225.6,Sodium Fluoride,1037,General Medicine,South Carolina,No,7,4.96,Initial stage,NO,High level,High
+799,58,ST elevation (STEMI) myocardial infarction of anterior wall,3/4/2024,10/4/2024,17,Male,52.2,ketotifen fumarate,5423,Oncology,Montana,No,10,2.458,High level,Yes,Middle level,Low
+800,66,"Other injury of adrenal gland, sequela",7/2/2024,9/4/2024,79,Male,134,Glycopyrrolate,2498,Pediatrics,Delaware,Yes,8,2.495,Middle level,NO,Middle level,Low
+801,93,Adverse effect of other antidysrhythmic drugs,4/8/2024,4/16/2024,26,Female,284.9,clindamycin phosphate,3857,Cardiology,Nevada,No,10,4.288,Initial stage,NO,High level,Low
+802,99,"Other specified injury of dorsal vein of right foot, sequela",1/31/2025,7/21/2024,28,Female,178.2,"OCTINOXATE, TITANIUM DIOXIDE",6154,Oncology,Montana,Yes,3,2.705,Initial stage,NO,Middle level,Severe
+803,7,"Traumatic rupture of symphysis pubis, subsequent encounter",11/23/2024,5/24/2024,54,Male,255.5,Oxygen,5755,Ophthalmology,Oregon,No,9,4.68,Initial stage,Yes,High level,Extreme
+804,93,"Bronchiectasis, uncomplicated",1/6/2025,12/13/2024,18,Female,227.1,baclofen,955,General Medicine,Kentucky,Yes,3,3.935,Middle level,NO,Initial stage,High
+805,25,"Diabetes with mild nonp rtnop without macular edema, bi",6/18/2024,5/11/2024,45,Female,287.4,hydrochlorothiazide and triamterene,3843,Cardiology,Oregon,No,6,3.723,Middle level,NO,High level,Extreme
+806,46,"Other injury of head of pancreas, sequela",3/5/2024,7/18/2024,95,Male,130.1,PALLADIUM,6738,Pediatrics,Oregon,No,3,4.488,Middle level,NO,High level,Severe
+807,43,"Other articular cartilage disorders, unspecified wrist",12/21/2024,6/3/2024,65,Non-binary,191.6,Benzalkonium Chloride and Lidocaine Hydrochloride,3544,Cardiology,Montana,Yes,1,3.114,High level,NO,High level,Low
+808,91,Corrosion of third degree of right thigh,10/26/2024,4/1/2024,33,Male,141.8,Aurum Equisetum B,1167,Cardiology,South Carolina,Yes,6,4.248,High level,NO,High level,Low
+809,74,"Excessive weight gain in pregnancy, unspecified trimester",8/29/2024,11/17/2024,49,Male,262.3,oxybutynin chloride,3730,Cardiology,Nevada,No,4,2.842,High level,NO,Middle level,Severe
+810,3,Sequelae of vitamin A deficiency,11/7/2024,8/8/2024,89,Male,74.9,Cetirizine hydrochloride,803,Oncology,Nevada,Yes,3,4.8,High level,Yes,High level,High
+811,98,Corrosion of first degree of unspecified foot,10/16/2024,7/7/2024,99,Female,168.3,risperidone,1347,Neurology,Oregon,No,6,3.541,Middle level,NO,Middle level,Low
+812,12,"Disp fx of lateral malleolus of l fibula, 7thQ",1/31/2025,9/19/2024,70,Male,131.6,Pyrithione Zinc,9692,General Medicine,Kentucky,No,2,2.982,Middle level,Yes,Middle level,Moderate
+813,33,Oth postproc complications and disorders of nervous sys,3/26/2024,8/24/2024,41,Female,31.4,Timolol Maleate,9382,Neurology,South Carolina,Yes,6,4.727,Initial stage,Yes,High level,Moderate
+814,25,"Poisoning by tetracyclic antidepressants, assault, sequela",3/13/2024,6/5/2024,71,Male,42.3,Quetiapine fumarate,6808,Pediatrics,Kentucky,No,1,2.993,Initial stage,NO,Initial stage,Severe
+815,10,"Nondisp fx of 5th metatarsal bone, l ft, 7thP",6/24/2024,8/17/2024,70,Male,121.9,OXAPROZIN,9850,Oncology,Kentucky,No,5,3.458,High level,Yes,Middle level,Moderate
+816,70,"Pnctr w/o fb of l mid finger w damage to nail, sequela",9/15/2024,3/25/2024,11,Male,24.8,doxycycline hyclate,6417,Cardiology,Nevada,Yes,8,2.679,Initial stage,NO,Initial stage,Low
+817,22,"Corrosion of third degree of right upper arm, subs encntr",3/12/2024,4/3/2024,77,Female,63.5,Rhizopus oryzae,9912,General Medicine,Maine,Yes,3,2.569,Initial stage,NO,High level,Moderate
+818,33,"Other infection due to central venous catheter, subs encntr",5/30/2024,2/10/2025,95,Male,52.7,Ibuprofen,1379,Cardiology,Arizona,No,10,3.066,Initial stage,Yes,Initial stage,Severe
+819,88,"Oth injury of blood vessel of left little finger, sequela",8/14/2024,12/28/2024,68,Female,27.5,Furosemide,3603,Oncology,Kentucky,No,4,2.895,High level,NO,Initial stage,Extreme
+820,48,Crushing injury of head,9/24/2024,8/15/2024,80,Male,24.8,Carvedilol,596,Orthopedics,Arizona,No,5,2.737,Middle level,NO,Middle level,Severe
+821,26,"Intentional self-harm by steam, hot vapors and hot objects",7/18/2024,5/2/2024,37,Female,158.9,tramadol hydrochloride and acetaminophen,7466,General Medicine,Montana,No,2,3.818,Initial stage,NO,Initial stage,High
+822,93,"Intestinal obstruction of newborn, unspecified",7/21/2024,6/26/2024,98,Male,35.7,"ZINC OXIDE, ZINC GLUCONATE, AND SAMBUCUS NIGRA FLOWERING TOP",2971,Cardiology,Nevada,No,4,4.501,High level,NO,Middle level,Severe
+823,85,"Disp fx of distal pole of navicular bone of unsp wrist, init",2/6/2025,1/15/2025,71,Female,21.6,Acetaminophen,2094,Pediatrics,Kentucky,Yes,7,4.629,High level,Yes,Initial stage,Extreme
+824,90,"Poisoning by unsp antipsychot/neurolept, acc, sequela",2/3/2025,8/10/2024,12,Female,151,Prednisone,3166,Neurology,Montana,No,8,2.506,High level,Yes,High level,High
+825,5,"Oth fx upr & low end l fibula, 7thQ",10/4/2024,4/15/2024,72,Female,128.5,Dexamethasone,8214,Pediatrics,Montana,No,2,3.245,Middle level,NO,Initial stage,Moderate
+826,95,"Glaucoma secondary to oth eye disord, right eye, stage unsp",7/12/2024,2/1/2025,29,Genderfluid,164.1,amlodipine and atorvastatin,5421,Orthopedics,Delaware,Yes,2,3.675,Initial stage,Yes,High level,Low
+827,55,"White matter disease, unspecified",12/29/2024,6/22/2024,46,Male,85.7,"TITANIUM DIOXIDE, ZINC OXIDE",869,Orthopedics,Oregon,Yes,9,3.473,Initial stage,NO,High level,Severe
+828,88,"Displ transverse fx shaft of unsp ulna, 7thC",5/8/2024,6/2/2024,65,Female,194.8,Stemphylium sarciniforms,7120,Cardiology,Nevada,No,2,2.643,Initial stage,NO,Initial stage,High
+829,29,"Bucket-hndl tear of medial mensc, crnt inj, unsp knee, sqla",10/15/2024,2/18/2025,87,Male,275.4,amoxicillin and clavulanate potassium,833,Neurology,Kentucky,No,5,4.276,High level,Yes,High level,Extreme
+830,27,"Superficial frostbite of unspecified finger(s), subs encntr",8/7/2024,10/31/2024,61,Female,144.9,Octinoxate and Titanium dioxide,3654,Ophthalmology,Arizona,Yes,4,3.885,Initial stage,NO,Middle level,Severe
+831,50,"Other rupture of muscle (nontraumatic), unspecified shoulder",6/19/2024,11/26/2024,23,Male,204.1,"Acetaminophen, DIPHENHYDRAMINE HYDROCHLORIDE, PHENYLEPHRINE HYDROCHLORIDE",5524,Orthopedics,Delaware,No,5,4.582,Initial stage,Yes,High level,Moderate
+832,100,"Pnctr w/o foreign body of left cheek and TMJ area, subs",10/17/2024,7/3/2024,16,Male,160,Dermatophagoides farinae and Dermatophagoides pteronyssinus,851,Cardiology,South Carolina,No,9,4.032,High level,Yes,Middle level,Extreme
+833,24,"Pnctr w fb of left great toe w damage to nail, sequela",12/10/2024,1/1/2025,43,Non-binary,161.3,"Zinc Oxide, Titanium Dioxide",9811,Ophthalmology,Maine,No,3,4.282,High level,Yes,Middle level,Severe
+834,4,Double outlet left ventricle,12/23/2024,11/4/2024,94,Polygender,261.7,"Aesculus hippocastanum, Aloe socotrina, Apis mellifica, Bryonia, Calcarea fluorica, Carbo vegetabilis, Causticum, Collinsonia canadensis, Echinacea angustifolia, Hamamelis virginiana, Lycopodium clavatum, Sulphur",6773,Oncology,Arizona,Yes,3,4.412,High level,Yes,High level,Extreme
+835,76,"Stress fracture, left finger(s), subs for fx w nonunion",6/10/2024,8/31/2024,75,Female,295.5,Clotrimazole,6175,Ophthalmology,Maine,Yes,7,2.488,High level,Yes,Initial stage,Low
+836,61,Monoplg upr lmb fol oth cerebvasc disease aff right dom side,6/21/2024,11/15/2024,27,Female,33.5,Bluefish,2283,Orthopedics,Montana,No,8,2.516,High level,NO,Initial stage,Low
+837,15,Acquired deformity of neck,6/20/2024,6/17/2024,44,Male,170.6,benazepril hydrochloride and hydrochlorothiazide,3655,Ophthalmology,Montana,Yes,9,2.508,Middle level,NO,Middle level,Low
+838,87,"Generalized idiopathic epilepsy, intractable, w stat epi",1/8/2025,1/15/2025,80,Male,38,Menthol and Camphor (Synthetic),9580,Pediatrics,Arizona,No,7,2.389,Initial stage,NO,Initial stage,Low
+839,35,Drug or chemical induced diabetes mellitus with ketoacidosis,9/24/2024,8/28/2024,97,Female,171.8,Pamabrom,6729,Neurology,Maine,No,3,3.995,High level,NO,Initial stage,High
+840,100,"Frostbite with tissue necrosis of nose, initial encounter",1/29/2025,1/19/2025,12,Genderqueer,125.6,Lidocaine Hydrochloride Phenol,7043,Neurology,Oregon,No,4,3.299,Middle level,NO,High level,Extreme
+841,4,"Disp fx of l ulna styloid pro, 7thQ",12/22/2024,7/25/2024,45,Female,253,maraviroc,5996,Orthopedics,Oregon,No,10,3.544,Middle level,NO,Middle level,Moderate
+842,2,Pediculosis due to Pediculus humanus capitis,6/18/2024,6/22/2024,28,Bigender,21.8,dextroamphetamine sulfate,3117,Oncology,Delaware,Yes,9,3.081,Middle level,Yes,High level,Severe
+843,88,Toxic effect of phosphorus and its compounds,7/16/2024,1/3/2025,25,Male,23.4,"Acetaminophen, Diphenhydramine HCl",3332,Pediatrics,Maine,Yes,8,4.426,High level,Yes,Initial stage,High
+844,70,"Unspecified subluxation of right ulnohumeral joint, sequela",6/8/2024,12/29/2024,100,Female,133.2,BENZALKONIUM CHLORIDE,2364,General Medicine,Nevada,No,10,4.511,Initial stage,Yes,Middle level,Moderate
+845,2,"Staphylococcal infection, unspecified site",10/26/2024,10/4/2024,91,Female,250.7,METFORMIN HYDROCHLORIDE,8833,Ophthalmology,Montana,Yes,4,4.387,Initial stage,Yes,High level,Low
+846,13,"Endocrine, nutritional and metabolic diseases comp chldbrth",10/4/2024,7/19/2024,48,Male,168.1,"Chlophedianol Hydrochloride, Chlorphenirmine Maleate, Pseudoephedrine Hydrochloride",523,Orthopedics,Kentucky,No,5,3.109,Middle level,Yes,Middle level,Extreme
+847,30,Postprocedural intestinal obstruction,1/19/2025,12/11/2024,46,Male,142.4,Ethyl Alcohol,5605,Pediatrics,Kentucky,Yes,3,4.16,Middle level,Yes,Middle level,High
+848,44,"Irregular astigmatism, right eye",5/20/2024,5/10/2024,14,Male,284.7,CHLOROXYLENOL,3173,Cardiology,Delaware,No,7,3.878,Middle level,NO,High level,High
+849,47,Disord social w onset specific to childhood and adolescence,6/16/2024,1/18/2025,30,Male,125.2,paroxetine hydrochloride,7911,Cardiology,Kentucky,No,4,2.965,Initial stage,NO,High level,Moderate
+850,43,Car occupant (driver) (passenger) injured in unsp nontraf,12/18/2024,4/15/2024,24,Male,270.7,Carvedilol,3126,Neurology,South Carolina,No,5,3.95,Initial stage,NO,Initial stage,Low
+851,54,Oth congenital malform syndromes affecting multiple systems,6/28/2024,11/14/2024,86,Male,203.1,Diltiazem Hydrochloride,8031,Neurology,Oregon,Yes,1,3.852,Middle level,NO,High level,Severe
+852,31,Cauda equina syndrome,3/29/2024,5/6/2024,56,Male,122.6,Sporotrichum,5371,Oncology,Oregon,No,10,3.063,High level,Yes,Middle level,Moderate
+853,90,"Corrosion of second degree of chin, sequela",12/18/2024,12/23/2024,86,Female,183.4,Zinc Oxide,2463,Cardiology,South Carolina,No,2,3.565,Initial stage,Yes,Middle level,Severe
+854,45,"Other rupture of muscle (nontraumatic), unsp lower leg",5/25/2024,10/2/2024,16,Female,256.8,"Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride, and Diphenhydramine Hydrochloride",6574,Orthopedics,Oregon,No,9,2.819,Middle level,Yes,High level,Severe
+855,85,Fntl lb and exec fcn def following ntrm intcrbl hemorrhage,3/7/2024,8/18/2024,100,Male,60.5,Octinoxate and Titanium Dioxide,2738,Ophthalmology,Montana,No,8,3.782,Initial stage,NO,High level,Moderate
+856,62,"Unspecified sprain of right thumb, sequela",9/15/2024,6/19/2024,26,Female,206.2,Ammonium Lactate,751,Neurology,Arizona,Yes,3,4.176,Initial stage,Yes,Initial stage,Extreme
+857,83,"Corrosion of unsp degree of left shoulder, init encntr",12/1/2024,10/21/2024,2,Female,277.2,Cocklebur,7898,Pediatrics,Maine,Yes,6,2.778,High level,Yes,High level,Low
+858,89,"Matern care for viable fetus in abd preg, second tri, fts3",9/28/2024,2/27/2025,61,Male,74.1,Wheat Stem Rust,3612,Neurology,Delaware,Yes,2,3.286,Initial stage,NO,High level,High
+859,69,"Nondisp fx of body of left talus, init for opn fx",2/13/2025,7/25/2024,31,Female,55.8,Acetaminophen,8958,Neurology,Nevada,No,10,2.246,Initial stage,NO,Initial stage,Extreme
+860,83,"Contusion of left lower leg, subsequent encounter",6/11/2024,11/3/2024,44,Female,245,Titanium Dioxide,8495,Ophthalmology,Oregon,No,2,4.663,Initial stage,Yes,Initial stage,Extreme
+861,32,Acrophobia,3/10/2024,10/10/2024,28,Male,59.8,BELLIS PERENNIS,2741,Neurology,Delaware,No,5,2.758,Initial stage,NO,Initial stage,Severe
+862,85,"Hormones and their synthetic substitutes and antag, NEC",2/11/2025,11/29/2024,28,Female,84.1,"Camphor, Menthol",4724,Neurology,Arizona,Yes,2,2.292,Middle level,Yes,High level,Severe
+863,79,"Open bite of scalp, initial encounter",12/13/2024,12/31/2024,29,Female,180.6,"Avobenzone, Octinoxate, Octisalate, Oxybenzone",4894,Neurology,Oregon,Yes,3,2.737,Middle level,Yes,Middle level,Severe
+864,11,Ataxia following unspecified cerebrovascular disease,6/20/2024,12/24/2024,80,Male,213.3,Acacia,4841,Neurology,Delaware,No,8,2.8,Middle level,NO,High level,Low
+865,83,"Maternal care for abnlt of pelvic organ, unsp, first tri",11/23/2024,11/10/2024,83,Male,143.2,Lorazepam,4036,Ophthalmology,Oregon,Yes,6,4.953,Initial stage,Yes,High level,Severe
+866,54,"Gout due to renal impairment, unspecified elbow",11/26/2024,6/27/2024,58,Male,250.9,Antifungal Powder Spray,8697,Pediatrics,Nevada,Yes,6,2.055,Initial stage,Yes,High level,Moderate
+867,6,Disseminated mucormycosis,5/22/2024,4/15/2024,17,Female,116.1,Hamamelis Aesculus,1173,Ophthalmology,Kentucky,No,4,2.936,High level,Yes,Initial stage,High
+868,18,"Unsp injury to unsp level of lumbar spinal cord, init encntr",7/25/2024,10/5/2024,45,Polygender,291.1,Ibuprofen,8594,Cardiology,Delaware,No,5,3.678,High level,NO,High level,Severe
+869,44,"Laceration of other part of colon, sequela",4/17/2024,7/17/2024,12,Female,24.3,"CAMPHOR (NATURAL), Menthol",7461,Neurology,Nevada,No,5,2.183,Initial stage,Yes,Initial stage,High
+870,52,Underdosing of analeptics and opioid receptor antagonists,6/8/2024,10/13/2024,15,Male,195,OCTINOXATE and TITANIUM DIOXIDE,7940,Ophthalmology,Kentucky,Yes,7,3.842,Initial stage,Yes,Middle level,Extreme
+871,62,"Disp fx of distal phalanx of r thm, subs for fx w delay heal",7/15/2024,11/9/2024,24,Male,58.9,Oxygen,6709,Ophthalmology,Kentucky,Yes,4,2.025,Middle level,NO,High level,High
+872,53,"Accidental malfunction of gas, air or spring-operated gun",1/24/2025,7/26/2024,90,Female,162.2,SALICYLIC ACID,7801,Ophthalmology,Arizona,Yes,6,4.554,High level,Yes,Middle level,High
+873,87,"Nondisp commnt fx r patella, subs for clos fx w routn heal",9/22/2024,3/3/2025,43,Female,71.5,Oxycodone and Acetaminophen,2096,Cardiology,Kentucky,Yes,9,4.002,Middle level,NO,High level,Extreme
+874,61,"Displ trimalleol fx l low leg, 7thJ",6/14/2024,11/13/2024,35,Female,25.7,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",7086,Ophthalmology,Delaware,No,7,3.173,High level,NO,High level,Low
+875,96,Defects in post-translational mod of lysosomal enzymes,2/2/2025,6/17/2024,69,Male,25.9,Treatment Set TS334947,2455,Orthopedics,Kentucky,Yes,5,4.283,Middle level,Yes,Middle level,Severe
+876,76,"Disp fx of olecran pro w/o intartic extn r ulna, 7thD",6/19/2024,5/16/2024,53,Female,264.9,TRICLOSAN,1091,Ophthalmology,South Carolina,Yes,5,2.455,Middle level,Yes,Middle level,High
+877,39,"Unsp fx lower end of left femur, init for opn fx type 3A/B/C",1/30/2025,6/7/2024,38,Female,71.1,Carbidopa and levodopa,7264,Oncology,Montana,No,5,4.363,Initial stage,Yes,High level,Moderate
+878,17,Severe pre-eclampsia,1/18/2025,3/7/2024,54,Female,45.5,Phenol,9470,Cardiology,Kentucky,No,8,4.862,Initial stage,NO,High level,High
+879,71,Open bite of right lesser toe(s) without damage to nail,8/25/2024,6/28/2024,89,Female,112.4,diclofenac sodium,9711,Pediatrics,Oregon,No,9,2.633,Initial stage,Yes,Middle level,Low
+880,73,"Other specified rheumatoid arthritis, left ankle and foot",11/28/2024,1/23/2025,40,Genderfluid,243.8,Diphenhydramine HCl,7141,Cardiology,Oregon,No,7,3.522,Initial stage,Yes,Middle level,Extreme
+881,93,"Poisoning by tetracyclic antidepressants, self-harm",10/14/2024,11/6/2024,80,Male,78.9,"Dextrose (glucose), Levulose (fructose), Phosphoric Acid",1431,Orthopedics,Nevada,No,10,3.789,Middle level,NO,Initial stage,Low
+882,39,"Fracture of vault of skull, init encntr for open fracture",4/30/2024,9/2/2024,4,Female,278.8,Ribavirin,5974,Orthopedics,Montana,Yes,7,2.038,Middle level,NO,High level,Low
+883,52,"Displacement of insulin pump, sequela",1/31/2025,4/16/2024,89,Female,86.8,OXCARBAZEPINE,1744,General Medicine,Maine,Yes,6,2.831,Initial stage,Yes,Initial stage,High
+884,38,"Injury of optic nerve, left eye, sequela",5/10/2024,4/14/2024,53,Polygender,159.4,False Ragweed,8166,Orthopedics,Oregon,Yes,7,2.995,Middle level,Yes,Initial stage,Extreme
+885,72,"Partial traum amp at level betw elbow and wrist, right arm",11/22/2024,1/22/2025,50,Female,53.7,GENTAMICIN SULFATE,5414,Neurology,Nevada,Yes,6,3,Initial stage,NO,Middle level,Extreme
+886,86,Other sites of candidiasis,8/10/2024,2/7/2025,34,Female,56.4,Sodium Sulfacetamide and Sulfur,9823,Ophthalmology,Nevada,No,1,4.638,Initial stage,NO,Middle level,Moderate
+887,4,Oth places as the place of occurrence of the external cause,9/18/2024,7/7/2024,18,Bigender,143.4,Vitamin- Mineral Omega-3 Supplement,9727,Neurology,Montana,No,1,3.287,Initial stage,NO,Initial stage,Moderate
+888,35,Non-prs chronic ulcer of right thigh w fat layer exposed,6/7/2024,11/19/2024,47,Male,185.4,NAPROXEN SODIUM,4023,Pediatrics,Delaware,Yes,6,3.689,High level,NO,Middle level,Extreme
+889,4,"Unspecified fall, sequela",11/16/2024,11/14/2024,96,Female,43,Carvedilol,9853,General Medicine,Nevada,Yes,7,2.393,Middle level,NO,Initial stage,High
+890,2,"Thoracic aortic aneurysm, ruptured",3/5/2024,6/20/2024,84,Female,152.1,Chloroxylenol,4384,Ophthalmology,Kentucky,Yes,10,3.354,Initial stage,NO,Middle level,Moderate
+891,34,Ulcerative (chronic) rectosigmoiditis with rectal bleeding,7/3/2024,6/28/2024,26,Female,172.3,Carvedilol,7468,Ophthalmology,Montana,Yes,7,2.95,Middle level,NO,Middle level,Extreme
+892,30,"Unspecified juvenile rheumatoid arthritis, unspecified elbow",4/3/2024,4/27/2024,94,Female,132.8,Ethyl Alcohol,6544,Neurology,Oregon,Yes,7,4.323,Middle level,NO,Middle level,High
+893,70,Occup of oth sp off-rd mv injured in traffic accident,2/19/2025,4/22/2024,59,Female,275.1,ETHOSUXIMIDE,5617,Ophthalmology,Nevada,Yes,9,2.789,Initial stage,Yes,Initial stage,Extreme
+894,3,Terrorism involving biological weapons,5/18/2024,9/10/2024,88,Female,104.1,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",6634,Ophthalmology,Nevada,Yes,6,4.559,High level,NO,Initial stage,Moderate
+895,39,"Displacement of biological heart valve graft, init encntr",12/29/2024,4/25/2024,35,Female,270.6,Hydrogen Peroxide,1187,Pediatrics,Oregon,No,6,2.79,Initial stage,Yes,Middle level,Moderate
+896,90,"Nondisp fx of left radial styloid process, sequela",6/29/2024,1/17/2025,62,Female,140.8,acetaminophen and codeine phosphate,6434,Orthopedics,Maine,No,9,4.806,High level,Yes,Initial stage,Extreme
+897,26,"Superficial frostbite of neck, sequela",5/16/2024,8/23/2024,46,Male,71.3,Magnesium sulf. Bryonia,9190,Ophthalmology,Kentucky,No,6,4.488,Middle level,NO,Initial stage,High
+898,20,"Lac w fb of left lesser toe(s) w damage to nail, sequela",9/22/2024,10/9/2024,51,Female,75.2,"Bismuthum metallicum, Antimon.crud., Arg. nit., Arsenicum alb., Baptisia, Bryonia, Chamomilla, Cinchona, Iris versicolor, Kali bic., Lachesis, Lycopodium, Mag. carb., Nux vom., Phosphorus, Podoph. pelt., Pulsatilla, Raphanus, Rhus toxicodendron, Tabacum, Verbascum, Zingiber, Echinacea, Juglans regia.",9175,Orthopedics,Kentucky,No,8,2.753,Middle level,NO,Initial stage,Severe
+899,22,Other and unspecified myopathies,2/16/2025,8/18/2024,56,Female,205.5,Hydralazine Hydrochloride,8266,Orthopedics,Kentucky,No,10,2.961,Middle level,NO,Initial stage,Extreme
+900,52,Corrosion of unspecified degree of unspecified upper arm,5/25/2024,6/22/2024,72,Female,200.2,Zoledronic acid,1670,General Medicine,Arizona,Yes,3,4.908,Middle level,NO,Middle level,High
+901,83,"Myositis ossificans progressiva, left toe(s)",10/25/2024,4/10/2024,31,Male,289.7,Omeprazole magnesium,9163,Pediatrics,Kentucky,No,7,4.948,Initial stage,NO,Initial stage,Severe
+902,90,"Juvenile arthritis, unspecified, ankle and foot",11/5/2024,12/26/2024,3,Polygender,213,Aluminum Zirconium Tetrachlorohydrex GLY,9258,Cardiology,Nevada,No,5,2.803,Initial stage,Yes,Initial stage,High
+903,56,Bedroom in apartment as place,9/2/2024,6/14/2024,90,Male,48,Guaifenesin,6204,Cardiology,Delaware,No,4,3.27,Initial stage,NO,Middle level,Extreme
+904,91,"Sprain of other part of left wrist and hand, sequela",2/4/2025,1/24/2025,67,Male,133.5,diltiazem hydrochloride,9668,Orthopedics,Maine,No,7,3.131,Initial stage,NO,Middle level,Extreme
+905,37,"Asphyx due to being trapped in bed linens, self-harm, subs",8/10/2024,10/3/2024,57,Female,282.4,"Arnica Montana, Hamamelis Virginiana, Rhus Toxicodendron",8394,Pediatrics,Arizona,No,7,3.032,Initial stage,NO,Initial stage,Low
+906,15,"Fall into unsp water causing other injury, init encntr",5/9/2024,6/8/2024,94,Male,129.6,Simethicone,2735,Neurology,Nevada,No,2,3.746,Middle level,Yes,Middle level,Severe
+907,81,"Unstable burst fx first cervcal vertebra, init for opn fx",3/6/2024,4/11/2024,79,Female,31,"OCTINOXATE, TITANIUM DIOXIDE, OCTISALATE",8477,Ophthalmology,South Carolina,No,10,2.835,Middle level,NO,Initial stage,Severe
+908,90,"Ped w convey injured in collision w pedl cyc, unsp, sequela",12/27/2024,1/19/2025,93,Male,241.7,Benzocaine 7.5%,8903,Cardiology,Kentucky,Yes,10,3.64,Initial stage,Yes,Initial stage,Severe
+909,5,Contusion of shoulder,10/28/2024,12/10/2024,51,Bigender,32,Triclosan,8910,Neurology,Nevada,No,3,3.321,Middle level,Yes,Middle level,Severe
+910,21,"Unsp intracap fx right femur, subs for clos fx w routn heal",3/12/2024,11/10/2024,52,Male,55.5,diazepam,6062,Cardiology,Oregon,No,4,3.696,Initial stage,NO,Middle level,Moderate
+911,61,"Part traum amp at lev betw elbow and wrist, right arm, subs",9/13/2024,5/15/2024,37,Male,108.2,Pancrelipase,1849,Neurology,Nevada,Yes,9,4.215,High level,Yes,Middle level,High
+912,84,Mixed disorder of acid-base balance,12/17/2024,10/1/2024,16,Genderfluid,27.3,valacyclovir hydrochloride,1406,Oncology,South Carolina,No,5,3.099,Middle level,NO,Middle level,Extreme
+913,16,Streptococcal sepsis,7/31/2024,6/19/2024,89,Female,28.4,potassium nitrate and sodium fluoride,3081,General Medicine,South Carolina,No,3,4.976,Initial stage,Yes,Initial stage,High
+914,7,"Scleritis with corneal involvement, bilateral",12/11/2024,11/30/2024,35,Female,212.8,Witch Hazel,4969,Orthopedics,Delaware,No,7,2.533,Middle level,NO,Middle level,Low
+915,97,"Acute and subacute allergic otitis media, recur, r ear",8/10/2024,3/15/2024,92,Male,102.6,"Elaps corallinus, Aconitum nap.,Aur. met., Baryta carb., Belladonna, Crotalus horridus, Gelsemium, Hamamelis, Lachesis, Merc. viv.,Phosphorus, Picricum ac., Plumbum met., Pulsatilla,Rhus toxicodendron, Stramonium, Theridion, Euphrasia",1442,Cardiology,Nevada,Yes,9,3.515,Middle level,Yes,High level,Moderate
+916,27,"Pnctr w foreign body of finger w damage to nail, subs",11/18/2024,10/8/2024,91,Male,293.5,Benzoyl Peroxide,8955,General Medicine,Oregon,No,9,2.443,Middle level,Yes,Middle level,Moderate
+917,28,Unspecified open wound of right buttock,9/27/2024,5/11/2024,60,Genderqueer,237.9,Fosinopril Sodium,7617,General Medicine,Kentucky,Yes,5,4.334,High level,Yes,Initial stage,Extreme
+918,22,"Disp fx of head of left rad, subs for clos fx w delay heal",8/17/2024,5/9/2024,45,Female,295.5,"avobenzone, octocrylene, and oxybenzone",4800,Cardiology,South Carolina,Yes,8,4.426,Middle level,NO,High level,High
+919,66,"Derang of post horn of medial mensc d/t old tear/inj, r knee",12/3/2024,7/3/2024,17,Female,155.9,Dexamethasone,7801,Ophthalmology,Oregon,Yes,3,4.048,Middle level,NO,Middle level,Moderate
+920,16,"Other mastoiditis and related conditions, unspecified ear",10/25/2024,3/26/2024,68,Male,134,"Avobenzone, Octinoxate, Octisalate, Octocrylene",6491,Oncology,South Carolina,Yes,7,2.41,Middle level,NO,Middle level,Moderate
+921,95,"Oth fracture of unsp lower leg, subs for clos fx w malunion",8/12/2024,10/30/2024,2,Polygender,264.5,Methylphenidate Hydrochloride,6630,Oncology,Kentucky,Yes,3,3.286,Middle level,Yes,Initial stage,Moderate
+922,12,Moderate laceration of spleen,7/31/2024,1/20/2025,28,Female,295.8,Duloxetine,4571,General Medicine,Oregon,No,3,2.192,High level,Yes,Middle level,Low
+923,93,"Corneal abscess, unspecified eye",3/2/2025,9/19/2024,22,Male,155.9,Duloxetine hydrochloride,9478,General Medicine,Arizona,Yes,1,3.087,Middle level,Yes,High level,Extreme
+924,23,Hematocolpos,12/16/2024,7/20/2024,81,Male,278.5,Amyl Nitrite,5472,Oncology,Delaware,Yes,5,2.473,High level,NO,High level,Extreme
+925,71,"Burn of unspecified degree of right lower leg, init encntr",8/23/2024,6/14/2024,96,Female,73.8,Divalproex Sodium,836,Ophthalmology,Nevada,No,9,3.207,High level,NO,High level,Low
+926,51,Burns of 70-79% of body surface w 20-29% third degree burns,4/3/2024,5/12/2024,40,Male,122.2,Oatmeal,2051,Cardiology,Oregon,No,7,4.486,Middle level,NO,High level,Moderate
+927,65,"Protozoal diseases complicating pregnancy, second trimester",6/22/2024,6/29/2024,45,Female,144,Valacyclovir Hydrochloride,6805,Ophthalmology,South Carolina,Yes,10,3.125,Initial stage,NO,High level,Severe
+928,82,"Oth air transport accident involving military aircraft, subs",12/13/2024,12/9/2024,57,Male,258.8,OCTINOXATE,5306,Cardiology,Delaware,No,6,2.195,Middle level,NO,Middle level,Extreme
+929,87,Rickettsialpox due to Rickettsia akari,9/3/2024,2/6/2025,92,Male,227.2,TALC,2515,General Medicine,Montana,Yes,8,3.282,Initial stage,Yes,Initial stage,Low
+930,12,"Unspecified myringitis, right ear",7/22/2024,7/19/2024,32,Male,189.2,Goat Epithelium,8335,Pediatrics,Montana,Yes,2,4.01,Middle level,Yes,Middle level,Moderate
+931,37,"Other shellfish poisoning, assault, subsequent encounter",10/6/2024,4/27/2024,25,Female,105.3,ALCOHOL,6559,Ophthalmology,Nevada,No,8,3.896,High level,Yes,Initial stage,Moderate
+932,25,"Legal intervnt w oth explosv, bystand injured, sequela",7/27/2024,2/9/2025,62,Male,162.6,"Pseudoephedrine Hydrochloride, Brompheniramine Maleate, and Dextromethorphan Hydrobromide",4402,Cardiology,South Carolina,Yes,1,2.026,Middle level,NO,Middle level,Moderate
+933,33,"Prsn brd/alit pk-up/van inj in clsn w nonmtr vehicle, init",1/2/2025,1/7/2025,19,Female,25,SAGE CALENDULA OFFICINALIS FLOWERING TOP ECHINACEA PALLIDA EUCALYPTUS GLOBULUS LEAF MERCURIC CYANIDE SILVER NITRATE ATROPA BELLADONNA SILICON DIOXIDE,4532,Neurology,Delaware,Yes,3,4.546,Initial stage,NO,Initial stage,Extreme
+934,79,"Burns of oth parts of left eye and adnexa, init encntr",3/30/2024,2/2/2025,19,Male,158.3,Oxygen,3511,Neurology,Kentucky,Yes,8,4.687,Middle level,Yes,High level,High
+935,66,"Oth injury of right external jugular vein, subs encntr",11/25/2024,8/11/2024,67,Female,79.1,titanium dioxide,6530,General Medicine,Maine,Yes,7,3.712,Initial stage,NO,Initial stage,High
+936,81,"Interstitial myositis, left lower leg",2/3/2025,1/23/2025,18,Female,62.9,Diazepam,6337,Neurology,Kentucky,Yes,9,2.328,High level,Yes,Initial stage,Severe
+937,33,"Unsp superficial injury of other part of head, sequela",1/25/2025,7/28/2024,30,Male,270.4,Hydroxyzine Pamoate,2728,Cardiology,Kentucky,Yes,10,4.659,Middle level,NO,Initial stage,Severe
+938,68,"Medial dislocation of proximal end of tibia, unsp knee, subs",1/5/2025,1/1/2025,71,Female,86.6,telmisartan,6339,Pediatrics,Delaware,Yes,7,3.598,Middle level,NO,Initial stage,Extreme
+939,69,"Open bite of unsp eyelid and periocular area, init encntr",11/5/2024,7/2/2024,49,Female,106.7,VENLAFAXINE HYDROCHLORIDE,9023,Oncology,Nevada,Yes,1,3.086,High level,NO,High level,Extreme
+940,6,"Other bursal cyst, shoulder",7/28/2024,9/19/2024,38,Male,64.8,Zinc Oxide,5616,Ophthalmology,Delaware,Yes,6,4.235,Initial stage,Yes,High level,High
+941,65,"Adverse effect of other laxatives, subsequent encounter",8/12/2024,3/23/2024,64,Male,125,Aluminum Zirconium Tetrachlorohydrex Gly,3338,Oncology,Montana,No,4,4.633,Initial stage,Yes,Initial stage,Moderate
+942,27,Unspecified kidney failure,11/11/2024,1/5/2025,39,Female,37.5,Naphazoline hydrochloride,2506,Cardiology,Arizona,Yes,8,3.051,High level,NO,Middle level,Extreme
+943,14,"Toxic effect of formaldehyde, intentional self-harm",2/8/2025,7/9/2024,94,Male,54,Caffeine,9385,General Medicine,Montana,Yes,10,2.035,Initial stage,Yes,High level,Moderate
+944,74,"Carbonic-anhydrase inhibitors, benzo/oth diuretc",5/12/2024,10/19/2024,96,Male,53.8,THEOPHYLLINE,2810,Oncology,Maine,No,1,4.409,Initial stage,Yes,High level,Extreme
+945,75,"Osteonecrosis due to previous trauma, multiple sites",4/25/2024,4/19/2024,48,Male,233,Bouteloua spp.,7481,Cardiology,Montana,Yes,8,3.08,High level,Yes,Middle level,Extreme
+946,38,"Toxic effect of unsp organic solvent, intentional self-harm",4/8/2024,11/3/2024,32,Male,141.3,Metoprolol Tartrate,2118,Pediatrics,Oregon,No,5,2.702,Initial stage,Yes,Middle level,Low
+947,48,"Oth diab with severe nonp rtnop without macular edema, bi",9/21/2024,6/19/2024,98,Agender,106.6,GADOVERSETAMIDE,7553,Ophthalmology,Montana,No,9,2.066,High level,NO,Middle level,Moderate
+948,4,"Nondisp spiral fx shaft of unsp tibia, 7thM",6/2/2024,4/13/2024,52,Female,186.4,Ketotifen Fumarate,1614,Neurology,Kentucky,No,8,4.742,Initial stage,NO,Middle level,Extreme
+949,78,"Laceration of inferior mesenteric vein, subsequent encounter",5/18/2024,9/1/2024,98,Female,103.5,Simvastatin,7098,General Medicine,Montana,No,4,3.207,Initial stage,NO,High level,Moderate
+950,66,Airplane as the place of occurrence of the external cause,11/29/2024,12/30/2024,47,Male,86.1,gallus gallus feather and anas platyrhynchos feather and anser anser feather,1896,Neurology,Maine,Yes,8,3.898,Middle level,NO,Middle level,High
+951,88,"Toxic effect of rattlesnake venom, accidental",2/21/2025,8/6/2024,4,Female,130.3,CHAETOMIUM GLOBOSUM,8326,Oncology,Oregon,No,6,2.75,Initial stage,Yes,Initial stage,Low
+952,51,Movie house or cinema as place,3/27/2024,12/19/2024,28,Non-binary,149.5,Lovastatin,2803,Oncology,South Carolina,No,9,2.614,High level,NO,High level,Severe
+953,32,"Toxic effect of corrosive organic compounds, undet, init",12/3/2024,3/26/2024,72,Female,91.4,Exemestane,720,Ophthalmology,Maine,Yes,8,2.612,Initial stage,Yes,High level,Low
+954,28,"Toxic effect of contact w oth venomous plant, acc, subs",12/4/2024,6/28/2024,85,Female,113.4,Salicylic Acid,1867,Ophthalmology,Delaware,No,6,4.497,Middle level,NO,High level,High
+955,48,"Injury of digital nerve of right little finger, subs encntr",7/31/2024,4/19/2024,88,Male,171.2,Triclosan,6342,Pediatrics,Montana,No,1,4.502,Middle level,Yes,Middle level,Moderate
+956,75,Genitl trct and pelvic infection fol incmpl spon abortion,1/29/2025,8/25/2024,60,Female,232.9,Wheat Smut,8081,Neurology,Nevada,Yes,10,3.462,High level,NO,Middle level,Severe
+957,2,Burn of first degree of unspecified palm,5/4/2024,7/25/2024,23,Female,88.8,Heparin Sodium,682,General Medicine,Oregon,No,1,3.399,Middle level,Yes,Middle level,Low
+958,19,"Other contact with orca, sequela",12/3/2024,1/5/2025,27,Male,156.2,Citalopram,6407,Neurology,Delaware,No,10,3.511,Initial stage,NO,Initial stage,Moderate
+959,5,"Contracture, elbow",10/1/2024,3/4/2024,5,Male,280.7,cyclopentolate hydrochloride,4293,General Medicine,Oregon,No,9,3.904,High level,Yes,Initial stage,Moderate
+960,10,"Unsp fracture of right lower leg, init for opn fx type I/2",5/27/2024,9/30/2024,4,Male,74.9,alprazolam,3495,Oncology,Maine,Yes,1,4.215,Initial stage,NO,Initial stage,Severe
+961,30,"Corrosion of third degree of right lower leg, subs encntr",2/27/2025,1/4/2025,68,Male,155,Mulberry Mix,8018,Ophthalmology,Delaware,Yes,5,3.403,Middle level,NO,Initial stage,Extreme
+962,10,"Conduct disorder, adolescent-onset type",6/28/2024,2/4/2025,19,Male,117.9,Anticoagulant Citrate Phosphate Dextrose Adenine,5608,Ophthalmology,Oregon,No,5,4.479,High level,NO,Initial stage,High
+963,14,"Strain of muscle, fascia and tendon of lower back, sequela",4/18/2024,3/28/2024,48,Male,212.3,Titanium Dioxide and Zinc Oxide,8143,Ophthalmology,Kentucky,No,3,2.7,Initial stage,NO,High level,Extreme
+964,72,"Nondisplaced Maisonneuve's fracture of left leg, sequela",8/1/2024,9/6/2024,71,Female,234.9,Mexican Tea Pollen,4452,Neurology,South Carolina,Yes,7,4.742,Middle level,Yes,Initial stage,Severe
+965,97,"Forced landing of hang-glider injuring occupant, subs encntr",11/21/2024,11/28/2024,40,Male,62.1,"emtricitabine, rilpivirine hydrochloride, and tenofovir disoproxil fumarate",548,Neurology,Oregon,Yes,10,4.177,Middle level,NO,Initial stage,High
+966,80,Superficial injury of other parts of head,9/20/2024,1/3/2025,58,Female,85.9,nifedipine,8275,Neurology,Oregon,Yes,6,3.839,Middle level,NO,Initial stage,Severe
+967,3,"Poisn by selective serotonin reuptake inhibtr, assault, init",3/26/2024,6/26/2024,84,Female,55.6,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",1349,Ophthalmology,Nevada,No,9,4.424,Initial stage,Yes,Initial stage,Low
+968,10,"Parachutist injured on landing, subsequent encounter",8/5/2024,1/6/2025,72,Female,286.8,PredniSONE,9759,Orthopedics,Delaware,Yes,6,3.262,Initial stage,NO,Initial stage,Severe
+969,47,"Sltr-haris Type II physl fx lower end radius, left arm, init",2/10/2025,9/22/2024,68,Male,244,TRICLOCARBAN,3246,Orthopedics,Kentucky,No,9,3.401,Initial stage,NO,High level,Moderate
+970,41,"Corrosion of first degree of chest wall, initial encounter",6/11/2024,5/19/2024,46,Male,135,English Plantain,7832,Neurology,Delaware,Yes,9,4.001,High level,NO,High level,Severe
+971,74,"Concussion and edema of cervical spinal cord, init encntr",5/17/2024,12/16/2024,44,Female,23.3,ANTIMONY POTASSIUM TARTRATE,863,Cardiology,Delaware,No,5,4.107,Initial stage,NO,Initial stage,High
+972,17,"Burn of first degree of hand, unspecified site",3/4/2024,11/4/2024,89,Female,216,Modafinil,7197,Pediatrics,Arizona,No,6,3.751,Middle level,NO,High level,Low
+973,72,"Strain intrns musc/fasc/tend unsp finger at wrs/hnd lv, init",4/18/2024,2/18/2025,7,Female,121.6,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,9442,General Medicine,Oregon,Yes,5,4.733,Initial stage,NO,High level,Moderate
+974,59,"External constriction, left ankle",6/22/2024,5/10/2024,28,Polygender,148.4,vardenafil hydrochloride,860,Orthopedics,Montana,No,7,3.632,Middle level,NO,Middle level,Severe
+975,11,"Poisoning by oth fibrinolysis-affecting drugs, assault, subs",9/11/2024,5/29/2024,80,Male,268.3,Octinoxate and Oxybenzone,899,General Medicine,Arizona,Yes,6,4.34,Initial stage,Yes,High level,High
+976,39,Traumatic rupture of symphysis pubis,7/14/2024,1/21/2025,42,Female,196.6,POVIDONE IODINE,8922,Ophthalmology,South Carolina,Yes,6,2.46,Middle level,Yes,Middle level,Moderate
+977,12,"Occup of bus injured in clsn w rail trn/veh nontraf, subs",1/31/2025,7/15/2024,76,Male,291.3,Doxazosin mesylate,5008,Ophthalmology,Oregon,Yes,10,3.543,Middle level,NO,Initial stage,Extreme
+978,83,Unspecified transplanted organ and tissue failure,11/9/2024,9/8/2024,92,Male,196.8,Antihemophilic Factor (Recombinant),6714,General Medicine,Delaware,Yes,4,3.809,High level,Yes,Initial stage,Low
+979,83,"Corneal deposits in metabolic disorders, bilateral",8/16/2024,8/1/2024,10,Female,175.2,Vinorelbine tartrate,3000,Ophthalmology,Delaware,No,2,3.711,Initial stage,NO,Middle level,High
+980,40,Complete traumatic transmetacarpal amputation of unsp hand,5/25/2024,8/7/2024,90,Male,49.4,Pamidronate Disodium,5195,General Medicine,Maine,No,10,4.124,High level,Yes,Initial stage,Extreme
+981,31,Other specified diseases of stomach and duodenum,5/6/2024,1/15/2025,17,Male,91.5,Sodium Nitrite and Sodium Thiosulfate,8976,Neurology,South Carolina,No,9,4.067,Initial stage,NO,Initial stage,High
+982,91,"War operations involving firearms pellets, milt",11/18/2024,1/12/2025,22,Female,275,Naproxen,6600,Orthopedics,Montana,Yes,1,3.435,Middle level,NO,Middle level,Severe
+983,48,Open bite of right ring finger without damage to nail,12/19/2024,3/4/2024,47,Male,268.1,Oxygen,4871,Orthopedics,Oregon,Yes,9,4.467,Initial stage,NO,Middle level,Extreme
+984,93,"Ischiocapsular ligament sprain of unsp hip, init encntr",12/19/2024,5/2/2024,41,Female,67.1,"Borax, Carbo Vegetabilis, Carboneum Sulphuratum, Causticum, Natrum Muriaticum, Silicea",8685,Ophthalmology,Oregon,No,8,2.236,High level,Yes,High level,Low
+985,99,"Laceration without foreign body of unsp hand, init encntr",7/13/2024,11/17/2024,78,Agender,81.9,diltiazem hydrochloride,5870,Orthopedics,South Carolina,No,10,2.382,Initial stage,NO,Initial stage,Severe
+986,16,Person outside special industrial vehicle injured nontraf,8/22/2024,3/2/2025,85,Polygender,206.1,Blueberry,746,Cardiology,Delaware,Yes,6,3.464,Initial stage,Yes,Initial stage,Severe
+987,87,"Unsp fx the lower end unsp rad, subs for clos fx w malunion",8/11/2024,8/21/2024,4,Female,223.2,Diphenhydramine Hydrochloride and Zinc Acetate,8267,Oncology,Montana,No,10,4.443,High level,NO,High level,Severe
+988,93,"Disp fx of neck of scapula, left shoulder, init for opn fx",3/26/2024,6/16/2024,47,Female,109.1,Gabapentin,5267,Cardiology,Montana,No,3,3.835,High level,Yes,Middle level,Severe
+989,92,"Maternal care for oth abnlt of pelvic organs, first tri",5/19/2024,6/5/2024,48,Female,129.8,benzonatate,8134,Cardiology,Nevada,No,5,2.967,Initial stage,Yes,High level,Severe
+990,68,"Disp fx of med condyle of l tibia, 7thC",5/15/2024,3/2/2025,40,Female,164.1,lubiprostone,9633,Neurology,Arizona,Yes,7,2.175,High level,NO,Middle level,Severe
+991,36,"Unspecified fracture of shaft of unspecified ulna, sequela",6/29/2024,12/19/2024,64,Male,161.9,OXYGEN,8655,Orthopedics,Maine,Yes,2,3.027,Middle level,Yes,Initial stage,High
+992,8,"Mid-cervical disc disorder, unspecified",3/2/2025,2/24/2025,25,Female,197.6,Homosalate,9980,Orthopedics,Nevada,Yes,1,3.029,Initial stage,NO,High level,Low
+993,64,Unsp injury of intrinsic musc/fasc/tend thmb at wrs/hnd lv,11/10/2024,6/12/2024,59,Female,95.1,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",1248,Orthopedics,Kentucky,Yes,8,3.513,Initial stage,Yes,Initial stage,Severe
+994,45,"Advrs effect of insulin and oral hypoglycemic drugs, sequela",3/31/2024,11/5/2024,50,Female,83.1,GLYCERIN,6798,Pediatrics,Kentucky,Yes,7,2.667,Initial stage,NO,Middle level,Extreme
+995,51,Carcinoma in situ of other urinary organs,1/29/2025,6/26/2024,40,Bigender,160.2,PREDNISOLONE SODIUM PHOSPHATE,7232,Neurology,South Carolina,No,9,2.976,Middle level,NO,High level,Moderate
+996,33,"Nondisp fx of trapezoid, left wrist, subs for fx w nonunion",2/28/2025,8/4/2024,21,Female,263.7,pioglitazone and glimepiride,7585,Neurology,Delaware,No,5,2.313,Middle level,NO,Middle level,Moderate
+997,4,"Anterior scleritis, bilateral",4/11/2024,8/6/2024,95,Female,105.2,Hydrochlorothiazide,8016,Orthopedics,Arizona,Yes,6,2.789,Initial stage,NO,High level,Low
+998,88,"Open bite of left little finger with damage to nail, sequela",3/10/2024,5/12/2024,66,Male,166.9,urea,9610,General Medicine,Montana,No,4,2.459,Initial stage,NO,Initial stage,Moderate
+999,11,"Corrosion of third degree of back of right hand, init encntr",4/9/2024,12/16/2024,30,Female,96.3,Glycerin,9723,Cardiology,South Carolina,No,4,2.169,Middle level,Yes,Initial stage,Moderate
+1000,17,"Nondisp fx of dist phalanx of r lit fngr, 7thD",1/8/2025,11/9/2024,70,Female,217.2,Nystatin,1362,Pediatrics,South Carolina,No,7,2.467,Initial stage,NO,Initial stage,High
