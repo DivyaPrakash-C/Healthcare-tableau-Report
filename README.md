@@ -1,6 +1,6 @@
 # Real-Time Healthcare Tableau Report
 
-This project is a real-time **interactive healthcare dashboard** built using **Tableau**. It visualizes and analyzes various key metrics related to patient treatment, satisfaction, department costs, and readmission data.
+This project is a real-time **interactive healthcare dashboard** built using **Tableau**. It visualizes and analyzes various key metrics related to patient treatment, satisfaction, department costs, and readmission data. And the data is collected using mockaroo.
 
 ![Healthcare Dashboard](healthcare%20tableau%20report.jpg)
 
@@ -16,6 +16,7 @@ This project is a real-time **interactive healthcare dashboard** built using **T
   - Age-based Filtering (Top 15 between age 20–50)
   - Department-wise Average Treatment Cost
   - Readmission Status Count
+  - Also included the story telling 
 
 ## 📊 Key Insights
 
